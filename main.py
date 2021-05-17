@@ -27,10 +27,12 @@ client = FirstCrowdinClient()
 file_list=client.source_files.list_files(project_id,limit=500)
 progress={}
 slug_name={}
+slug_id={}
 print("Translated percentage:")
 for iiii in curseforge_result:
     curseforge_mod_slug_list.append(iiii["slug"])
     slug_name[iiii["slug"]]=iiii["name"]
+    slug_id[iiii["slug"]]=iiii["id"]
 for iiiii in file_list["data"]:
     filepath=iiiii["data"]["path"]
     fileprogress=client.translation_status.get_directory_progress(project_id,iiiii["data"]["directoryId"])
@@ -39,6 +41,7 @@ for iiiii in file_list["data"]:
             print(iiiiii)
             progress[iiiiii]=fileprogress["data"][0]["data"]["translationProgress"]
             progress[slug_name[iiiiii]] = fileprogress["data"][0]["data"]["translationProgress"]
+            progress[slug_id[iiiiii]] = fileprogress["data"][0]["data"]["translationProgress"]
 with open("progress.txt","w")as pf:
     pf.write(str(json.dumps(progress,indent = None)))
 b=client.translations.export_project_translation(project_id,"zh-TW",format=ExportProjectTranslationFormat.ANDROID)
@@ -55,6 +58,7 @@ for i in all_data:
             print(ii)
             mod_list.append(ii)
             mod_list.append(slug_name[ii])
+            mod_list.append(slug_id[ii])
 with open("supported_mod.txt","w") as f:
     f.write(",".join(mod_list))
 os.remove("RPMTW.xml")
