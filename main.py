@@ -9,9 +9,7 @@ from crowdin_api.api_resources import StoragesResource
 from crowdin_api.api_resources.enums import ExportProjectTranslationFormat
 
 project_id = 442446
-with open("token.txt","r") as token_file:
-    token=token_file.read()
-
+token=os.environ['TOKEN']
 header = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36'}
 with open('config.json') as json_config:
