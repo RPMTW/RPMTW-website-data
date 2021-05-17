@@ -58,9 +58,9 @@ for i in all_data:
             print(ii)
             mod_list.append(ii)
             mod_list.append(slug_name[ii])
-            mod_list.append(slug_id[ii])
+            mod_list.append(str(slug_id[ii]))
 with open("supported_mod.txt","w") as f:
-    f.write(",".join(str(mod_list)))
+    f.write(",".join(mod_list))
 os.remove("RPMTW.xml")
 #print(mod_list)
 #print(progress)
