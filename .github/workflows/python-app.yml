@@ -23,7 +23,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install flake8 bs4 lxml crowdin-api-client requests wget
-        python main.py
+        python ../main.py
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names
