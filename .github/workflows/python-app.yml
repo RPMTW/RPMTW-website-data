@@ -33,4 +33,4 @@ jobs:
       run: |
         python main.py
       env:
-        TOKEN: ${{ TOKEN.TOKEN }}
+        TOKEN: ${{ secrets.TOKEN }}
