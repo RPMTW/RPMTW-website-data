@@ -34,10 +34,21 @@ jobs:
         python main.py
       env:
         TOKEN: ${{ secrets.TOKEN }}
-    - name: Save file
-      uses: actions/upload-artifact@v2
+    - name: Commit files
+      id: commit
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "github-actions"
+        git add --all
+        if [-z "$(git status --porcelain)"]; then
+           echo "::set-output name=push::false"
+        else
+           git commit -m "Add changes" -a
+           echo "::set-output name=push::true"
+        fi
+      shell: bash
+    - name: Push changes
+      if: steps.commit.outputs.push == 'true'
+      uses: ad-m/github-push-action@master
       with:
-        name: output
-        path: |
-          supported_mod.txt
-          progress.txt
+         github_token: ${{ secrets.TOKENGIT }}
