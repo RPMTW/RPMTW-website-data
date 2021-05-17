@@ -34,3 +34,10 @@ jobs:
         python main.py
       env:
         TOKEN: ${{ secrets.TOKEN }}
+    - name: Save file
+      uses: actions/upload-artifact@v2
+      with:
+        name: output
+        path: |
+          supported_mod.txt
+          progress.txt
