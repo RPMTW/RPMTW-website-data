@@ -5,6 +5,7 @@ import requests
 import wget
 from bs4 import BeautifulSoup as bs
 from crowdin_api import CrowdinClient
+from crowdin_api.api_resources import StoragesResource
 from crowdin_api.api_resources.enums import ExportProjectTranslationFormat
 
 project_id = 442446
@@ -25,12 +26,26 @@ class FirstCrowdinClient(CrowdinClient):
 mod_list=[]
 curseforge_mod_slug_list=[]
 client = FirstCrowdinClient()
-#projects = client.projects.get_project(project_id)
-#progress = client.translation_status.get_project_progress(project_id, ["zh-TW"])
+file_list=client.source_files.list_files(project_id,limit=500)
+progress={}
+slug_name={}
+print("Translated percentage:")
+for iiii in curseforge_result:
+    curseforge_mod_slug_list.append(iiii["slug"])
+    slug_name[iiii["slug"]]=iiii["name"]
+for iiiii in file_list["data"]:
+    filepath=iiiii["data"]["path"]
+    fileprogress=client.translation_status.get_directory_progress(project_id,iiiii["data"]["directoryId"])
+    for iiiiii in filepath.split("/"):
+        if iiiiii in curseforge_mod_slug_list:
+            print(iiiiii)
+            progress[iiiiii]=fileprogress["data"][0]["data"]["translationProgress"]
+            progress[slug_name[iiiiii]] = fileprogress["data"][0]["data"]["translationProgress"]
+with open("progress.txt","w")as pf:
+    pf.write(str(json.dumps(progress,indent = None)))
 b=client.translations.export_project_translation(project_id,"zh-TW",format=ExportProjectTranslationFormat.ANDROID)
+print("Translated percentage:")
 wget.download(b["data"]["url"])
-for iii in curseforge_result:
-    curseforge_mod_slug_list.append(iii["slug"])
 with open("RPMTW.xml", "r") as file:
     content = file.readlines()
     content = "".join(content)
@@ -39,12 +54,11 @@ all_data = bs_.find_all("string")
 for i in all_data:
     for ii in i["name"].split("."):
         if ii in curseforge_mod_slug_list and ii not in mod_list:
+            print(ii)
             mod_list.append(ii)
-            for iii in curseforge_result:
-                if iii["slug"]==ii:
-                    mod_list.append(iii["name"])
+            mod_list.append(slug_name[ii])
 with open("supported_mod.txt","w") as f:
     f.write(",".join(mod_list))
 os.remove("RPMTW.xml")
-print(mod_list)
+#print(mod_list)
 #print(progress)
