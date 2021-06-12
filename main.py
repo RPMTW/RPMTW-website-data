@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup as bs
 from crowdin_api import CrowdinClient
 from crowdin_api.api_resources import StoragesResource
 from crowdin_api.api_resources.enums import ExportProjectTranslationFormat
-
+from crowdin_api.exceptions import NotFound
 project_id = 442446
 token=os.environ['TOKEN']
 header = {
@@ -35,13 +35,16 @@ for iiii in curseforge_result:
     slug_id[iiii["slug"]]=iiii["id"]
 for iiiii in file_list["data"]:
     filepath=iiiii["data"]["path"]
-    fileprogress=client.translation_status.get_directory_progress(project_id,iiiii["data"]["directoryId"])
-    for iiiiii in filepath.split("/"):
-        if iiiiii in curseforge_mod_slug_list:
-            print(iiiiii)
-            progress[iiiiii]=fileprogress["data"][0]["data"]["translationProgress"]
-            progress[slug_name[iiiiii]] = fileprogress["data"][0]["data"]["translationProgress"]
-            progress[slug_id[iiiiii]] = fileprogress["data"][0]["data"]["translationProgress"]
+    try:
+        fileprogress=client.translation_status.get_directory_progress(project_id,iiiii["data"]["directoryId"])
+        for iiiiii in filepath.split("/"):
+            if iiiiii in curseforge_mod_slug_list:
+                print(iiiiii)
+                progress[iiiiii]=fileprogress["data"][0]["data"]["translationProgress"]
+                progress[slug_name[iiiiii]] = fileprogress["data"][0]["data"]["translationProgress"]
+                progress[slug_id[iiiiii]] = fileprogress["data"][0]["data"]["translationProgress"]
+    except NotFound:
+        print("Non-dir")
 with open("progress.txt","w")as pf:
     pf.write(str(json.dumps(progress,indent = None)))
 b=client.translations.export_project_translation(project_id,"zh-TW",format=ExportProjectTranslationFormat.ANDROID)
