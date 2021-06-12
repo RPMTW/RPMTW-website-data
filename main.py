@@ -45,6 +45,8 @@ for iiiii in file_list["data"]:
                 progress[slug_id[iiiiii]] = fileprogress["data"][0]["data"]["translationProgress"]
     except NotFound:
         print("Non-dir")
+    except Exception as e:
+        print("Unexpected error:"+e)
 with open("progress.txt","w")as pf:
     pf.write(str(json.dumps(progress,indent = None)))
 b=client.translations.export_project_translation(project_id,"zh-TW",format=ExportProjectTranslationFormat.ANDROID)
