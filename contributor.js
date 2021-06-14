@@ -4,21 +4,17 @@ const Request = require("request");
 const path = require("path");
 const fs = require("fs");
 
-let userName = []
-let word = []
-let Voted = []
-
 let date = new Date();
 const body = {
     "name": "top-members",
     "schema":
-        {
-            "unit": "words",
-            "languageId": "zh-TW",
-            "format": "csv",
-            "dateFrom": `${date.getFullYear()}-${(date.getMonth() - 1 < 10 ? '0' + (date.getMonth()) : (date.getMonth()))}-${date.getDate() < 10 ? '0' + date.getDate() : date.getDate()}T00:00:00+00:00`,
-            "dateTo": `${date.getFullYear()}-${(date.getMonth() < 10 ? '0' + (date.getMonth() + 1) : (date.getMonth() + 1))}-${date.getDate() < 10 ? '0' + date.getDate() : date.getDate()}T00:00:00+00:00`
-        }
+    {
+        "unit": "words",
+        "languageId": "zh-TW",
+        "format": "json",
+        "dateFrom": `${date.getFullYear()}-${(date.getMonth() - 1 < 10 ? '0' + (date.getMonth()) : (date.getMonth()))}-${date.getDate() < 10 ? '0' + date.getDate() : date.getDate()}T00:00:00+00:00`,
+        "dateTo": `${date.getFullYear()}-${(date.getMonth() < 10 ? '0' + (date.getMonth() + 1) : (date.getMonth() + 1))}-${date.getDate() < 10 ? '0' + date.getDate() : date.getDate()}T00:00:00+00:00`
+    }
 }
 fetch("https://api.crowdin.com/api/v2/projects/442446/reports", {
     method: "post",
@@ -50,35 +46,13 @@ function Run(json) {
                     }).then(res => res.json())
                         .then(json => {
                             console.log("取得報告成功，正在開始下載報告")
-                            let stream = fs.createWriteStream(path.join("./opt.csv"));
+                            let stream = fs.createWriteStream(path.join("./opt.json"));
                             Request(json.data.url).pipe(stream).on("close", function (err) {
-                                    if (err) {
-                                        return console.log("下載時發生未知錯誤: " + err);
-                                    }
-                                    fs.createReadStream('./opt.csv')
-                                        .pipe(csv.parse())
-                                        .on('error', error => console.error(error))
-                                        .on('data', row => {
-                                            userName = userName.concat(row[0]);
-                                            word = word.concat(row[2]);
-                                            Voted = Voted.concat(row[4]);
-                                            console.log(`翻譯貢獻者名稱: ${row[0]} 翻譯字數: ${row[2]} 投票次數: ${row[4]}`);
-                                        })
-                                        .on('end', rowCount => {
-                                            console.log(`處理完成，共有 ${rowCount - 1} 個翻譯貢獻者，正在寫入檔案...`)
-                                            let data = {
-                                                userName: userName,
-                                                word: word,
-                                                Voted: Voted
-                                            }
-                                            fs.writeFile(`./opt.json`, JSON.stringify(data, 4, null), function (err) {
-                                                if (err) {
-                                                    return console.log("寫入檔案時，發生未知錯誤");
-                                                }
-                                                console.log("成功寫入，腳本執行完畢。")
-                                            })
-                                        });
+                                if (err) {
+                                    return console.log("下載時發生未知錯誤: " + err);
                                 }
+                                console.log("報告下載完成，程式結束處理！")
+                            }
                             )
                         });
                     return console.log(json.data.identifier)
