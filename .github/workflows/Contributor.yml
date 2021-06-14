@@ -28,21 +28,15 @@ jobs:
     - run: |
        npm i
        node contributor.js 
-    - name: Commit files
-      id: commit
+    - name: "提交檔案"
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "github-actions"
-        git add --all
-        if [-z "$(git status --porcelain)"]; then
-           echo "::set-output name=push::false"
-        else
-           git commit -m "Add changes" -a
-           echo "::set-output name=push::true"
-        fi
-      shell: bash
-    - name: Push changes
-      if: steps.commit.outputs.push == 'true'
+          git config --global user.email "rpmtw666@gmail.com.com"
+          git config --global user.name "翻譯貢獻者更新機器人"
+          git add ./opt.json
+          git commit -m "更新翻譯貢獻者數據"
+        
+    - name: "推送變更"
       uses: ad-m/github-push-action@master
       with:
-         github_token: ${{ secrets.TOKENGIT }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
