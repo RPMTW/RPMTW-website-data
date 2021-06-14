@@ -4,6 +4,8 @@
 name: Get Contributor List
 
 on:
+  push:
+    branches: [ main ]
   schedule:
   - cron: "*/60 * * * *"
   
