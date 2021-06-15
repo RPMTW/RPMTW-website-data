@@ -3,12 +3,12 @@
 
 name: Get data
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  schedule:
-  - cron: "*/30 * * * *"
+  # push:
+  #   branches: [ main ]
+  # pull_request:
+  #   branches: [ main ]
+  # schedule:
+  # - cron: "*/30 * * * *"
 
 
 jobs:
