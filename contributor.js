@@ -13,7 +13,7 @@ const body = {
         "languageId": "zh-TW",
         "format": "json",
         "dateFrom": `${date.getFullYear()}-${(date.getMonth() - 1 < 10 ? '0' + (date.getMonth()) : (date.getMonth()))}-${date.getDate() < 10 ? '0' + date.getDate() : date.getDate()}T00:00:00+00:00`,
-        "dateTo": `${date.getFullYear()}-${(date.getMonth() < 10 ? '0' + (date.getMonth() + 1) : (date.getMonth() + 1))}-${date.getDate() < 10 ? '0' + date.getDate() : date.getDate()}T00:00:00+00:00`
+        "dateTo": `${date.getFullYear()}-${(date.getMonth() < 10 ? '0' + (date.getMonth() + 1) : (date.getMonth() + 1))}-${date.getDate() < 10 ? '0' + date.getDate() : date.getDate()}T${date.getHours() < 10 ? '0' + date.getHours() : date.getHours()}:00:00+00:00`
     }
 }
 fetch("https://api.crowdin.com/api/v2/projects/442446/reports", {
