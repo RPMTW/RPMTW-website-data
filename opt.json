@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-15T00:00:00+00:00",
-        "to": "2021-06-15T12:00:00+00:00"
+        "to": "2021-06-15T13:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 147161,
-            "target": 256636,
+            "translated": 147174,
+            "target": 256656,
             "approved": 1034,
             "voted": 0,
             "positiveVotes": 29,
@@ -113,8 +113,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 8918,
-            "target": 16582,
+            "translated": 8945,
+            "target": 16642,
             "approved": 0,
             "voted": 3,
             "positiveVotes": 3,
@@ -201,8 +201,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3386,
-            "target": 6283,
+            "translated": 3408,
+            "target": 6329,
             "approved": 0,
             "voted": 23,
             "positiveVotes": 8,
@@ -541,6 +541,28 @@
         },
         {
             "user": {
+                "id": "14800132",
+                "username": "waychen20030622",
+                "fullName": "2 H (waychen20030622)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14800132/medium/bad9f04ed160e8494bc56b8412b10eaa.png",
+                "joined": "2021-06-15 05:45:32"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 329,
+            "target": 548,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13104413",
                 "username": "yutayamamoto212",
                 "fullName": "陳裕太 (yutayamamoto212)",
@@ -599,28 +621,6 @@
             ],
             "translated": 298,
             "target": 525,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14800132",
-                "username": "waychen20030622",
-                "fullName": "2 H (waychen20030622)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14800132/medium/bad9f04ed160e8494bc56b8412b10eaa.png",
-                "joined": "2021-06-15 05:45:32"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 265,
-            "target": 451,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
