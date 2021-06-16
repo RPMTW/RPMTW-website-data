@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-16T00:00:00+00:00",
-        "to": "2021-06-16T07:00:00+00:00"
+        "to": "2021-06-16T08:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 148181,
-            "target": 257784,
+            "translated": 148235,
+            "target": 257887,
             "approved": 1046,
             "voted": 0,
             "positiveVotes": 29,
@@ -189,6 +189,28 @@
         },
         {
             "user": {
+                "id": "14652174",
+                "username": "StarskyXIII",
+                "fullName": "夜之星 (StarskyXIII)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14652174/medium/05e7de522a01874e1b13628295e0c205.jpg",
+                "joined": "2021-04-18 14:40:46"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3105,
+            "target": 5704,
+            "approved": 0,
+            "voted": 20,
+            "positiveVotes": 8,
+            "negativeVotes": 0,
+            "winning": 3
+        },
+        {
+            "user": {
                 "id": "14769360",
                 "username": "hank0425",
                 "fullName": "綸綸るんるん (hank0425)",
@@ -208,28 +230,6 @@
             "positiveVotes": 42,
             "negativeVotes": 0,
             "winning": 751
-        },
-        {
-            "user": {
-                "id": "14652174",
-                "username": "StarskyXIII",
-                "fullName": "夜之星 (StarskyXIII)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14652174/medium/05e7de522a01874e1b13628295e0c205.jpg",
-                "joined": "2021-04-18 14:40:46"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2897,
-            "target": 5389,
-            "approved": 0,
-            "voted": 20,
-            "positiveVotes": 8,
-            "negativeVotes": 0,
-            "winning": 3
         },
         {
             "user": {
