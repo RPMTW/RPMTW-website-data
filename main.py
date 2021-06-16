@@ -5,7 +5,6 @@ import requests
 import wget
 from bs4 import BeautifulSoup as bs
 from crowdin_api import CrowdinClient
-from crowdin_api.api_resources import StoragesResource
 from crowdin_api.api_resources.enums import ExportProjectTranslationFormat
 from crowdin_api.exceptions import NotFound
 
