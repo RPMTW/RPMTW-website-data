@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-17T00:00:00+00:00",
-        "to": "2021-06-17T08:00:00+00:00"
+        "to": "2021-06-17T09:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 211195,
-            "target": 371609,
+            "translated": 211229,
+            "target": 371672,
             "approved": 1051,
             "voted": 0,
             "positiveVotes": 22,
@@ -52,7 +52,7 @@
             "approved": 1405,
             "voted": 0,
             "positiveVotes": 4,
-            "negativeVotes": 25,
+            "negativeVotes": 26,
             "winning": 1090
         },
         {
@@ -201,10 +201,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3971,
-            "target": 6455,
+            "translated": 3995,
+            "target": 6502,
             "approved": 0,
-            "voted": 16,
+            "voted": 17,
             "positiveVotes": 1,
             "negativeVotes": 10,
             "winning": 11
@@ -673,6 +673,28 @@
         },
         {
             "user": {
+                "id": "13395892",
+                "username": "MarginalPerson",
+                "fullName": "默默無名邊緣人 (MarginalPerson)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13395892/medium/2ab4a287b993e055fd8e51ada0170787.jpg",
+                "joined": "2021-03-13 06:51:47"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 167,
+            "target": 265,
+            "approved": 0,
+            "voted": 7,
+            "positiveVotes": 9,
+            "negativeVotes": 0,
+            "winning": 37
+        },
+        {
+            "user": {
                 "id": "14760124",
                 "username": "sakuraice_kt",
                 "fullName": "Eason Liao (sakuraice_kt)",
@@ -1066,28 +1088,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
-        },
-        {
-            "user": {
-                "id": "13395892",
-                "username": "MarginalPerson",
-                "fullName": "默默無名邊緣人 (MarginalPerson)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13395892/medium/2ab4a287b993e055fd8e51ada0170787.jpg",
-                "joined": "2021-03-13 06:51:47"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 73,
-            "target": 128,
-            "approved": 0,
-            "voted": 7,
-            "positiveVotes": 9,
-            "negativeVotes": 0,
-            "winning": 37
         },
         {
             "user": {
