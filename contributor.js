@@ -1,5 +1,4 @@
 const fetch = require('node-fetch');
-const csv = require('@fast-csv/parse');
 const Request = require("request");
 const path = require("path");
 const fs = require("fs");
