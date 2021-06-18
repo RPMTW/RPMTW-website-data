@@ -33,9 +33,9 @@ jobs:
     - name: "提交檔案"
       run: |
           git config --global user.email "rpmtw666@gmail.com.com"
-          git config --global user.name "翻譯貢獻者更新機器人"
+          git config --global user.name "資料庫更新機器人"
           git add ./data
-          git commit -m "更新翻譯貢獻者數據"
+          git commit -m "更新網站資料庫"
         
     - name: "推送變更"
       uses: ad-m/github-push-action@master
