@@ -45,7 +45,10 @@ function Run(json) {
                     }).then(res => res.json())
                         .then(json => {
                             console.log("取得報告成功，正在開始下載報告")
-                            let stream = fs.createWriteStream(path.join("./opt.json"));
+                            if (!fs.existsSync("./data")) {
+                                fs.mkdirSync("./data");
+                            }
+                            let stream = fs.createWriteStream(path.join("./data/opt.json"));
                             Request(json.data.url).pipe(stream).on("close", function (err) {
                                 if (err) {
                                     return console.log("下載時發生未知錯誤: " + err);
