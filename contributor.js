@@ -20,7 +20,7 @@ fetch("https://api.crowdin.com/api/v2/projects/442446/reports", {
     method: "post",
     body: JSON.stringify(body),
     headers: {
-        "Authorization": "Bearer 8f5c5b1bcb8c7e7500a669338cc591f4a140f1ce0071ff17a8cd7e353c95be8ba502db352b2f6068",
+        "Authorization": `Bearer ${process.env.CrowdinToken}`,
         'Content-Type': 'application/json'
     },
 }).then(res => res.json())
@@ -33,7 +33,7 @@ function Run(json) {
         fetch(`https://api.crowdin.com/api/v2/projects/442446/reports/${json.data.identifier}`, {
             method: "get",
             headers: {
-                "Authorization": "Bearer 8f5c5b1bcb8c7e7500a669338cc591f4a140f1ce0071ff17a8cd7e353c95be8ba502db352b2f6068",
+                "Authorization": `Bearer ${process.env.CrowdinToken}`,
             },
         }).then(res => res.json())
             .then(json => {
@@ -41,7 +41,7 @@ function Run(json) {
                     fetch(`https://api.crowdin.com/api/v2/projects/442446/reports/${json.data.identifier}/download`, {
                         method: "get",
                         headers: {
-                            "Authorization": "Bearer 8f5c5b1bcb8c7e7500a669338cc591f4a140f1ce0071ff17a8cd7e353c95be8ba502db352b2f6068",
+                            "Authorization": `Bearer ${process.env.CrowdinToken}`,
                         },
                     }).then(res => res.json())
                         .then(json => {
