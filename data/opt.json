@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-19T00:00:00+00:00",
-        "to": "2021-06-19T06:00:00+00:00"
+        "to": "2021-06-19T07:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 215347,
-            "target": 378465,
+            "translated": 215401,
+            "target": 378550,
             "approved": 1051,
             "voted": 0,
             "positiveVotes": 19,
@@ -959,6 +959,28 @@
         },
         {
             "user": {
+                "id": "14183545",
+                "username": "skes103009",
+                "fullName": "hurnv (skes103009)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14183545/medium/3a5e6be79716214f0ce5398f8942ff9d.jpeg",
+                "joined": "2021-04-23 18:21:59"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 82,
+            "target": 134,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 7
+        },
+        {
+            "user": {
                 "id": "14786964",
                 "username": "n7051530",
                 "fullName": "雨落櫻風 (n7051530)",
@@ -1066,28 +1088,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
-        },
-        {
-            "user": {
-                "id": "14183545",
-                "username": "skes103009",
-                "fullName": "hurnv (skes103009)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14183545/medium/3a5e6be79716214f0ce5398f8942ff9d.jpeg",
-                "joined": "2021-04-23 18:21:59"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 49,
-            "target": 75,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 7
         },
         {
             "user": {
@@ -1688,7 +1688,7 @@
                 "id": "14803530",
                 "username": "popo91721",
                 "fullName": "popo91721",
-                "avatarUrl": "https://www.gravatar.com/avatar/8f7d96d8be7d47f7e4a31c8615de3fb5?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/8f7d96d8be7d47f7e4a31c8615de3fb5?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-06-17 10:12:02"
             },
             "languages": [
