@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-20T00:00:00+00:00",
-        "to": "2021-06-20T16:00:00+00:00"
+        "to": "2021-06-20T17:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -31,7 +31,7 @@
             "voted": 0,
             "positiveVotes": 19,
             "negativeVotes": 6,
-            "winning": 121
+            "winning": 123
         },
         {
             "user": {
@@ -47,13 +47,13 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 44973,
-            "target": 78224,
-            "approved": 2199,
+            "translated": 45105,
+            "target": 78549,
+            "approved": 2347,
             "voted": 0,
             "positiveVotes": 133,
             "negativeVotes": 22,
-            "winning": 1247
+            "winning": 1300
         },
         {
             "user": {
@@ -179,10 +179,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 5353,
-            "target": 9555,
+            "translated": 5526,
+            "target": 9952,
             "approved": 0,
-            "voted": 20,
+            "voted": 27,
             "positiveVotes": 8,
             "negativeVotes": 0,
             "winning": 3
@@ -497,6 +497,28 @@
         },
         {
             "user": {
+                "id": "14751082",
+                "username": "AnimefanXShotacon",
+                "fullName": "水祈里太 (AnimefanXShotacon)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14751082/medium/027dc884e9b8f1dfb3cea16b4558b033.jpeg",
+                "joined": "2021-05-11 10:00:18"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 285,
+            "target": 475,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14797842",
                 "username": "a102009102009",
                 "fullName": "侯寓升 (a102009102009)",
@@ -690,28 +712,6 @@
             "approved": 0,
             "voted": 1,
             "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14751082",
-                "username": "AnimefanXShotacon",
-                "fullName": "水祈里太 (AnimefanXShotacon)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14751082/medium/027dc884e9b8f1dfb3cea16b4558b033.jpeg",
-                "joined": "2021-05-11 10:00:18"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 143,
-            "target": 256,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
