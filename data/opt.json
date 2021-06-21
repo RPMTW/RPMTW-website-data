@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-21T00:00:00+00:00",
-        "to": "2021-06-21T08:00:00+00:00"
+        "to": "2021-06-21T09:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 203924,
-            "target": 357692,
+            "translated": 203969,
+            "target": 357752,
             "approved": 1106,
             "voted": 0,
             "positiveVotes": 19,
@@ -49,7 +49,7 @@
             ],
             "translated": 44668,
             "target": 77713,
-            "approved": 2338,
+            "approved": 2354,
             "voted": 0,
             "positiveVotes": 133,
             "negativeVotes": 22,
@@ -519,6 +519,28 @@
         },
         {
             "user": {
+                "id": "14739166",
+                "username": "kuhn184222",
+                "fullName": "Uli Hello (kuhn184222)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14739166/medium/1176684e7f31872ec7e3e54417bdebef.png",
+                "joined": "2021-05-05 08:52:33"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 246,
+            "target": 480,
+            "approved": 0,
+            "voted": 44,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14762514",
                 "username": "vv781211",
                 "fullName": "Bonnie (vv781211)",
@@ -535,28 +557,6 @@
             "target": 396,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14739166",
-                "username": "kuhn184222",
-                "fullName": "Uli Hello (kuhn184222)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14739166/medium/1176684e7f31872ec7e3e54417bdebef.png",
-                "joined": "2021-05-05 08:52:33"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 234,
-            "target": 456,
-            "approved": 0,
-            "voted": 32,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -1072,7 +1072,7 @@
                 "id": "14434570",
                 "username": "lamacat",
                 "fullName": "lamacat",
-                "avatarUrl": "https://www.gravatar.com/avatar/091a7fa80c8946b11412338bd1f89be4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/091a7fa80c8946b11412338bd1f89be4?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-05-06 09:14:54"
             },
             "languages": [
