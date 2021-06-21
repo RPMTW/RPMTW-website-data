@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-21T00:00:00+00:00",
-        "to": "2021-06-21T10:00:00+00:00"
+        "to": "2021-06-21T11:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -497,6 +497,28 @@
         },
         {
             "user": {
+                "id": "14739166",
+                "username": "kuhn184222",
+                "fullName": "Uli Hello (kuhn184222)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14739166/medium/1176684e7f31872ec7e3e54417bdebef.png",
+                "joined": "2021-05-05 08:52:33"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 268,
+            "target": 523,
+            "approved": 0,
+            "voted": 47,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14797842",
                 "username": "a102009102009",
                 "fullName": "侯寓升 (a102009102009)",
@@ -513,28 +535,6 @@
             "target": 403,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14739166",
-                "username": "kuhn184222",
-                "fullName": "Uli Hello (kuhn184222)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14739166/medium/1176684e7f31872ec7e3e54417bdebef.png",
-                "joined": "2021-05-05 08:52:33"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 261,
-            "target": 507,
-            "approved": 0,
-            "voted": 45,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
