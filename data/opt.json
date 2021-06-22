@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-22T00:00:00+00:00",
-        "to": "2021-06-22T04:00:00+00:00"
+        "to": "2021-06-22T05:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -673,6 +673,28 @@
         },
         {
             "user": {
+                "id": "14810392",
+                "username": "Gary14242",
+                "fullName": "Gary14242",
+                "avatarUrl": "https://www.gravatar.com/avatar/68b9b6cb626453bcb3a23ee5cdfe3449?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-06-21 21:10:36"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 152,
+            "target": 275,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14786912",
                 "username": "MirrorInLake",
                 "fullName": "MirrorInLake",
@@ -797,28 +819,6 @@
             ],
             "translated": 114,
             "target": 195,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14810392",
-                "username": "Gary14242",
-                "fullName": "Gary14242",
-                "avatarUrl": "https://www.gravatar.com/avatar/68b9b6cb626453bcb3a23ee5cdfe3449?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-06-21 21:10:36"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 105,
-            "target": 190,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
