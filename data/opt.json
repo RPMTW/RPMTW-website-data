@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-23T00:00:00+00:00",
-        "to": "2021-06-23T03:00:00+00:00"
+        "to": "2021-06-23T04:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,13 +25,13 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 185748,
-            "target": 328035,
-            "approved": 1080,
+            "translated": 188563,
+            "target": 333605,
+            "approved": 1086,
             "voted": 0,
             "positiveVotes": 18,
             "negativeVotes": 8,
-            "winning": 48
+            "winning": 51
         },
         {
             "user": {
@@ -179,13 +179,13 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 5513,
-            "target": 9928,
+            "translated": 5564,
+            "target": 10026,
             "approved": 0,
             "voted": 27,
             "positiveVotes": 8,
             "negativeVotes": 0,
-            "winning": 3
+            "winning": 6
         },
         {
             "user": {
@@ -333,8 +333,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1498,
-            "target": 2709,
+            "translated": 1514,
+            "target": 2740,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
@@ -1578,7 +1578,7 @@
                 "id": "14803530",
                 "username": "popo91721",
                 "fullName": "popo91721",
-                "avatarUrl": "https://www.gravatar.com/avatar/8f7d96d8be7d47f7e4a31c8615de3fb5?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/8f7d96d8be7d47f7e4a31c8615de3fb5?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-06-17 10:12:02"
             },
             "languages": [
