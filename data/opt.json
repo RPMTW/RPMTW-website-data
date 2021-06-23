@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-23T00:00:00+00:00",
-        "to": "2021-06-23T13:00:00+00:00"
+        "to": "2021-06-23T14:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -233,6 +233,28 @@
         },
         {
             "user": {
+                "id": "14810392",
+                "username": "Gary14242",
+                "fullName": "Gary14242",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14810392/medium/799ead00a1157032430e3c13ea1ea9cf.png",
+                "joined": "2021-06-21 21:10:36"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3014,
+            "target": 4956,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14769360",
                 "username": "hank0425",
                 "fullName": "綸綸るんるん (hank0425)",
@@ -252,28 +274,6 @@
             "positiveVotes": 42,
             "negativeVotes": 0,
             "winning": 751
-        },
-        {
-            "user": {
-                "id": "14810392",
-                "username": "Gary14242",
-                "fullName": "Gary14242",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14810392/medium/799ead00a1157032430e3c13ea1ea9cf.png",
-                "joined": "2021-06-21 21:10:36"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2939,
-            "target": 4845,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
         },
         {
             "user": {
