@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-24T00:00:00+00:00",
-        "to": "2021-06-24T02:00:00+00:00"
+        "to": "2021-06-24T03:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -871,6 +871,28 @@
         },
         {
             "user": {
+                "id": "14810544",
+                "username": "cheese_ge",
+                "fullName": "起司哥 (cheese_ge)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14810544/medium/b43f6445680731b0d36c93438fc3cbea.png",
+                "joined": "2021-06-22 01:19:57"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 101,
+            "target": 194,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14799270",
                 "username": "Sacred_Pandora",
                 "fullName": "落花憶夢丶月娜 (Sacred_Pandora)",
@@ -929,28 +951,6 @@
             ],
             "translated": 90,
             "target": 175,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14810544",
-                "username": "cheese_ge",
-                "fullName": "起司哥 (cheese_ge)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14810544/medium/b43f6445680731b0d36c93438fc3cbea.png",
-                "joined": "2021-06-22 01:19:57"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 82,
-            "target": 163,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
