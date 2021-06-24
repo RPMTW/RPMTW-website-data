@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-24T00:00:00+00:00",
-        "to": "2021-06-24T11:00:00+00:00"
+        "to": "2021-06-24T12:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -30,7 +30,7 @@
             "approved": 1093,
             "voted": 0,
             "positiveVotes": 18,
-            "negativeVotes": 7,
+            "negativeVotes": 8,
             "winning": 59
         },
         {
@@ -201,8 +201,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 4388,
-            "target": 7159,
+            "translated": 4443,
+            "target": 7270,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
@@ -937,6 +937,28 @@
         },
         {
             "user": {
+                "id": "12394484",
+                "username": "yasno123",
+                "fullName": "Milt0nn米爾頓 (yasno123)",
+                "avatarUrl": "https://www.gravatar.com/avatar/7dcdbeb20bffb7c7ecfdbc6159717a8c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-06-02 07:33:23"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 91,
+            "target": 177,
+            "approved": 0,
+            "voted": 9,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14792014",
                 "username": "Lucifinel",
                 "fullName": "Lucifinel",
@@ -1283,28 +1305,6 @@
             "target": 44,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "12394484",
-                "username": "yasno123",
-                "fullName": "Milt0nn米爾頓 (yasno123)",
-                "avatarUrl": "https://www.gravatar.com/avatar/7dcdbeb20bffb7c7ecfdbc6159717a8c?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-06-02 07:33:23"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 28,
-            "target": 71,
-            "approved": 0,
-            "voted": 8,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
