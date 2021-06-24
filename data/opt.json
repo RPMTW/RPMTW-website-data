@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-24T00:00:00+00:00",
-        "to": "2021-06-24T07:00:00+00:00"
+        "to": "2021-06-24T08:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 39780,
-            "target": 70276,
+            "translated": 40140,
+            "target": 70994,
             "approved": 1260,
             "voted": 0,
             "positiveVotes": 130,
@@ -189,6 +189,28 @@
         },
         {
             "user": {
+                "id": "14810392",
+                "username": "Gary14242",
+                "fullName": "Gary14242",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14810392/medium/799ead00a1157032430e3c13ea1ea9cf.png",
+                "joined": "2021-06-21 21:10:36"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4305,
+            "target": 7015,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14800132",
                 "username": "waychen20030622",
                 "fullName": "2 H (waychen20030622)",
@@ -205,28 +227,6 @@
             "target": 5785,
             "approved": 0,
             "voted": 5,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14810392",
-                "username": "Gary14242",
-                "fullName": "Gary14242",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14810392/medium/799ead00a1157032430e3c13ea1ea9cf.png",
-                "joined": "2021-06-21 21:10:36"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 4224,
-            "target": 6825,
-            "approved": 0,
-            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -1116,7 +1116,7 @@
                 "id": "14434570",
                 "username": "lamacat",
                 "fullName": "lamacat",
-                "avatarUrl": "https://www.gravatar.com/avatar/091a7fa80c8946b11412338bd1f89be4?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/091a7fa80c8946b11412338bd1f89be4?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-05-06 09:14:54"
             },
             "languages": [
