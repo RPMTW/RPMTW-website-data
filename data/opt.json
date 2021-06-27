@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-27T00:00:00+00:00",
-        "to": "2021-06-27T01:00:00+00:00"
+        "to": "2021-06-27T02:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -29,7 +29,7 @@
             "target": 318612,
             "approved": 1093,
             "voted": 0,
-            "positiveVotes": 16,
+            "positiveVotes": 17,
             "negativeVotes": 8,
             "winning": 59
         },
@@ -717,6 +717,28 @@
         },
         {
             "user": {
+                "id": "14308030",
+                "username": "ChocoMing",
+                "fullName": "巧克明 (ChocoMing)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14308030/medium/9aeac6b20adb2fdd95623d824640d8ef.png",
+                "joined": "2021-04-05 10:24:10"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 159,
+            "target": 227,
+            "approved": 0,
+            "voted": 2,
+            "positiveVotes": 1,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14800182",
                 "username": "yuzi010129",
                 "fullName": "zi shao yu (yuzi010129)",
@@ -783,28 +805,6 @@
         },
         {
             "user": {
-                "id": "14308030",
-                "username": "ChocoMing",
-                "fullName": "巧克明 (ChocoMing)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14308030/medium/9aeac6b20adb2fdd95623d824640d8ef.png",
-                "joined": "2021-04-05 10:24:10"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 146,
-            "target": 198,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13944863",
                 "username": "minecraft.kyle.train",
                 "fullName": "ChAoS - UnItY 阿祐 (minecraft.kyle.train)",
@@ -830,7 +830,7 @@
                 "id": "14814840",
                 "username": "markho",
                 "fullName": "markho",
-                "avatarUrl": "https://www.gravatar.com/avatar/0c1da398e0b3372ce6c1b034ece57290?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/0c1da398e0b3372ce6c1b034ece57290?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-06-25 05:11:03"
             },
             "languages": [
@@ -1578,7 +1578,7 @@
                 "id": "14803530",
                 "username": "popo91721",
                 "fullName": "popo91721",
-                "avatarUrl": "https://www.gravatar.com/avatar/8f7d96d8be7d47f7e4a31c8615de3fb5?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/8f7d96d8be7d47f7e4a31c8615de3fb5?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-06-17 10:12:02"
             },
             "languages": [
