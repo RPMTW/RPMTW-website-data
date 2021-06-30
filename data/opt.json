@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-05-30T00:00:00+00:00",
-        "to": "2021-06-30T03:00:00+00:00"
+        "to": "2021-06-30T04:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -223,8 +223,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1714,
-            "target": 2954,
+            "translated": 1990,
+            "target": 3400,
             "approved": 0,
             "voted": 13,
             "positiveVotes": 0,
@@ -1028,7 +1028,7 @@
                 "id": "14807356",
                 "username": "Godpig2406",
                 "fullName": "Godpig2406",
-                "avatarUrl": "https://www.gravatar.com/avatar/4d1c0f2622896f128db67945f74b2bd1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/4d1c0f2622896f128db67945f74b2bd1?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-06-19 17:38:04"
             },
             "languages": [
@@ -1223,6 +1223,28 @@
         },
         {
             "user": {
+                "id": "14819832",
+                "username": "FlySky",
+                "fullName": "FlySky",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14819832/medium/0fad629fdb46af44e83b179cce4089e0.png",
+                "joined": "2021-06-29 04:06:43"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 31,
+            "target": 61,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14782624",
                 "username": "forggy0113",
                 "fullName": "World Hello (forggy0113)",
@@ -1347,28 +1369,6 @@
             ],
             "translated": 23,
             "target": 34,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14819832",
-                "username": "FlySky",
-                "fullName": "FlySky",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14819832/medium/0fad629fdb46af44e83b179cce4089e0.png",
-                "joined": "2021-06-29 04:06:43"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 15,
-            "target": 31,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
