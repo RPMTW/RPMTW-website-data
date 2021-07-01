@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-01T00:00:00+00:00",
-        "to": "2021-07-01T02:00:00+00:00"
+        "to": "2021-07-01T03:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -233,6 +233,28 @@
         },
         {
             "user": {
+                "id": "14796570",
+                "username": "yekongyt",
+                "fullName": "夜空 (yekongyt)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14796570/medium/d9334ccba6a24a852f236f1deef93ac3.jpeg",
+                "joined": "2021-06-30 00:41:48"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1709,
+            "target": 2966,
+            "approved": 0,
+            "voted": 4,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14800052",
                 "username": "brubrubrubrubruh",
                 "fullName": "brubrubrubrubruh",
@@ -313,28 +335,6 @@
             ],
             "translated": 1357,
             "target": 2686,
-            "approved": 0,
-            "voted": 4,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14796570",
-                "username": "yekongyt",
-                "fullName": "夜空 (yekongyt)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14796570/medium/d9334ccba6a24a852f236f1deef93ac3.jpeg",
-                "joined": "2021-06-30 00:41:48"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1344,
-            "target": 2310,
             "approved": 0,
             "voted": 4,
             "positiveVotes": 0,
@@ -676,7 +676,7 @@
                 "id": "14623594",
                 "username": "command_music",
                 "fullName": "我是指音 (command_music)",
-                "avatarUrl": "https://www.gravatar.com/avatar/f1c10f17e8a0efb2b76b17a1e9aac322?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/f1c10f17e8a0efb2b76b17a1e9aac322?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-03-17 19:56:59"
             },
             "languages": [
@@ -1600,7 +1600,7 @@
                 "id": "14818264",
                 "username": "creepig0519",
                 "fullName": "creepig0519",
-                "avatarUrl": "https://www.gravatar.com/avatar/5fd4f70884a07a6d26d6037e9f159d67?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/5fd4f70884a07a6d26d6037e9f159d67?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-06-27 22:22:21"
             },
             "languages": [
