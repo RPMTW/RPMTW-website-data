@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-01T00:00:00+00:00",
-        "to": "2021-07-01T11:00:00+00:00"
+        "to": "2021-07-01T12:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,13 +25,13 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 186874,
-            "target": 331177,
-            "approved": 187,
+            "translated": 187505,
+            "target": 332245,
+            "approved": 215,
             "voted": 0,
             "positiveVotes": 17,
             "negativeVotes": 7,
-            "winning": 49
+            "winning": 65
         },
         {
             "user": {
@@ -141,7 +141,7 @@
             "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
-            "winning": 0
+            "winning": 12
         },
         {
             "user": {
@@ -245,8 +245,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2582,
-            "target": 4353,
+            "translated": 2824,
+            "target": 4751,
             "approved": 0,
             "voted": 4,
             "positiveVotes": 0,
@@ -409,6 +409,28 @@
         },
         {
             "user": {
+                "id": "14761086",
+                "username": "LenLuo",
+                "fullName": "嵐落 (LenLuo)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14761086/medium/971d959523975e3b0c254a6848e95b85.png",
+                "joined": "2021-05-17 12:03:38"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 756,
+            "target": 1220,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14785012",
                 "username": "HumanKuo",
                 "fullName": "HumanKuo",
@@ -447,28 +469,6 @@
             "target": 683,
             "approved": 0,
             "voted": 2,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14761086",
-                "username": "LenLuo",
-                "fullName": "嵐落 (LenLuo)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14761086/medium/971d959523975e3b0c254a6848e95b85.png",
-                "joined": "2021-05-17 12:03:38"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 416,
-            "target": 651,
-            "approved": 0,
-            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -717,28 +717,6 @@
         },
         {
             "user": {
-                "id": "14800182",
-                "username": "yuzi010129",
-                "fullName": "zi shao yu (yuzi010129)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14800182/medium/68744ced6784dffa51e935c0a1cad420.jpeg",
-                "joined": "2021-06-15 06:28:20"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 157,
-            "target": 270,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14796976",
                 "username": "misace000",
                 "fullName": "吳建昕 (misace000)",
@@ -753,6 +731,28 @@
             ],
             "translated": 157,
             "target": 248,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14800182",
+                "username": "yuzi010129",
+                "fullName": "zi shao yu (yuzi010129)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14800182/medium/68744ced6784dffa51e935c0a1cad420.jpeg",
+                "joined": "2021-06-15 06:28:20"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 157,
+            "target": 270,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
