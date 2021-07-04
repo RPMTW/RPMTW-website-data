@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-04T00:00:00+00:00",
-        "to": "2021-07-04T09:00:00+00:00"
+        "to": "2021-07-04T10:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -717,6 +717,28 @@
         },
         {
             "user": {
+                "id": "14786730",
+                "username": "hi_samson",
+                "fullName": "hi_samson",
+                "avatarUrl": "https://www.gravatar.com/avatar/244a4b16d3bee3e58dd9d97254872a7a?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-06-05 00:57:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 146,
+            "target": 258,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13944863",
                 "username": "minecraft.kyle.train",
                 "fullName": "ChAoS - UnItY 阿祐 (minecraft.kyle.train)",
@@ -907,28 +929,6 @@
             ],
             "translated": 90,
             "target": 175,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14786730",
-                "username": "hi_samson",
-                "fullName": "hi_samson",
-                "avatarUrl": "https://www.gravatar.com/avatar/244a4b16d3bee3e58dd9d97254872a7a?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-06-05 00:57:58"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 80,
-            "target": 146,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
