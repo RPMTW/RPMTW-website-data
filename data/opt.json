@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-06T00:00:00+00:00",
-        "to": "2021-07-06T16:00:00+00:00"
+        "to": "2021-07-06T17:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -113,8 +113,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 7543,
-            "target": 12670,
+            "translated": 7594,
+            "target": 12796,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
@@ -1267,6 +1267,28 @@
         },
         {
             "user": {
+                "id": "14794046",
+                "username": "s98021111",
+                "fullName": "熾鳳君 (s98021111)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14794046/medium/bc61d42d17b6afdd9733b192104eb93a.jpeg",
+                "joined": "2021-06-10 08:37:39"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 35,
+            "target": 113,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14644234",
                 "username": "1117jerry",
                 "fullName": "賓周 (1117jerry)",
@@ -1487,11 +1509,11 @@
         },
         {
             "user": {
-                "id": "14111233",
-                "username": "IllusionerBow",
-                "fullName": "IllusionerBow",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14111233/medium/bb817645f0a7832b298b420fea03ceaf.jpg",
-                "joined": "2021-06-10 07:32:25"
+                "id": "14774464",
+                "username": "baron7222",
+                "fullName": "謝旻恆 (baron7222)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14774464/medium/c00c6be2cdc260ee79e8207629eb689b.jpeg",
+                "joined": "2021-05-27 00:09:07"
             },
             "languages": [
                 {
@@ -1509,11 +1531,11 @@
         },
         {
             "user": {
-                "id": "14774464",
-                "username": "baron7222",
-                "fullName": "謝旻恆 (baron7222)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14774464/medium/c00c6be2cdc260ee79e8207629eb689b.jpeg",
-                "joined": "2021-05-27 00:09:07"
+                "id": "14111233",
+                "username": "IllusionerBow",
+                "fullName": "IllusionerBow",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14111233/medium/bb817645f0a7832b298b420fea03ceaf.jpg",
+                "joined": "2021-06-10 07:32:25"
             },
             "languages": [
                 {
@@ -1721,28 +1743,6 @@
             ],
             "translated": 3,
             "target": 7,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14794046",
-                "username": "s98021111",
-                "fullName": "熾鳳君 (s98021111)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14794046/medium/bc61d42d17b6afdd9733b192104eb93a.jpeg",
-                "joined": "2021-06-10 08:37:39"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3,
-            "target": 4,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
