@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-07T00:00:00+00:00",
-        "to": "2021-07-07T16:00:00+00:00"
+        "to": "2021-07-07T17:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -245,8 +245,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2660,
-            "target": 3722,
+            "translated": 2686,
+            "target": 3763,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -475,6 +475,28 @@
         },
         {
             "user": {
+                "id": "14803092",
+                "username": "Niels5473",
+                "fullName": "Niels5473",
+                "avatarUrl": "https://www.gravatar.com/avatar/a5e17b742815ae424d284fd908606cf5?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-06-17 05:39:38"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 331,
+            "target": 619,
+            "approved": 0,
+            "voted": 505,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13395892",
                 "username": "MarginalPerson",
                 "fullName": "默默無名邊緣人 (MarginalPerson)",
@@ -516,28 +538,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 1
-        },
-        {
-            "user": {
-                "id": "14803092",
-                "username": "Niels5473",
-                "fullName": "Niels5473",
-                "avatarUrl": "https://www.gravatar.com/avatar/a5e17b742815ae424d284fd908606cf5?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-06-17 05:39:38"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 290,
-            "target": 536,
-            "approved": 0,
-            "voted": 505,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
         },
         {
             "user": {
