@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-07T00:00:00+00:00",
-        "to": "2021-07-07T12:00:00+00:00"
+        "to": "2021-07-07T13:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -29,7 +29,7 @@
             "target": 326845,
             "approved": 332,
             "voted": 0,
-            "positiveVotes": 17,
+            "positiveVotes": 23,
             "negativeVotes": 7,
             "winning": 90
         },
@@ -927,10 +927,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 69,
-            "target": 113,
+            "translated": 83,
+            "target": 146,
             "approved": 0,
-            "voted": 129,
+            "voted": 135,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
