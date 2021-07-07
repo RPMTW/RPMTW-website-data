@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-07T00:00:00+00:00",
-        "to": "2021-07-07T15:00:00+00:00"
+        "to": "2021-07-07T16:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -246,7 +246,7 @@
                 }
             ],
             "translated": 2660,
-            "target": 3708,
+            "target": 3722,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -519,6 +519,28 @@
         },
         {
             "user": {
+                "id": "14803092",
+                "username": "Niels5473",
+                "fullName": "Niels5473",
+                "avatarUrl": "https://www.gravatar.com/avatar/a5e17b742815ae424d284fd908606cf5?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-06-17 05:39:38"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 290,
+            "target": 536,
+            "approved": 0,
+            "voted": 505,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14786730",
                 "username": "hi_samson",
                 "fullName": "hi_samson",
@@ -607,11 +629,11 @@
         },
         {
             "user": {
-                "id": "14803092",
-                "username": "Niels5473",
-                "fullName": "Niels5473",
-                "avatarUrl": "https://www.gravatar.com/avatar/a5e17b742815ae424d284fd908606cf5?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-06-17 05:39:38"
+                "id": "14623594",
+                "username": "command_music",
+                "fullName": "我是指音 (command_music)",
+                "avatarUrl": "https://www.gravatar.com/avatar/f1c10f17e8a0efb2b76b17a1e9aac322?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-03-17 19:56:59"
             },
             "languages": [
                 {
@@ -619,10 +641,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 224,
-            "target": 422,
+            "translated": 172,
+            "target": 273,
             "approved": 0,
-            "voted": 505,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -647,28 +669,6 @@
             "voted": 2,
             "positiveVotes": 11,
             "negativeVotes": 3,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14623594",
-                "username": "command_music",
-                "fullName": "我是指音 (command_music)",
-                "avatarUrl": "https://www.gravatar.com/avatar/f1c10f17e8a0efb2b76b17a1e9aac322?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-03-17 19:56:59"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 172,
-            "target": 273,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
             "winning": 0
         },
         {
