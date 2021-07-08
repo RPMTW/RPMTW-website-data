@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-08T00:00:00+00:00",
-        "to": "2021-07-08T08:00:00+00:00"
+        "to": "2021-07-08T09:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -421,8 +421,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 600,
-            "target": 952,
+            "translated": 602,
+            "target": 957,
             "approved": 0,
             "voted": 23,
             "positiveVotes": 2,
@@ -509,10 +509,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 311,
-            "target": 458,
+            "translated": 321,
+            "target": 480,
             "approved": 0,
-            "voted": 6,
+            "voted": 28,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 70
@@ -607,6 +607,28 @@
         },
         {
             "user": {
+                "id": "14794046",
+                "username": "s98021111",
+                "fullName": "熾鳳君 (s98021111)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14794046/medium/bc61d42d17b6afdd9733b192104eb93a.jpeg",
+                "joined": "2021-06-10 08:37:39"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 240,
+            "target": 492,
+            "approved": 0,
+            "voted": 2,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14815244",
                 "username": "Nanamiya738",
                 "fullName": "Nanamiya738",
@@ -623,28 +645,6 @@
             "target": 387,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14794046",
-                "username": "s98021111",
-                "fullName": "熾鳳君 (s98021111)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14794046/medium/bc61d42d17b6afdd9733b192104eb93a.jpeg",
-                "joined": "2021-06-10 08:37:39"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 211,
-            "target": 437,
-            "approved": 0,
-            "voted": 2,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
