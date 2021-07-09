@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-09T00:00:00+00:00",
-        "to": "2021-07-09T06:00:00+00:00"
+        "to": "2021-07-09T07:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,9 +25,9 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 171032,
-            "target": 304015,
-            "approved": 508,
+            "translated": 173455,
+            "target": 307996,
+            "approved": 520,
             "voted": 0,
             "positiveVotes": 23,
             "negativeVotes": 7,
@@ -91,8 +91,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 8838,
-            "target": 15849,
+            "translated": 8965,
+            "target": 16119,
             "approved": 0,
             "voted": 2,
             "positiveVotes": 0,
@@ -245,8 +245,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3332,
-            "target": 4759,
+            "translated": 3522,
+            "target": 5055,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
@@ -289,8 +289,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1786,
-            "target": 2849,
+            "translated": 1894,
+            "target": 3023,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -867,7 +867,7 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
-            "winning": 0
+            "winning": 12
         },
         {
             "user": {
@@ -959,6 +959,28 @@
         },
         {
             "user": {
+                "id": "14767678",
+                "username": "kuanTW",
+                "fullName": "寬kuan (kuanTW)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14767678/medium/e055fa8c78636010edb6a7780b56d6c0.png",
+                "joined": "2021-05-22 00:07:56"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 62,
+            "target": 134,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14820114",
                 "username": "Jtwone",
                 "fullName": "Jtwone",
@@ -995,28 +1017,6 @@
             ],
             "translated": 56,
             "target": 97,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14767678",
-                "username": "kuanTW",
-                "fullName": "寬kuan (kuanTW)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14767678/medium/e055fa8c78636010edb6a7780b56d6c0.png",
-                "joined": "2021-05-22 00:07:56"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 56,
-            "target": 114,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
