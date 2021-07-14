@@ -36,7 +36,7 @@ jobs:
       run: |
         python main.py
       env:
-        TOKEN: ${{ secrets.TOKEN }}
+        TOKEN: ${{ secrets.CROWDINTOKEN }}
     - name: Commit files
       id: commit
       run: |
