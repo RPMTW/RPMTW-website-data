@@ -5,8 +5,8 @@ from crowdin_api import CrowdinClient
 from crowdin_api.exceptions import NotFound
 
 project_id = 442446
-# token = os.environ['TOKEN']
-token = "5a1be4e807d52e890764a641b81c694b73e94c5dce47a172f1ead0a591694a0a7cfb3212a4dfeaa1"
+token = os.environ['TOKEN']
+#token = "5a1be4e807d52e890764a641b81c694b73e94c5dce47a172f1ead0a591694a0a7cfb3212a4dfeaa1"
 header = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36'}
 with open('config.json') as json_config:
