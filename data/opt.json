@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-17T00:00:00+00:00",
-        "to": "2021-07-17T09:00:00+00:00"
+        "to": "2021-07-17T10:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -318,6 +318,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 53
+        },
+        {
+            "user": {
+                "id": "14775262",
+                "username": "qazwert160",
+                "fullName": "拉拉 (qazwert160)",
+                "avatarUrl": "https://www.gravatar.com/avatar/ef8c7958e3a37d12491b4b84bd8ceb72?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-05-27 11:47:08"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 349,
+            "target": 531,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
         },
         {
             "user": {
@@ -665,28 +687,6 @@
             ],
             "translated": 88,
             "target": 179,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14775262",
-                "username": "qazwert160",
-                "fullName": "拉拉 (qazwert160)",
-                "avatarUrl": "https://www.gravatar.com/avatar/ef8c7958e3a37d12491b4b84bd8ceb72?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-05-27 11:47:08"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 65,
-            "target": 117,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
