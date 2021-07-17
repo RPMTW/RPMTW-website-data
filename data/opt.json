@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-17T00:00:00+00:00",
-        "to": "2021-07-17T05:00:00+00:00"
+        "to": "2021-07-17T06:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 74277,
-            "target": 128810,
+            "translated": 74990,
+            "target": 130027,
             "approved": 472,
             "voted": 0,
             "positiveVotes": 24,
@@ -949,8 +949,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 19,
-            "target": 41,
+            "translated": 26,
+            "target": 57,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -1091,6 +1091,28 @@
         },
         {
             "user": {
+                "id": "14771482",
+                "username": "leeuho16",
+                "fullName": "leeuho16",
+                "avatarUrl": "https://www.gravatar.com/avatar/eded5f4d26060de87cc161dc1531e655?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-05-24 23:38:43"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 9,
+            "target": 14,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14835056",
                 "username": "Tobyee94",
                 "fullName": "Tobyee94",
@@ -1149,28 +1171,6 @@
             ],
             "translated": 8,
             "target": 19,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14771482",
-                "username": "leeuho16",
-                "fullName": "leeuho16",
-                "avatarUrl": "https://www.gravatar.com/avatar/eded5f4d26060de87cc161dc1531e655?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-05-24 23:38:43"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 7,
-            "target": 11,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
