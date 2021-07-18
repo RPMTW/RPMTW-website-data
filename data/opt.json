@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-18T00:00:00+00:00",
-        "to": "2021-07-18T22:00:00+00:00"
+        "to": "2021-07-18T23:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -126,7 +126,7 @@
                 "id": "14708940",
                 "username": "catbabyp2",
                 "fullName": "catbabyp2",
-                "avatarUrl": "https://www.gravatar.com/avatar/c746be42a7ca82bacaeddecb5028da10?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/c746be42a7ca82bacaeddecb5028da10?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-04-12 14:25:01"
             },
             "languages": [
@@ -387,6 +387,28 @@
         },
         {
             "user": {
+                "id": "14821912",
+                "username": "momo021320",
+                "fullName": "プリン (momo021320)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14821912/medium/7934c6521693c7bb2c77e55b6c5d2299.jpeg",
+                "joined": "2021-06-30 13:42:00"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 289,
+            "target": 506,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14754262",
                 "username": "Linkinrock",
                 "fullName": "Linkinrock",
@@ -469,28 +491,6 @@
             "target": 506,
             "approved": 0,
             "voted": 47,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14821912",
-                "username": "momo021320",
-                "fullName": "プリン (momo021320)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14821912/medium/7934c6521693c7bb2c77e55b6c5d2299.jpeg",
-                "joined": "2021-06-30 13:42:00"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 242,
-            "target": 427,
-            "approved": 0,
-            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -1226,7 +1226,7 @@
                 "id": "14809306",
                 "username": "magicchick",
                 "fullName": "magicchick",
-                "avatarUrl": "https://www.gravatar.com/avatar/a8ecd1e3a26ec157dcb14a89039d8dbe?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/a8ecd1e3a26ec157dcb14a89039d8dbe?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-06-21 05:39:11"
             },
             "languages": [
@@ -1248,7 +1248,7 @@
                 "id": "14824558",
                 "username": "mkytap",
                 "fullName": "mkytap",
-                "avatarUrl": "https://www.gravatar.com/avatar/80abb28bc95f1d81c799c8fc014c0f3f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/80abb28bc95f1d81c799c8fc014c0f3f?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-07-02 10:51:40"
             },
             "languages": [
@@ -1402,7 +1402,7 @@
                 "id": "14285924",
                 "username": "VbbTesz",
                 "fullName": "VbbTesz",
-                "avatarUrl": "https://www.gravatar.com/avatar/4e5730aadcc81e87314037adb1a23a92?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/4e5730aadcc81e87314037adb1a23a92?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-07-13 02:45:02"
             },
             "languages": [
