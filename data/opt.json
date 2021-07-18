@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-18T00:00:00+00:00",
-        "to": "2021-07-18T10:00:00+00:00"
+        "to": "2021-07-18T11:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -1047,6 +1047,28 @@
         },
         {
             "user": {
+                "id": "14835204",
+                "username": "leter5103",
+                "fullName": "leter5103",
+                "avatarUrl": "https://www.gravatar.com/avatar/cf05c02aefe1b57ab49438d93a264963?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-11 05:29:26"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 11,
+            "target": 21,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14835056",
                 "username": "Tobyee94",
                 "fullName": "Tobyee94",
@@ -1267,11 +1289,11 @@
         },
         {
             "user": {
-                "id": "14804344",
-                "username": "cyy",
-                "fullName": "cyy",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14804344/medium/47cc5c1d4efbeef6afacf849ff868294.png",
-                "joined": "2021-06-17 20:36:02"
+                "id": "14285924",
+                "username": "VbbTesz",
+                "fullName": "VbbTesz",
+                "avatarUrl": "https://www.gravatar.com/avatar/4e5730aadcc81e87314037adb1a23a92?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-13 02:45:02"
             },
             "languages": [
                 {
@@ -1294,6 +1316,50 @@
                 "fullName": "YaJou Lo (alice792244)",
                 "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14817660/medium/376b818aaa0e98894d1d08d0d69a5585.jpeg",
                 "joined": "2021-06-27 11:08:46"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "12812188",
+                "username": "yuan357951",
+                "fullName": "Shang Yuan Chen (yuan357951)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/12812188/medium/0a799baff6afb82eb6e9e826b37e2088.jpg",
+                "joined": "2021-07-16 18:18:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 6,
+            "approved": 0,
+            "voted": 2,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14804344",
+                "username": "cyy",
+                "fullName": "cyy",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14804344/medium/47cc5c1d4efbeef6afacf849ff868294.png",
+                "joined": "2021-06-17 20:36:02"
             },
             "languages": [
                 {
@@ -1349,50 +1415,6 @@
             "target": 3,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14285924",
-                "username": "VbbTesz",
-                "fullName": "VbbTesz",
-                "avatarUrl": "https://www.gravatar.com/avatar/4e5730aadcc81e87314037adb1a23a92?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-07-13 02:45:02"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 4,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "12812188",
-                "username": "yuan357951",
-                "fullName": "Shang Yuan Chen (yuan357951)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/12812188/medium/0a799baff6afb82eb6e9e826b37e2088.jpg",
-                "joined": "2021-07-16 18:18:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 6,
-            "approved": 0,
-            "voted": 2,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
