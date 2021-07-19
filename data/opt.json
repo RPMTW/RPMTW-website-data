@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-19T00:00:00+00:00",
-        "to": "2021-07-19T09:00:00+00:00"
+        "to": "2021-07-19T10:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 79687,
-            "target": 139245,
+            "translated": 79701,
+            "target": 139275,
             "approved": 461,
             "voted": 0,
             "positiveVotes": 40,
@@ -541,6 +541,28 @@
         },
         {
             "user": {
+                "id": "14835204",
+                "username": "leter5103",
+                "fullName": "leter5103",
+                "avatarUrl": "https://www.gravatar.com/avatar/cf05c02aefe1b57ab49438d93a264963?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-11 05:29:26"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 233,
+            "target": 372,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14665926",
                 "username": "EvanHsieh0415",
                 "fullName": "EvanHsieh0415",
@@ -692,28 +714,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 12
-        },
-        {
-            "user": {
-                "id": "14835204",
-                "username": "leter5103",
-                "fullName": "leter5103",
-                "avatarUrl": "https://www.gravatar.com/avatar/cf05c02aefe1b57ab49438d93a264963?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-07-11 05:29:26"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 96,
-            "target": 166,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
         },
         {
             "user": {
@@ -1025,28 +1025,6 @@
         },
         {
             "user": {
-                "id": "14835056",
-                "username": "Tobyee94",
-                "fullName": "Tobyee94",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14835056/medium/e139c68c79dfe8ffeca00bc89f79c8e9.png",
-                "joined": "2021-07-11 01:05:54"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 9,
-            "target": 21,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14771482",
                 "username": "leeuho16",
                 "fullName": "leeuho16",
@@ -1061,6 +1039,28 @@
             ],
             "translated": 9,
             "target": 14,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14835056",
+                "username": "Tobyee94",
+                "fullName": "Tobyee94",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14835056/medium/e139c68c79dfe8ffeca00bc89f79c8e9.png",
+                "joined": "2021-07-11 01:05:54"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 9,
+            "target": 21,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
