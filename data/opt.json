@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-20T00:00:00+00:00",
-        "to": "2021-07-20T10:00:00+00:00"
+        "to": "2021-07-20T11:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -277,6 +277,28 @@
         },
         {
             "user": {
+                "id": "14835204",
+                "username": "leter5103",
+                "fullName": "leter5103",
+                "avatarUrl": "https://www.gravatar.com/avatar/cf05c02aefe1b57ab49438d93a264963?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-11 05:29:26"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 750,
+            "target": 1774,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14652174",
                 "username": "StarskyXIII",
                 "fullName": "夜之星 (StarskyXIII)",
@@ -296,28 +318,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 3
-        },
-        {
-            "user": {
-                "id": "14835204",
-                "username": "leter5103",
-                "fullName": "leter5103",
-                "avatarUrl": "https://www.gravatar.com/avatar/cf05c02aefe1b57ab49438d93a264963?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-07-11 05:29:26"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 483,
-            "target": 863,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
         },
         {
             "user": {
