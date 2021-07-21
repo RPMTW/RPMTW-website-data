@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-21T00:00:00+00:00",
-        "to": "2021-07-21T14:00:00+00:00"
+        "to": "2021-07-21T15:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 424900,
-            "target": 691227,
+            "translated": 454544,
+            "target": 738877,
             "approved": 436,
             "voted": 0,
             "positiveVotes": 95,
@@ -233,6 +233,28 @@
         },
         {
             "user": {
+                "id": "14808102",
+                "username": "ted09080037",
+                "fullName": "魏德瑜 (ted09080037)",
+                "avatarUrl": "https://www.gravatar.com/avatar/3962bb9cfc1ad329c485dba27fe91020?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-06-20 16:12:50"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1203,
+            "target": 2092,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14781074",
                 "username": "YFan610",
                 "fullName": "蔡ff (YFan610)",
@@ -384,28 +406,6 @@
             "positiveVotes": 2,
             "negativeVotes": 0,
             "winning": 3
-        },
-        {
-            "user": {
-                "id": "14808102",
-                "username": "ted09080037",
-                "fullName": "魏德瑜 (ted09080037)",
-                "avatarUrl": "https://www.gravatar.com/avatar/3962bb9cfc1ad329c485dba27fe91020?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-06-20 16:12:50"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 328,
-            "target": 538,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
         },
         {
             "user": {
@@ -852,7 +852,7 @@
                 "id": "14845882",
                 "username": "Reeee030",
                 "fullName": "Reeee030",
-                "avatarUrl": "https://www.gravatar.com/avatar/c2638116fe9d9bc0ea06bf34c8c8f914?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/c2638116fe9d9bc0ea06bf34c8c8f914?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-07-19 18:11:23"
             },
             "languages": [
