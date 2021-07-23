@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-23T00:00:00+00:00",
-        "to": "2021-07-23T02:00:00+00:00"
+        "to": "2021-07-23T03:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -277,6 +277,28 @@
         },
         {
             "user": {
+                "id": "14846146",
+                "username": "KuriPa",
+                "fullName": "Kuri Pa (KuriPa)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846146/medium/b9aa35d1001ce10bd78208c618e1f5f3.jpeg",
+                "joined": "2021-07-20 00:54:57"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1169,
+            "target": 1972,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14809104",
                 "username": "Hochy",
                 "fullName": "Hochy",
@@ -313,28 +335,6 @@
             ],
             "translated": 1087,
             "target": 1705,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14846146",
-                "username": "KuriPa",
-                "fullName": "Kuri Pa (KuriPa)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846146/medium/b9aa35d1001ce10bd78208c618e1f5f3.jpeg",
-                "joined": "2021-07-20 00:54:57"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1069,
-            "target": 1778,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -959,28 +959,6 @@
         },
         {
             "user": {
-                "id": "14813912",
-                "username": "dadslilmonster",
-                "fullName": "dadslilmonster",
-                "avatarUrl": "https://www.gravatar.com/avatar/adaafe176a72c57c65bd76cd12b77516?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-06-24 11:14:13"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 13,
-            "target": 21,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14649834",
                 "username": "Isaac0130",
                 "fullName": "Isaac0130",
@@ -995,6 +973,28 @@
             ],
             "translated": 13,
             "target": 26,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14813912",
+                "username": "dadslilmonster",
+                "fullName": "dadslilmonster",
+                "avatarUrl": "https://www.gravatar.com/avatar/adaafe176a72c57c65bd76cd12b77516?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-06-24 11:14:13"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 13,
+            "target": 21,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -1289,11 +1289,11 @@
         },
         {
             "user": {
-                "id": "14754294",
-                "username": "underline_ROC",
-                "fullName": "underline_ROC",
-                "avatarUrl": "https://www.gravatar.com/avatar/b66e214c130c0bc3fa744261ab256f9a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-05-13 08:42:29"
+                "id": "14755568",
+                "username": "ZombieEnderman",
+                "fullName": "ZombieEnderman",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14755568/medium/f69aa163142d5cbfc3ef2c710f11d6db.png",
+                "joined": "2021-05-14 04:10:09"
             },
             "languages": [
                 {
@@ -1302,7 +1302,7 @@
                 }
             ],
             "translated": 1,
-            "target": 2,
+            "target": 5,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -1355,11 +1355,11 @@
         },
         {
             "user": {
-                "id": "14755568",
-                "username": "ZombieEnderman",
-                "fullName": "ZombieEnderman",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14755568/medium/f69aa163142d5cbfc3ef2c710f11d6db.png",
-                "joined": "2021-05-14 04:10:09"
+                "id": "14754294",
+                "username": "underline_ROC",
+                "fullName": "underline_ROC",
+                "avatarUrl": "https://www.gravatar.com/avatar/b66e214c130c0bc3fa744261ab256f9a?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-05-13 08:42:29"
             },
             "languages": [
                 {
@@ -1368,7 +1368,7 @@
                 }
             ],
             "translated": 1,
-            "target": 5,
+            "target": 2,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -1377,20 +1377,20 @@
         },
         {
             "user": {
-                "id": "14800132",
-                "username": "waychen20030622",
-                "fullName": "2 H (waychen20030622)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14800132/medium/bad9f04ed160e8494bc56b8412b10eaa.png",
-                "joined": "2021-06-15 05:45:32"
+                "id": "14797824",
+                "username": "anton1130",
+                "fullName": "anton1130",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14797824/medium/a79d5a059db94e4b8ca979316228ab7e.jpeg",
+                "joined": "2021-06-13 10:02:56"
             },
             "languages": [],
             "translated": 0,
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
+            "positiveVotes": 1,
             "negativeVotes": 0,
-            "winning": 1
+            "winning": 0
         },
         {
             "user": {
@@ -1411,20 +1411,20 @@
         },
         {
             "user": {
-                "id": "14797824",
-                "username": "anton1130",
-                "fullName": "anton1130",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14797824/medium/a79d5a059db94e4b8ca979316228ab7e.jpeg",
-                "joined": "2021-06-13 10:02:56"
+                "id": "14800132",
+                "username": "waychen20030622",
+                "fullName": "2 H (waychen20030622)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14800132/medium/bad9f04ed160e8494bc56b8412b10eaa.png",
+                "joined": "2021-06-15 05:45:32"
             },
             "languages": [],
             "translated": 0,
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 1,
+            "positiveVotes": 0,
             "negativeVotes": 0,
-            "winning": 0
+            "winning": 1
         },
         {
             "user": {
