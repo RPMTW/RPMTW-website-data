@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-26T00:00:00+00:00",
-        "to": "2021-07-26T12:00:00+00:00"
+        "to": "2021-07-26T13:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -717,6 +717,28 @@
         },
         {
             "user": {
+                "id": "12954999",
+                "username": "__HJ",
+                "fullName": "__HJ",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/12954999/medium/5f7fa22c6a3f6b356a3a30e9bc590776.png",
+                "joined": "2021-04-08 05:25:04"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 101,
+            "target": 192,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14767678",
                 "username": "kuanTW",
                 "fullName": "寬kuan (kuanTW)",
@@ -929,28 +951,6 @@
             ],
             "translated": 17,
             "target": 31,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "12954999",
-                "username": "__HJ",
-                "fullName": "__HJ",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/12954999/medium/5f7fa22c6a3f6b356a3a30e9bc590776.png",
-                "joined": "2021-04-08 05:25:04"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 16,
-            "target": 23,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
