@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-26T00:00:00+00:00",
-        "to": "2021-07-26T09:00:00+00:00"
+        "to": "2021-07-26T10:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -387,6 +387,28 @@
         },
         {
             "user": {
+                "id": "14818404",
+                "username": "taiwanpeople",
+                "fullName": "taiwanpeople",
+                "avatarUrl": "https://www.gravatar.com/avatar/55dd2589bf9e2f763faa4acd78136c13?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-24 04:02:08"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 630,
+            "target": 1104,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14846650",
                 "username": "scott26265571",
                 "fullName": "戴宇辰 (scott26265571)",
@@ -453,11 +475,11 @@
         },
         {
             "user": {
-                "id": "14818404",
-                "username": "taiwanpeople",
-                "fullName": "taiwanpeople",
-                "avatarUrl": "https://www.gravatar.com/avatar/55dd2589bf9e2f763faa4acd78136c13?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-07-24 04:02:08"
+                "id": "14846802",
+                "username": "Zio7h",
+                "fullName": "Zio7h",
+                "avatarUrl": "https://www.gravatar.com/avatar/730c5666792ce13e1bdffb8c37b30a24?s=68&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-26 04:14:35"
             },
             "languages": [
                 {
@@ -465,10 +487,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 325,
-            "target": 536,
+            "translated": 317,
+            "target": 510,
             "approved": 0,
-            "voted": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -491,28 +513,6 @@
             "target": 612,
             "approved": 0,
             "voted": 2,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14846802",
-                "username": "Zio7h",
-                "fullName": "Zio7h",
-                "avatarUrl": "https://www.gravatar.com/avatar/730c5666792ce13e1bdffb8c37b30a24?s=68&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-07-26 04:14:35"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 279,
-            "target": 451,
-            "approved": 0,
-            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
