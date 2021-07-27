@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-06-27T00:00:00+00:00",
-        "to": "2021-07-27T01:00:00+00:00"
+        "to": "2021-07-27T02:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 619931,
-            "target": 1022318,
+            "translated": 619938,
+            "target": 1022331,
             "approved": 427,
             "voted": 0,
             "positiveVotes": 106,
@@ -69,8 +69,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 6121,
-            "target": 10155,
+            "translated": 6699,
+            "target": 10955,
             "approved": 0,
             "voted": 4,
             "positiveVotes": 1,
@@ -211,6 +211,28 @@
         },
         {
             "user": {
+                "id": "14846146",
+                "username": "KuriPa",
+                "fullName": "Kuri Pa (KuriPa)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846146/medium/b9aa35d1001ce10bd78208c618e1f5f3.jpeg",
+                "joined": "2021-07-20 00:54:57"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1908,
+            "target": 3276,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14782632",
                 "username": "andrewhsia.cow",
                 "fullName": "流川楓rrr (andrewhsia.cow)",
@@ -230,28 +252,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 4
-        },
-        {
-            "user": {
-                "id": "14846146",
-                "username": "KuriPa",
-                "fullName": "Kuri Pa (KuriPa)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846146/medium/b9aa35d1001ce10bd78208c618e1f5f3.jpeg",
-                "joined": "2021-07-20 00:54:57"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1525,
-            "target": 2627,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
         },
         {
             "user": {
