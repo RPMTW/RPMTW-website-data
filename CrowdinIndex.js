@@ -99,7 +99,7 @@ function GetModTranslationProgress(DirID, ModIDList, i, json, Version) {
         } else {
             fs.writeFileSync(`${process.cwd()}/data/CrowdinIndex-${Version}.json`, "{}");
         }
-        let NewData = JSON.stringify(Object.assign({}, before, index), null, 4)
+        let NewData = JSON.stringify(Object.assign({}, before, index))
         fs.writeFileSync(`${process.cwd()}/data/CrowdinIndex-${Version}.json`, NewData, function (error) {
             if (error) {
                 console.log(`寫入模組翻譯索引檔案時發生未知錯誤\n錯誤原因: ${error}`);
