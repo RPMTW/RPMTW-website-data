@@ -1,0 +1,39 @@
+name: Get Crowdin Index
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "*/60 0 * * *" #每天執行一次
+env:  
+  CrowdinToken: ${{ secrets.CROWDINTOKEN }} 
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [15.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: |
+       npm i
+       node CrowdinIndex.js 
+    - name: "提交檔案"
+      run: |
+          git config --global user.email "rpmtw666@gmail.com.com"
+          git config --global user.name "資料庫更新機器人"
+          git add ./data
+          git commit -m "更新模組翻譯進度資料庫"
+        
+    - name: "推送變更"
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
