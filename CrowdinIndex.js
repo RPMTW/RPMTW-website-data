@@ -103,8 +103,9 @@ function GetModTranslationProgress(DirID, ModIDList, i, json, Version) {
         fs.writeFileSync(`${process.cwd()}/data/CrowdinIndex-${Version}.json`, NewData, function (error) {
             if (error) {
                 console.log(`寫入模組翻譯索引檔案時發生未知錯誤\n錯誤原因: ${error}`);
-            }
+            }else{
             console.log(`處理 ${ModIDList[i]} 的翻譯索引檔案完成`)
+            }
         })
     }
     );
