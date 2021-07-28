@@ -18,7 +18,7 @@ function RunLoop() {
         if (index < VersionIndex.length) {
             RunLoop();
         }
-    }, 18e4) //每三分鐘執行一個版本的數據
+    }, 30e4) //每五分鐘執行一個版本的數據
 }
 RunLoop();
 
