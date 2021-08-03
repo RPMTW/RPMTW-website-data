@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-07-03T00:00:00+00:00",
-        "to": "2021-08-03T08:00:00+00:00"
+        "to": "2021-08-03T09:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -1047,6 +1047,28 @@
         },
         {
             "user": {
+                "id": "14864130",
+                "username": "seeyes13",
+                "fullName": "seeyes13",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14864130/medium/84c83de4881f82765cfddcac68cbc3a5.png",
+                "joined": "2021-08-02 23:51:29"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 7,
+            "target": 15,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14864220",
                 "username": "bee0511",
                 "fullName": "bee0511",
@@ -1061,28 +1083,6 @@
             ],
             "translated": 7,
             "target": 11,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14864130",
-                "username": "seeyes13",
-                "fullName": "seeyes13",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14864130/medium/84c83de4881f82765cfddcac68cbc3a5.png",
-                "joined": "2021-08-02 23:51:29"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 5,
-            "target": 12,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
