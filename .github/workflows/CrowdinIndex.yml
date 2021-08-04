@@ -2,8 +2,8 @@ name: Get Crowdin Index
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "*/60 0 * * *" #每天執行一次
+#   schedule:
+#   - cron: "*/60 0 * * *" #每天執行一次
 env:  
   CrowdinToken: ${{ secrets.CROWDINTOKEN }} 
 jobs:
