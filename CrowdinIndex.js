@@ -18,7 +18,7 @@ function RunLoop() {
         if (index < VersionIndex.length) {
             RunLoop();
         }
-    }, 30e4) //每五分鐘執行一個版本的數據
+    }, 35e4) //每350秒鐘執行一個版本的數據
 }
 RunLoop();
 
@@ -103,10 +103,9 @@ function GetModTranslationProgress(DirID, ModIDList, i, json, Version) {
         fs.writeFileSync(`${process.cwd()}/data/CrowdinIndex-${Version}.json`, NewData, function (error) {
             if (error) {
                 console.log(`寫入模組翻譯索引檔案時發生未知錯誤\n錯誤原因: ${error}`);
-            }else{
-            console.log(`處理 ${ModIDList[i]} 的翻譯索引檔案完成`)
             }
         })
+        console.log(`處理 ${ModIDList[i]} 的翻譯索引檔案完成`)
     }
     );
 }
