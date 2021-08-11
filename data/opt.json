@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-07-11T00:00:00+00:00",
-        "to": "2021-08-11T12:00:00+00:00"
+        "to": "2021-08-11T13:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -497,6 +497,28 @@
         },
         {
             "user": {
+                "id": "14875092",
+                "username": "kelvinchin12070811",
+                "fullName": "Kelvin Chin (kelvinchin12070811)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14875092/medium/f6103ac37778c190afe8d5664c27938e.jpeg",
+                "joined": "2021-08-11 06:54:39"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 90,
+            "target": 160,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14815244",
                 "username": "Nanamiya738",
                 "fullName": "Nanamiya738",
@@ -557,28 +579,6 @@
             "target": 134,
             "approved": 0,
             "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14875092",
-                "username": "kelvinchin12070811",
-                "fullName": "Kelvin Chin (kelvinchin12070811)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14875092/medium/f6103ac37778c190afe8d5664c27938e.jpeg",
-                "joined": "2021-08-11 06:54:39"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 59,
-            "target": 96,
-            "approved": 0,
-            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -673,6 +673,28 @@
         },
         {
             "user": {
+                "id": "14795000",
+                "username": "BloggerWang",
+                "fullName": "BloggerWang",
+                "avatarUrl": "https://www.gravatar.com/avatar/47eb397a82320b3065df932ecee0935d?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-06-11 01:59:30"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 42,
+            "target": 70,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14644234",
                 "username": "1117jerry",
                 "fullName": "賓周 (1117jerry)",
@@ -753,28 +775,6 @@
             ],
             "translated": 25,
             "target": 42,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14795000",
-                "username": "BloggerWang",
-                "fullName": "BloggerWang",
-                "avatarUrl": "https://www.gravatar.com/avatar/47eb397a82320b3065df932ecee0935d?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-06-11 01:59:30"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 22,
-            "target": 40,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
