@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-07-19T00:00:00+00:00",
-        "to": "2021-08-19T11:00:00+00:00"
+        "to": "2021-08-19T12:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -487,8 +487,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 131,
-            "target": 245,
+            "translated": 133,
+            "target": 249,
             "approved": 0,
             "voted": 2,
             "positiveVotes": 0,
@@ -805,6 +805,28 @@
         },
         {
             "user": {
+                "id": "14887314",
+                "username": "gg2003117",
+                "fullName": "Chyan (gg2003117)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14887314/medium/344fca1b5142832d688c7f8f7b22af62.png",
+                "joined": "2021-08-19 06:35:07"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 21,
+            "target": 54,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14869562",
                 "username": "Keith4773",
                 "fullName": "Keith4773",
@@ -951,28 +973,6 @@
             ],
             "translated": 12,
             "target": 24,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14887314",
-                "username": "gg2003117",
-                "fullName": "Chyan (gg2003117)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14887314/medium/344fca1b5142832d688c7f8f7b22af62.png",
-                "joined": "2021-08-19 06:35:07"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 9,
-            "target": 20,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
