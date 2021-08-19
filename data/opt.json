@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-07-18T00:00:00+00:00",
-        "to": "2021-08-18T23:00:00+00:00"
+        "from": "2021-07-19T00:00:00+00:00",
+        "to": "2021-08-19T00:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 659164,
-            "target": 1078653,
+            "translated": 649818,
+            "target": 1062114,
             "approved": 53,
             "voted": 0,
             "positiveVotes": 72,
@@ -135,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3032,
-            "target": 4551,
+            "translated": 3018,
+            "target": 4501,
             "approved": 0,
             "voted": 6,
             "positiveVotes": 0,
@@ -211,28 +211,6 @@
         },
         {
             "user": {
-                "id": "14835204",
-                "username": "leter5103",
-                "fullName": "leter5103",
-                "avatarUrl": "https://www.gravatar.com/avatar/cf05c02aefe1b57ab49438d93a264963?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-07-11 05:29:26"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1520,
-            "target": 2241,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 2,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14885116",
                 "username": "neil921228",
                 "fullName": "Kusa HAHA (neil921228)",
@@ -250,6 +228,28 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14835204",
+                "username": "leter5103",
+                "fullName": "leter5103",
+                "avatarUrl": "https://www.gravatar.com/avatar/cf05c02aefe1b57ab49438d93a264963?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-11 05:29:26"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1427,
+            "target": 2080,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 2,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -311,8 +311,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1071,
-            "target": 1948,
+            "translated": 757,
+            "target": 1415,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
