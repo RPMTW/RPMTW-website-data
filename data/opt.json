@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-07-21T00:00:00+00:00",
-        "to": "2021-08-21T13:00:00+00:00"
+        "to": "2021-08-21T14:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -453,6 +453,28 @@
         },
         {
             "user": {
+                "id": "14888160",
+                "username": "CubTiger",
+                "fullName": "CubTiger",
+                "avatarUrl": "https://www.gravatar.com/avatar/40f978da23dce8774fb33e44a20da3bd?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-08-19 19:38:12"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 286,
+            "target": 498,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14821912",
                 "username": "momo021320",
                 "fullName": "プリン (momo021320)",
@@ -470,28 +492,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14888160",
-                "username": "CubTiger",
-                "fullName": "CubTiger",
-                "avatarUrl": "https://www.gravatar.com/avatar/40f978da23dce8774fb33e44a20da3bd?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-08-19 19:38:12"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 153,
-            "target": 226,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
