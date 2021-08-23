@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-07-23T00:00:00+00:00",
-        "to": "2021-08-23T16:00:00+00:00"
+        "to": "2021-08-23T17:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -299,6 +299,28 @@
         },
         {
             "user": {
+                "id": "14834548",
+                "username": "frank89722",
+                "fullName": "frankV (frank89722)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14834548/medium/351d57f5add88c960898456c9922083d.png",
+                "joined": "2021-08-23 09:37:02"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 518,
+            "target": 1143,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14883002",
                 "username": "peter2340083",
                 "fullName": "peter2340083",
@@ -423,28 +445,6 @@
             ],
             "translated": 286,
             "target": 498,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14834548",
-                "username": "frank89722",
-                "fullName": "frankV (frank89722)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14834548/medium/351d57f5add88c960898456c9922083d.png",
-                "joined": "2021-08-23 09:37:02"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 228,
-            "target": 536,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
