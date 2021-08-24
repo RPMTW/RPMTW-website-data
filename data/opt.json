@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-07-24T00:00:00+00:00",
-        "to": "2021-08-24T03:00:00+00:00"
+        "to": "2021-08-24T04:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -91,8 +91,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 16117,
-            "target": 25977,
+            "translated": 16520,
+            "target": 26669,
             "approved": 2092,
             "voted": 0,
             "positiveVotes": 1,
@@ -431,6 +431,28 @@
         },
         {
             "user": {
+                "id": "14891996",
+                "username": "noobProgrammer",
+                "fullName": "noobProgrammer",
+                "avatarUrl": "https://www.gravatar.com/avatar/bae3853dbc264736e7632ef20835187e?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-08-23 00:46:48"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 135,
+            "target": 177,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14873000",
                 "username": "jasonchan123",
                 "fullName": "jasonchanjj123 (jasonchan123)",
@@ -467,28 +489,6 @@
             ],
             "translated": 126,
             "target": 225,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14891996",
-                "username": "noobProgrammer",
-                "fullName": "noobProgrammer",
-                "avatarUrl": "https://www.gravatar.com/avatar/bae3853dbc264736e7632ef20835187e?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-08-23 00:46:48"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 118,
-            "target": 147,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
