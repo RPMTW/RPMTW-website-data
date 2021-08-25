@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-07-25T00:00:00+00:00",
-        "to": "2021-08-25T14:00:00+00:00"
+        "to": "2021-08-25T15:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 221049,
-            "target": 377039,
+            "translated": 221182,
+            "target": 377296,
             "approved": 0,
             "voted": 19,
             "positiveVotes": 2,
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 150018,
-            "target": 240006,
+            "translated": 150054,
+            "target": 240076,
             "approved": 35,
             "voted": 0,
             "positiveVotes": 23,
@@ -69,8 +69,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 17322,
-            "target": 27853,
+            "translated": 17359,
+            "target": 27919,
             "approved": 2092,
             "voted": 0,
             "positiveVotes": 1,
@@ -453,6 +453,28 @@
         },
         {
             "user": {
+                "id": "14815244",
+                "username": "Nanamiya738",
+                "fullName": "Nanamiya738",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14815244/medium/72e038ea746d52fd7edf4d5855b911d9.png",
+                "joined": "2021-06-25 10:09:23"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 152,
+            "target": 249,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14873000",
                 "username": "jasonchan123",
                 "fullName": "jasonchanjj123 (jasonchan123)",
@@ -580,28 +602,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 2,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14815244",
-                "username": "Nanamiya738",
-                "fullName": "Nanamiya738",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14815244/medium/72e038ea746d52fd7edf4d5855b911d9.png",
-                "joined": "2021-06-25 10:09:23"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 73,
-            "target": 107,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
