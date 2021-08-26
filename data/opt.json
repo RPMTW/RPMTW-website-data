@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-07-26T00:00:00+00:00",
-        "to": "2021-08-26T02:00:00+00:00"
+        "to": "2021-08-26T03:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -31,7 +31,7 @@
             "voted": 31,
             "positiveVotes": 2,
             "negativeVotes": 0,
-            "winning": 5
+            "winning": 11
         },
         {
             "user": {
@@ -49,7 +49,7 @@
             ],
             "translated": 103078,
             "target": 166933,
-            "approved": 32,
+            "approved": 38,
             "voted": 0,
             "positiveVotes": 23,
             "negativeVotes": 11,
