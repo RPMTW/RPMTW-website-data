@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-07-27T00:00:00+00:00",
-        "to": "2021-08-27T22:00:00+00:00"
+        "to": "2021-08-27T23:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -26,9 +26,9 @@
                 }
             ],
             "translated": 228311,
-            "target": 389710,
+            "target": 389712,
             "approved": 0,
-            "voted": 38,
+            "voted": 60,
             "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 30
@@ -52,7 +52,7 @@
             "approved": 42,
             "voted": 0,
             "positiveVotes": 11,
-            "negativeVotes": 10,
+            "negativeVotes": 20,
             "winning": 6
         },
         {
@@ -73,7 +73,7 @@
             "target": 28804,
             "approved": 2092,
             "voted": 0,
-            "positiveVotes": 1,
+            "positiveVotes": 2,
             "negativeVotes": 0,
             "winning": 284
         },
