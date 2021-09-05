@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-08-05T00:00:00+00:00",
-        "to": "2021-09-05T09:00:00+00:00"
+        "to": "2021-09-05T10:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 523282,
-            "target": 894413,
+            "translated": 523288,
+            "target": 894423,
             "approved": 0,
             "voted": 102,
             "positiveVotes": 1,
@@ -51,7 +51,7 @@
             "target": 87830,
             "approved": 48,
             "voted": 0,
-            "positiveVotes": 10,
+            "positiveVotes": 13,
             "negativeVotes": 21,
             "winning": 7
         },
@@ -1031,11 +1031,16 @@
                 "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14652174/medium/05e7de522a01874e1b13628295e0c205.jpg",
                 "joined": "2021-04-18 14:40:46"
             },
-            "languages": [],
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
             "translated": 0,
             "target": 0,
             "approved": 0,
-            "voted": 0,
+            "voted": 3,
             "positiveVotes": 3,
             "negativeVotes": 0,
             "winning": 0
