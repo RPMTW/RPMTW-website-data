@@ -11,10 +11,12 @@
         "1.0.0": {
             "443": {
                 "download_url": "test",
+                "changelog": "",
                 "type": "dev"
             },
             "0": {
                 "download_url": "test",
+                "changelog": "",
                 "type": "stable"
             }
         }
