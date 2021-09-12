@@ -10,12 +10,20 @@
     "version_list": {
         "1.0.0": {
             "443": {
-                "download_url": "test",
+                "download_url": {
+                    "windows": "test",
+                    "linux": "test",
+                    "macos": "test"
+                },
                 "changelog": "測試變更日誌",
                 "type": "dev"
             },
             "0": {
-                "download_url": "test",
+                "download_url": {
+                    "windows": "test",
+                    "linux": "test",
+                    "macos": "test"
+                },
                 "changelog": "",
                 "type": "stable"
             }
