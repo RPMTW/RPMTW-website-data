@@ -1,1 +1,22 @@
-
+{
+    "dev": {
+        "latest_version": "1.0.0",
+        "latest_version_code": "443"
+    },
+    "stable": {
+        "latest_version": "1.0.0",
+        "latest_version_code": "0"
+    },
+    "version_list": {
+        "1.0.0": {
+            "443": {
+                "download_url": "test",
+                "type": "dev"
+            },
+            "0": {
+                "download_url": "test",
+                "type": "stable"
+            }
+        }
+    }
+}
