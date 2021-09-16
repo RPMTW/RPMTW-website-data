@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-08-15T00:00:00+00:00",
-        "to": "2021-09-15T23:00:00+00:00"
+        "from": "2021-08-16T00:00:00+00:00",
+        "to": "2021-09-16T01:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -28,7 +28,7 @@
             "translated": 517691,
             "target": 887579,
             "approved": 0,
-            "voted": 165,
+            "voted": 164,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 43
@@ -69,11 +69,11 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 22321,
-            "target": 34702,
+            "translated": 21180,
+            "target": 33407,
             "approved": 2219,
             "voted": 0,
-            "positiveVotes": 3,
+            "positiveVotes": 2,
             "negativeVotes": 0,
             "winning": 190
         },
@@ -91,10 +91,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 5225,
-            "target": 8372,
+            "translated": 5224,
+            "target": 8370,
             "approved": 0,
-            "voted": 6,
+            "voted": 2,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -761,28 +761,6 @@
         },
         {
             "user": {
-                "id": "14850396",
-                "username": "bencent2358",
-                "fullName": "bencent2358",
-                "avatarUrl": "https://www.gravatar.com/avatar/5b35a2506106d260998f821ce2ac9dc5?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-07-23 09:14:18"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3,
-            "target": 8,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14881498",
                 "username": "hoxmts",
                 "fullName": "魏弘庭 (hoxmts)",
@@ -907,6 +885,28 @@
             ],
             "translated": 1,
             "target": 3491,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14850396",
+                "username": "bencent2358",
+                "fullName": "bencent2358",
+                "avatarUrl": "https://www.gravatar.com/avatar/5b35a2506106d260998f821ce2ac9dc5?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-23 09:14:18"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1,
+            "target": 3,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
