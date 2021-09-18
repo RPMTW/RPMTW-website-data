@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-08-18T00:00:00+00:00",
-        "to": "2021-09-18T08:00:00+00:00"
+        "to": "2021-09-18T09:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -30,7 +30,7 @@
             "approved": 0,
             "voted": 168,
             "positiveVotes": 0,
-            "negativeVotes": 0,
+            "negativeVotes": 1,
             "winning": 43
         },
         {
@@ -51,7 +51,7 @@
             "target": 82215,
             "approved": 56,
             "voted": 0,
-            "positiveVotes": 13,
+            "positiveVotes": 91,
             "negativeVotes": 70,
             "winning": 2
         },
@@ -73,7 +73,7 @@
             "target": 30184,
             "approved": 2219,
             "voted": 0,
-            "positiveVotes": 2,
+            "positiveVotes": 5,
             "negativeVotes": 0,
             "winning": 190
         },
@@ -145,6 +145,28 @@
         },
         {
             "user": {
+                "id": "13104413",
+                "username": "yutayamamoto212",
+                "fullName": "陳裕太 (yutayamamoto212)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13104413/medium/4c8bf0646d31a7096f2e386fdfb7906f.png",
+                "joined": "2021-05-13 07:39:53"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2074,
+            "target": 3538,
+            "approved": 0,
+            "voted": 89,
+            "positiveVotes": 0,
+            "negativeVotes": 5,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14782632",
                 "username": "andrewhsia.cow",
                 "fullName": "流川楓rrr (andrewhsia.cow)",
@@ -207,28 +229,6 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "13104413",
-                "username": "yutayamamoto212",
-                "fullName": "陳裕太 (yutayamamoto212)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13104413/medium/4c8bf0646d31a7096f2e386fdfb7906f.png",
-                "joined": "2021-05-13 07:39:53"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 680,
-            "target": 1069,
-            "approved": 0,
-            "voted": 3,
-            "positiveVotes": 0,
-            "negativeVotes": 5,
             "winning": 0
         },
         {
