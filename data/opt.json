@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-08-23T00:00:00+00:00",
-        "to": "2021-09-23T12:00:00+00:00"
+        "to": "2021-09-23T13:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -31,7 +31,7 @@
             "voted": 167,
             "positiveVotes": 0,
             "negativeVotes": 1,
-            "winning": 46
+            "winning": 49
         },
         {
             "user": {
@@ -47,13 +47,13 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 24840,
-            "target": 32263,
-            "approved": 56,
+            "translated": 24853,
+            "target": 32282,
+            "approved": 61,
             "voted": 0,
             "positiveVotes": 100,
             "negativeVotes": 71,
-            "winning": 2
+            "winning": 24
         },
         {
             "user": {
@@ -71,7 +71,7 @@
             ],
             "translated": 16555,
             "target": 27320,
-            "approved": 260,
+            "approved": 295,
             "voted": 0,
             "positiveVotes": 7,
             "negativeVotes": 0,
@@ -431,28 +431,6 @@
         },
         {
             "user": {
-                "id": "14771482",
-                "username": "leeuho16",
-                "fullName": "leeuho16",
-                "avatarUrl": "https://www.gravatar.com/avatar/eded5f4d26060de87cc161dc1531e655?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-05-24 23:38:43"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 6,
-            "target": 11,
-            "approved": 0,
-            "voted": 2,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14871148",
                 "username": "yingsicy",
                 "fullName": "YingsIcy (yingsicy)",
@@ -472,6 +450,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 3
+        },
+        {
+            "user": {
+                "id": "14771482",
+                "username": "leeuho16",
+                "fullName": "leeuho16",
+                "avatarUrl": "https://www.gravatar.com/avatar/eded5f4d26060de87cc161dc1531e655?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-05-24 23:38:43"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 6,
+            "target": 11,
+            "approved": 0,
+            "voted": 2,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
         },
         {
             "user": {
@@ -563,28 +563,6 @@
         },
         {
             "user": {
-                "id": "14887626",
-                "username": "Doris1029",
-                "fullName": "Doris1029",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14887626/medium/ea4ba4118e9a388a6835db60c836eadf.png",
-                "joined": "2021-08-23 05:26:51"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 6,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14905432",
                 "username": "FdPn149",
                 "fullName": "潘柏丰 (FdPn149)",
@@ -651,6 +629,50 @@
         },
         {
             "user": {
+                "id": "14934629",
+                "username": "yutrr",
+                "fullName": "yutrr",
+                "avatarUrl": "https://www.gravatar.com/avatar/fdc8650a0d59b5018c51e4bd2d9ee42e?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-09-23 08:49:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 1,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14887626",
+                "username": "Doris1029",
+                "fullName": "Doris1029",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14887626/medium/ea4ba4118e9a388a6835db60c836eadf.png",
+                "joined": "2021-08-23 05:26:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 6,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14850396",
                 "username": "bencent2358",
                 "fullName": "bencent2358",
@@ -704,6 +726,23 @@
             "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "14781188",
+                "username": "leowin0123",
+                "fullName": "妖雨【Zero】 (leowin0123)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14781188/medium/51fda8626156102c8f81a729e139acec.jpeg",
+                "joined": "2021-06-01 05:29:33"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 13
         },
         {
             "user": {
