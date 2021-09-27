@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-08-26T00:00:00+00:00",
-        "to": "2021-09-26T23:00:00+00:00"
+        "from": "2021-08-27T00:00:00+00:00",
+        "to": "2021-09-27T01:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,13 +25,13 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 427857,
-            "target": 729444,
+            "translated": 422715,
+            "target": 720568,
             "approved": 0,
-            "voted": 164,
+            "voted": 151,
             "positiveVotes": 0,
             "negativeVotes": 1,
-            "winning": 49
+            "winning": 43
         },
         {
             "user": {
@@ -47,12 +47,12 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 24771,
-            "target": 32145,
-            "approved": 53,
+            "translated": 24770,
+            "target": 32144,
+            "approved": 47,
             "voted": 0,
             "positiveVotes": 94,
-            "negativeVotes": 70,
+            "negativeVotes": 62,
             "winning": 24
         },
         {
@@ -69,8 +69,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 15548,
-            "target": 25638,
+            "translated": 14927,
+            "target": 24779,
             "approved": 340,
             "voted": 0,
             "positiveVotes": 7,
@@ -321,28 +321,6 @@
         },
         {
             "user": {
-                "id": "14894756",
-                "username": "Kugua023",
-                "fullName": "KJ.L (Kugua023)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14894756/medium/ead19b03a0717458e02874618d84acea.jpg",
-                "joined": "2021-08-24 23:31:41"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 21,
-            "target": 40,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14896714",
                 "username": "LamHK",
                 "fullName": "LamHK",
@@ -428,28 +406,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 3
-        },
-        {
-            "user": {
-                "id": "14308030",
-                "username": "ChocoMing",
-                "fullName": "巧克明 (ChocoMing)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14308030/medium/9aeac6b20adb2fdd95623d824640d8ef.png",
-                "joined": "2021-04-05 10:24:10"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 4,
-            "target": 12,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
         },
         {
             "user": {
