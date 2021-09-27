@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-08-27T00:00:00+00:00",
-        "to": "2021-09-27T15:00:00+00:00"
+        "to": "2021-09-27T16:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -145,6 +145,28 @@
         },
         {
             "user": {
+                "id": "14782632",
+                "username": "andrewhsia.cow",
+                "fullName": "流川楓rrr (andrewhsia.cow)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782632/medium/8c1cb612e58872f23bb48045aeda19c4.jpeg",
+                "joined": "2021-06-12 06:42:17"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 332,
+            "target": 534,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 2,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14929975",
                 "username": "Xi_purple",
                 "fullName": "希紫 (Xi_purple)",
@@ -162,28 +184,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14782632",
-                "username": "andrewhsia.cow",
-                "fullName": "流川楓rrr (andrewhsia.cow)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782632/medium/8c1cb612e58872f23bb48045aeda19c4.jpeg",
-                "joined": "2021-06-12 06:42:17"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 240,
-            "target": 369,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 2,
             "negativeVotes": 0,
             "winning": 0
         },
