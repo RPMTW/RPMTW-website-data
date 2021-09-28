@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-08-28T00:00:00+00:00",
-        "to": "2021-09-28T12:00:00+00:00"
+        "to": "2021-09-28T13:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 425021,
-            "target": 724061,
+            "translated": 425404,
+            "target": 724728,
             "approved": 0,
             "voted": 132,
             "positiveVotes": 0,
@@ -135,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 765,
-            "target": 1383,
+            "translated": 840,
+            "target": 1515,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 2,
@@ -409,11 +409,11 @@
         },
         {
             "user": {
-                "id": "13715027",
-                "username": "Thunderdifficult",
-                "fullName": "Thunderdifficult",
-                "avatarUrl": "https://www.gravatar.com/avatar/fafb58442ea18a181efc24ab53f0127c?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-05-31 07:21:10"
+                "id": "14941681",
+                "username": "yeast",
+                "fullName": "yeast",
+                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-09-28 08:56:51"
             },
             "languages": [
                 {
@@ -421,8 +421,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 4,
-            "target": 6,
+            "translated": 5,
+            "target": 8,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -445,6 +445,28 @@
             ],
             "translated": 4,
             "target": 13,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13715027",
+                "username": "Thunderdifficult",
+                "fullName": "Thunderdifficult",
+                "avatarUrl": "https://www.gravatar.com/avatar/fafb58442ea18a181efc24ab53f0127c?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-05-31 07:21:10"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4,
+            "target": 6,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
