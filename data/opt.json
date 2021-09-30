@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-08-29T00:00:00+00:00",
-        "to": "2021-09-29T23:00:00+00:00"
+        "from": "2021-08-30T00:00:00+00:00",
+        "to": "2021-09-30T01:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,10 +25,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 420756,
-            "target": 716805,
+            "translated": 394200,
+            "target": 670034,
             "approved": 0,
-            "voted": 127,
+            "voted": 113,
             "positiveVotes": 0,
             "negativeVotes": 1,
             "winning": 50
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 24728,
-            "target": 32048,
+            "translated": 24726,
+            "target": 32044,
             "approved": 50,
             "voted": 0,
             "positiveVotes": 94,
@@ -69,8 +69,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 14609,
-            "target": 24580,
+            "translated": 13966,
+            "target": 23507,
             "approved": 322,
             "voted": 0,
             "positiveVotes": 6,
@@ -343,28 +343,6 @@
         },
         {
             "user": {
-                "id": "14896714",
-                "username": "LamHK",
-                "fullName": "LamHK",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14896714/medium/7d57c84077507d8d361b88074345e461.jpeg",
-                "joined": "2021-08-29 01:33:34"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 20,
-            "target": 61,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14905448",
                 "username": "FredPan",
                 "fullName": "Fred Pan (FredPan)",
@@ -402,7 +380,7 @@
             "translated": 6,
             "target": 11,
             "approved": 0,
-            "voted": 2,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -489,6 +467,28 @@
             ],
             "translated": 4,
             "target": 8,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14896714",
+                "username": "LamHK",
+                "fullName": "LamHK",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14896714/medium/7d57c84077507d8d361b88074345e461.jpeg",
+                "joined": "2021-08-29 01:33:34"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 4,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -607,24 +607,19 @@
         },
         {
             "user": {
-                "id": "14850396",
-                "username": "bencent2358",
-                "fullName": "bencent2358",
-                "avatarUrl": "https://www.gravatar.com/avatar/5b35a2506106d260998f821ce2ac9dc5?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-07-23 09:14:18"
+                "id": "14818404",
+                "username": "taiwanpeople",
+                "fullName": "taiwanpeople",
+                "avatarUrl": "https://www.gravatar.com/avatar/55dd2589bf9e2f763faa4acd78136c13?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-24 04:02:08"
             },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1,
-            "target": 3,
+            "languages": [],
+            "translated": 0,
+            "target": 0,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
-            "negativeVotes": 0,
+            "negativeVotes": 3,
             "winning": 0
         },
         {
@@ -715,23 +710,6 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14818404",
-                "username": "taiwanpeople",
-                "fullName": "taiwanpeople",
-                "avatarUrl": "https://www.gravatar.com/avatar/55dd2589bf9e2f763faa4acd78136c13?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-07-24 04:02:08"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 3,
             "winning": 0
         }
     ]
