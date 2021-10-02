@@ -2,6 +2,7 @@ const fetch = require('node-fetch');
 const Request = require("request");
 const path = require("path");
 const fs = require("fs");
+const { exit } = require('process');
 
 let date = new Date();
 const body = {
@@ -12,14 +13,15 @@ const body = {
         "languageId": "zh-TW",
         "format": "json",
         "dateFrom": `${date.getFullYear()}-${(date.getMonth() - 1 < 10 ? '0' + (date.getMonth()) : (date.getMonth()))}-${date.getDate() < 10 ? '0' + date.getDate() : date.getDate()}T00:00:00+00:00`,
-        "dateTo": `${date.getFullYear()}-${(date.getMonth() < 10 ? '0' + (date.getMonth() + 1) : (date.getMonth() + 1))}-${date.getDate() < 10 ? '0' + date.getDate() : date.getDate()}T${date.getHours() < 10 ? '0' + date.getHours() : date.getHours()}:00:00+00:00`
+        "dateTo": `${date.getFullYear()}-${(date.getMonth() < 9 ? '0' + (date.getMonth() + 1) : (date.getMonth() + 1))}-${date.getDate() < 10 ? '0' + date.getDate() : date.getDate()}T${date.getHours() < 10 ? '0' + date.getHours() : date.getHours()}:00:00+00:00`
     }
 }
+
 fetch("https://api.crowdin.com/api/v2/projects/442446/reports", {
     method: "post",
     body: JSON.stringify(body),
     headers: {
-        "Authorization": `Bearer ${process.env.CrowdinToken}`,
+        "Authorization": `Bearer 1571b028698644719cd3064bef67b8f6acbd907e60a05d0966676fceab39bee95efaea3a0be1e8f4`,
         'Content-Type': 'application/json'
     },
 }).then(res => res.json())
@@ -32,7 +34,7 @@ function Run(json) {
         fetch(`https://api.crowdin.com/api/v2/projects/442446/reports/${json.data.identifier}`, {
             method: "get",
             headers: {
-                "Authorization": `Bearer ${process.env.CrowdinToken}`,
+                "Authorization": `Bearer 1571b028698644719cd3064bef67b8f6acbd907e60a05d0966676fceab39bee95efaea3a0be1e8f4`,
             },
         }).then(res => res.json())
             .then(json => {
@@ -40,7 +42,7 @@ function Run(json) {
                     fetch(`https://api.crowdin.com/api/v2/projects/442446/reports/${json.data.identifier}/download`, {
                         method: "get",
                         headers: {
-                            "Authorization": `Bearer ${process.env.CrowdinToken}`,
+                            "Authorization": `Bearer 1571b028698644719cd3064bef67b8f6acbd907e60a05d0966676fceab39bee95efaea3a0be1e8f4`,
                         },
                     }).then(res => res.json())
                         .then(json => {
