@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-03T00:00:00+00:00",
-        "to": "2021-10-03T09:00:00+00:00"
+        "to": "2021-10-03T10:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -277,6 +277,28 @@
         },
         {
             "user": {
+                "id": "14948097",
+                "username": "keira224",
+                "fullName": "keira224",
+                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-10-03 04:04:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 229,
+            "target": 330,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14652174",
                 "username": "StarskyXIII",
                 "fullName": "夜之星 (StarskyXIII)",
@@ -313,28 +335,6 @@
             ],
             "translated": 192,
             "target": 324,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14948097",
-                "username": "keira224",
-                "fullName": "keira224",
-                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-10-03 04:04:58"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 125,
-            "target": 184,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -563,6 +563,57 @@
         },
         {
             "user": {
+                "id": "14781188",
+                "username": "leowin0123",
+                "fullName": "妖雨【Zero】 (leowin0123)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14781188/medium/51fda8626156102c8f81a729e139acec.jpeg",
+                "joined": "2021-06-01 05:29:33"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 13
+        },
+        {
+            "user": {
+                "id": "14781074",
+                "username": "YFan610",
+                "fullName": "蔡ff (YFan610)",
+                "avatarUrl": "https://www.gravatar.com/avatar/66f46d6a46cb705e9e798453ca63493b?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-06-01 03:59:15"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 2,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14786730",
+                "username": "hi_samson",
+                "fullName": "hi_samson",
+                "avatarUrl": "https://www.gravatar.com/avatar/244a4b16d3bee3e58dd9d97254872a7a?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-06-05 00:57:58"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13395892",
                 "username": "MarginalPerson",
                 "fullName": "默默無名邊緣人 (MarginalPerson)",
@@ -598,57 +649,6 @@
             "voted": 0,
             "positiveVotes": 1,
             "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14786730",
-                "username": "hi_samson",
-                "fullName": "hi_samson",
-                "avatarUrl": "https://www.gravatar.com/avatar/244a4b16d3bee3e58dd9d97254872a7a?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-06-05 00:57:58"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14781188",
-                "username": "leowin0123",
-                "fullName": "妖雨【Zero】 (leowin0123)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14781188/medium/51fda8626156102c8f81a729e139acec.jpeg",
-                "joined": "2021-06-01 05:29:33"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 13
-        },
-        {
-            "user": {
-                "id": "14781074",
-                "username": "YFan610",
-                "fullName": "蔡ff (YFan610)",
-                "avatarUrl": "https://www.gravatar.com/avatar/66f46d6a46cb705e9e798453ca63493b?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-06-01 03:59:15"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 2,
             "winning": 0
         }
     ]
