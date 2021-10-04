@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-04T00:00:00+00:00",
-        "to": "2021-10-04T14:00:00+00:00"
+        "to": "2021-10-04T15:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -53,7 +53,7 @@
             "voted": 0,
             "positiveVotes": 94,
             "negativeVotes": 51,
-            "winning": 23
+            "winning": 47
         },
         {
             "user": {
@@ -69,9 +69,9 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 13180,
-            "target": 22256,
-            "approved": 322,
+            "translated": 13226,
+            "target": 22327,
+            "approved": 346,
             "voted": 0,
             "positiveVotes": 7,
             "negativeVotes": 0,
@@ -192,7 +192,7 @@
                 "id": "14948097",
                 "username": "keira224",
                 "fullName": "keira224",
-                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-10-03 04:04:58"
             },
             "languages": [
@@ -267,10 +267,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 308,
-            "target": 539,
+            "translated": 318,
+            "target": 562,
             "approved": 0,
-            "voted": 4,
+            "voted": 5,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
