@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-09-04T00:00:00+00:00",
-        "to": "2021-10-04T23:00:00+00:00"
+        "from": "2021-09-05T00:00:00+00:00",
+        "to": "2021-10-05T01:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,35 +25,13 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 171262,
-            "target": 287231,
+            "translated": 118676,
+            "target": 192459,
             "approved": 0,
             "voted": 104,
             "positiveVotes": 0,
             "negativeVotes": 1,
             "winning": 47
-        },
-        {
-            "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 25199,
-            "target": 32746,
-            "approved": 47,
-            "voted": 0,
-            "positiveVotes": 94,
-            "negativeVotes": 51,
-            "winning": 50
         },
         {
             "user": {
@@ -69,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 13503,
-            "target": 22911,
+            "translated": 13380,
+            "target": 22678,
             "approved": 349,
             "voted": 0,
             "positiveVotes": 7,
@@ -145,6 +123,28 @@
         },
         {
             "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1333,
+            "target": 2052,
+            "approved": 47,
+            "voted": 0,
+            "positiveVotes": 94,
+            "negativeVotes": 51,
+            "winning": 50
+        },
+        {
+            "user": {
                 "id": "14918139",
                 "username": "2370079027",
                 "fullName": "lord dream (2370079027)",
@@ -192,7 +192,7 @@
                 "id": "14948097",
                 "username": "keira224",
                 "fullName": "keira224",
-                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-10-03 04:04:58"
             },
             "languages": [
