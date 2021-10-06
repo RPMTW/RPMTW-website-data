@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-06T00:00:00+00:00",
-        "to": "2021-10-06T14:00:00+00:00"
+        "to": "2021-10-06T15:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -47,13 +47,35 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 13091,
-            "target": 22068,
+            "translated": 13463,
+            "target": 22632,
             "approved": 349,
             "voted": 0,
             "positiveVotes": 6,
             "negativeVotes": 0,
             "winning": 2
+        },
+        {
+            "user": {
+                "id": "14941681",
+                "username": "yeast",
+                "fullName": "酵母菌 (yeast)",
+                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-09-28 08:56:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4506,
+            "target": 8094,
+            "approved": 0,
+            "voted": 39,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
         },
         {
             "user": {
@@ -79,11 +101,11 @@
         },
         {
             "user": {
-                "id": "14941681",
-                "username": "yeast",
-                "fullName": "酵母菌 (yeast)",
-                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-09-28 08:56:51"
+                "id": "14946781",
+                "username": "Lichen",
+                "fullName": "Lichen",
+                "avatarUrl": "https://www.gravatar.com/avatar/66e1e3f0be4558ec0ef080cb043ed69e?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-10-03 01:31:54"
             },
             "languages": [
                 {
@@ -91,10 +113,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 4140,
-            "target": 7532,
+            "translated": 1751,
+            "target": 2901,
             "approved": 0,
-            "voted": 39,
+            "voted": 5,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -142,28 +164,6 @@
             "positiveVotes": 91,
             "negativeVotes": 39,
             "winning": 50
-        },
-        {
-            "user": {
-                "id": "14946781",
-                "username": "Lichen",
-                "fullName": "Lichen",
-                "avatarUrl": "https://www.gravatar.com/avatar/66e1e3f0be4558ec0ef080cb043ed69e?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-10-03 01:31:54"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1133,
-            "target": 1925,
-            "approved": 0,
-            "voted": 5,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
         },
         {
             "user": {
