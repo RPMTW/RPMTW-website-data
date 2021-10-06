@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-06T00:00:00+00:00",
-        "to": "2021-10-06T15:00:00+00:00"
+        "to": "2021-10-06T16:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 13463,
-            "target": 22632,
+            "translated": 13626,
+            "target": 22868,
             "approved": 349,
             "voted": 0,
             "positiveVotes": 6,
@@ -69,8 +69,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 4506,
-            "target": 8094,
+            "translated": 4673,
+            "target": 8348,
             "approved": 0,
             "voted": 39,
             "positiveVotes": 0,
@@ -113,8 +113,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1751,
-            "target": 2901,
+            "translated": 2270,
+            "target": 3716,
             "approved": 0,
             "voted": 5,
             "positiveVotes": 0,
@@ -167,6 +167,28 @@
         },
         {
             "user": {
+                "id": "14937223",
+                "username": "yaoul6666",
+                "fullName": "yaoul6666",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14937223/medium/ec03c7d97dfcdb08d96c526d6d9a54ff.jpg",
+                "joined": "2021-09-25 06:08:52"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1242,
+            "target": 2350,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14918139",
                 "username": "2370079027",
                 "fullName": "lord dream (2370079027)",
@@ -181,28 +203,6 @@
             ],
             "translated": 880,
             "target": 1457,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14937223",
-                "username": "yaoul6666",
-                "fullName": "yaoul6666",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14937223/medium/ec03c7d97dfcdb08d96c526d6d9a54ff.jpg",
-                "joined": "2021-09-25 06:08:52"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 832,
-            "target": 1695,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
