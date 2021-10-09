@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-09T00:00:00+00:00",
-        "to": "2021-10-09T04:00:00+00:00"
+        "to": "2021-10-09T05:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -47,13 +47,35 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 8877,
-            "target": 15222,
-            "approved": 234,
+            "translated": 8943,
+            "target": 15328,
+            "approved": 236,
             "voted": 0,
             "positiveVotes": 6,
             "negativeVotes": 0,
             "winning": 2
+        },
+        {
+            "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 5521,
+            "target": 7355,
+            "approved": 47,
+            "voted": 0,
+            "positiveVotes": 91,
+            "negativeVotes": 14,
+            "winning": 50
         },
         {
             "user": {
@@ -142,28 +164,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
-        },
-        {
-            "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1441,
-            "target": 2194,
-            "approved": 47,
-            "voted": 0,
-            "positiveVotes": 91,
-            "negativeVotes": 14,
-            "winning": 50
         },
         {
             "user": {
