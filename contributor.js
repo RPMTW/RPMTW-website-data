@@ -2,7 +2,6 @@ const fetch = require('node-fetch');
 const Request = require("request");
 const path = require("path");
 const fs = require("fs");
-const { exit } = require('process');
 
 let date = new Date();
 const body = {

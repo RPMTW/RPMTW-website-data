@@ -29,7 +29,7 @@ function GetVersionIndex(Version) {
     }
     let options = {
         'method': 'GET',
-        'url': `https://raw.githubusercontent.com/RPMTW/ResourcePack-Mod-zh_tw/${GitVersion}/${Version}/CurseForgeIndex.json`,
+        'url': `https://raw.githubusercontent.com/RPMTW/ResourcePack-Mod-zh_tw/${GitVersion}/${Version}/ModInfo.json`,
     };
     request(options, function (error, response) {
         if (error) console.log(error);
@@ -89,7 +89,7 @@ function GetModTranslationProgress(DirID, ModIDList, i, json, Version) {
         ModIDList[i] = ModID
         */
         let index = {};
-        index[json[ModIDList[i]]] = {
+        index[json[ModIDList[i]]['curseForgeID']] = {
             "ModID": ModIDList[i],
             "Progress": TranslationProgress,
         }
