@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-10T00:00:00+00:00",
-        "to": "2021-10-10T01:00:00+00:00"
+        "to": "2021-10-10T02:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -35,6 +35,28 @@
         },
         {
             "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 8960,
+            "target": 13627,
+            "approved": 46,
+            "voted": 0,
+            "positiveVotes": 91,
+            "negativeVotes": 13,
+            "winning": 50
+        },
+        {
+            "user": {
                 "id": "14036188",
                 "username": "chesterccj305",
                 "fullName": "舞秋風 (chesterccj305)",
@@ -54,28 +76,6 @@
             "positiveVotes": 6,
             "negativeVotes": 0,
             "winning": 2
-        },
-        {
-            "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 8832,
-            "target": 13408,
-            "approved": 46,
-            "voted": 0,
-            "positiveVotes": 91,
-            "negativeVotes": 13,
-            "winning": 50
         },
         {
             "user": {
@@ -135,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2851,
-            "target": 4664,
+            "translated": 3102,
+            "target": 5045,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
