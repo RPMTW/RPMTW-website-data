@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-11T00:00:00+00:00",
-        "to": "2021-10-11T13:00:00+00:00"
+        "to": "2021-10-11T14:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -91,8 +91,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 5187,
-            "target": 9293,
+            "translated": 5194,
+            "target": 9303,
             "approved": 0,
             "voted": 39,
             "positiveVotes": 0,
@@ -401,6 +401,28 @@
             ],
             "translated": 192,
             "target": 324,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14843322",
+                "username": "BoxZen",
+                "fullName": "BoxZen",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14843322/medium/b86b2b409c233d59fa8bcd42d5c7b5aa.png",
+                "joined": "2021-07-17 13:53:35"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 69,
+            "target": 131,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
