@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-09-12T00:00:00+00:00",
-        "to": "2021-10-12T23:00:00+00:00"
+        "from": "2021-09-13T00:00:00+00:00",
+        "to": "2021-10-13T01:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 146897,
-            "target": 241395,
+            "translated": 146441,
+            "target": 240739,
             "approved": 0,
             "voted": 62,
             "positiveVotes": 0,
@@ -255,28 +255,6 @@
         },
         {
             "user": {
-                "id": "14918139",
-                "username": "2370079027",
-                "fullName": "lord dream (2370079027)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14918139/medium/89134a692ce4ab1fbc42e464e7300ba6.jpeg",
-                "joined": "2021-09-11 09:13:46"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 659,
-            "target": 1102,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14912105",
                 "username": "Yataragasus",
                 "fullName": "Yataragasus",
@@ -406,6 +384,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 9
+        },
+        {
+            "user": {
+                "id": "14918139",
+                "username": "2370079027",
+                "fullName": "lord dream (2370079027)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14918139/medium/89134a692ce4ab1fbc42e464e7300ba6.jpeg",
+                "joined": "2021-09-11 09:13:46"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 137,
+            "target": 264,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
         },
         {
             "user": {
