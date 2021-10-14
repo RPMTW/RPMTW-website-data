@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-14T00:00:00+00:00",
-        "to": "2021-10-14T11:00:00+00:00"
+        "to": "2021-10-14T12:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -70,7 +70,7 @@
                 }
             ],
             "translated": 6820,
-            "target": 11523,
+            "target": 11525,
             "approved": 225,
             "voted": 0,
             "positiveVotes": 12,
@@ -409,6 +409,28 @@
         },
         {
             "user": {
+                "id": "14751082",
+                "username": "AnimefanXShotacon",
+                "fullName": "水祈里太 (AnimefanXShotacon)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14751082/medium/027dc884e9b8f1dfb3cea16b4558b033.jpeg",
+                "joined": "2021-05-11 10:00:18"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 55,
+            "target": 80,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14924101",
                 "username": "StarSl",
                 "fullName": "StarSl",
@@ -475,11 +497,11 @@
         },
         {
             "user": {
-                "id": "14751082",
-                "username": "AnimefanXShotacon",
-                "fullName": "水祈里太 (AnimefanXShotacon)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14751082/medium/027dc884e9b8f1dfb3cea16b4558b033.jpeg",
-                "joined": "2021-05-11 10:00:18"
+                "id": "14782794",
+                "username": "goodboyye",
+                "fullName": "goodboyye",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782794/medium/5f5808fb8b849c7387bd7edf148ffc44.png",
+                "joined": "2021-08-16 08:07:34"
             },
             "languages": [
                 {
@@ -487,8 +509,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 10,
-            "target": 13,
+            "translated": 12,
+            "target": 20,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
