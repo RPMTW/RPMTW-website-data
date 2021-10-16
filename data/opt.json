@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-16T00:00:00+00:00",
-        "to": "2021-10-16T03:00:00+00:00"
+        "to": "2021-10-16T04:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -321,6 +321,28 @@
         },
         {
             "user": {
+                "id": "13395892",
+                "username": "MarginalPerson",
+                "fullName": "默默無名邊緣人 (MarginalPerson)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13395892/medium/2ab4a287b993e055fd8e51ada0170787.jpg",
+                "joined": "2021-03-13 06:51:47"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 249,
+            "target": 372,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14929975",
                 "username": "Xi_purple",
                 "fullName": "希紫 (Xi_purple)",
@@ -357,28 +379,6 @@
             ],
             "translated": 237,
             "target": 290,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "13395892",
-                "username": "MarginalPerson",
-                "fullName": "默默無名邊緣人 (MarginalPerson)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13395892/medium/2ab4a287b993e055fd8e51ada0170787.jpg",
-                "joined": "2021-03-13 06:51:47"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 236,
-            "target": 339,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
