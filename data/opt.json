@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-18T00:00:00+00:00",
-        "to": "2021-10-18T15:00:00+00:00"
+        "to": "2021-10-18T16:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -607,11 +607,33 @@
         },
         {
             "user": {
-                "id": "14936899",
-                "username": "Evan0513",
-                "fullName": "Evan0513",
-                "avatarUrl": "https://www.gravatar.com/avatar/ddafcdf8dc5817150bfc7eacdf041f3c?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-09-24 22:16:36"
+                "id": "14820114",
+                "username": "Jtwone",
+                "fullName": "Jtwone",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14820114/medium/3e1b9f4e1eb4fd2ae5e1ae1321c6541b.jpeg",
+                "joined": "2021-06-29 08:18:07"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4,
+            "target": 13,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14967113",
+                "username": "jim620062",
+                "fullName": "ChiaChin (jim620062)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14967113/medium/10a0db492418328f5403f591a3f084f3.png",
+                "joined": "2021-10-18 11:12:15"
             },
             "languages": [
                 {
@@ -629,11 +651,11 @@
         },
         {
             "user": {
-                "id": "14820114",
-                "username": "Jtwone",
-                "fullName": "Jtwone",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14820114/medium/3e1b9f4e1eb4fd2ae5e1ae1321c6541b.jpeg",
-                "joined": "2021-06-29 08:18:07"
+                "id": "14936899",
+                "username": "Evan0513",
+                "fullName": "Evan0513",
+                "avatarUrl": "https://www.gravatar.com/avatar/ddafcdf8dc5817150bfc7eacdf041f3c?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-09-24 22:16:36"
             },
             "languages": [
                 {
@@ -642,7 +664,7 @@
                 }
             ],
             "translated": 4,
-            "target": 13,
+            "target": 8,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
