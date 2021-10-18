@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-09-17T00:00:00+00:00",
-        "to": "2021-10-17T23:00:00+00:00"
+        "from": "2021-09-18T00:00:00+00:00",
+        "to": "2021-10-18T01:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -113,8 +113,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 5004,
-            "target": 8253,
+            "translated": 4975,
+            "target": 8205,
             "approved": 0,
             "voted": 129,
             "positiveVotes": 0,
@@ -157,8 +157,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3575,
-            "target": 5927,
+            "translated": 3568,
+            "target": 5914,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
@@ -214,7 +214,7 @@
                 "id": "14948097",
                 "username": "keira224",
                 "fullName": "keira224",
-                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-10-03 04:04:58"
             },
             "languages": [
@@ -557,28 +557,6 @@
             "target": 48,
             "approved": 0,
             "voted": 5,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14910757",
-                "username": "happyyo338",
-                "fullName": "Hello Phone (happyyo338)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/e00a910a7494a41ebcc1162622ad5bdf.jpeg",
-                "joined": "2021-09-17 09:40:31"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 22,
-            "target": 30,
-            "approved": 0,
-            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
