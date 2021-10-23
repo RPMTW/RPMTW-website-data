@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-23T00:00:00+00:00",
-        "to": "2021-10-23T04:00:00+00:00"
+        "to": "2021-10-23T05:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -563,6 +563,28 @@
         },
         {
             "user": {
+                "id": "14776122",
+                "username": "__Luminous__",
+                "fullName": "__Luminous__",
+                "avatarUrl": "https://www.gravatar.com/avatar/155903b94f40a1b983ab5e3d9699d449?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-05-28 05:09:36"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 59,
+            "target": 187,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14751082",
                 "username": "AnimefanXShotacon",
                 "fullName": "水祈里太 (AnimefanXShotacon)",
@@ -647,28 +669,6 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 1,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14776122",
-                "username": "__Luminous__",
-                "fullName": "__Luminous__",
-                "avatarUrl": "https://www.gravatar.com/avatar/155903b94f40a1b983ab5e3d9699d449?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-05-28 05:09:36"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 8,
-            "target": 15,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
             "winning": 0
         },
         {
@@ -761,19 +761,36 @@
         },
         {
             "user": {
-                "id": "14786964",
-                "username": "n7051530",
-                "fullName": "雨落櫻風 (n7051530)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786964/medium/017a689d6bb6765ae65c03fc88711132.jpeg",
-                "joined": "2021-06-05 05:07:49"
+                "id": "14781188",
+                "username": "leowin0123",
+                "fullName": "妖雨【Zero】 (leowin0123)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14781188/medium/51fda8626156102c8f81a729e139acec.jpeg",
+                "joined": "2021-06-01 05:29:33"
             },
             "languages": [],
             "translated": 0,
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 1,
+            "positiveVotes": 0,
             "negativeVotes": 0,
+            "winning": 13
+        },
+        {
+            "user": {
+                "id": "14686780",
+                "username": "t7991321",
+                "fullName": "星野宿 (t7991321)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14686780/medium/bc81f8edca84da7f24a7d06bdc852a4b.jpeg",
+                "joined": "2021-03-28 11:10:48"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 1,
             "winning": 0
         },
         {
@@ -822,20 +839,20 @@
         },
         {
             "user": {
-                "id": "14781188",
-                "username": "leowin0123",
-                "fullName": "妖雨【Zero】 (leowin0123)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14781188/medium/51fda8626156102c8f81a729e139acec.jpeg",
-                "joined": "2021-06-01 05:29:33"
+                "id": "14786964",
+                "username": "n7051530",
+                "fullName": "雨落櫻風 (n7051530)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786964/medium/017a689d6bb6765ae65c03fc88711132.jpeg",
+                "joined": "2021-06-05 05:07:49"
             },
             "languages": [],
             "translated": 0,
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
+            "positiveVotes": 1,
             "negativeVotes": 0,
-            "winning": 13
+            "winning": 0
         }
     ]
 }
