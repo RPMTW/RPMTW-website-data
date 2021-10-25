@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-25T00:00:00+00:00",
-        "to": "2021-10-25T07:00:00+00:00"
+        "to": "2021-10-25T08:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -104,7 +104,7 @@
                 "id": "14753864",
                 "username": "yoshikiece",
                 "fullName": "旺財 (yoshikiece)",
-                "avatarUrl": "https://www.gravatar.com/avatar/9b1b878bb4a8a923d1c7b129bce6e120?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/9b1b878bb4a8a923d1c7b129bce6e120?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-05-13 02:17:39"
             },
             "languages": [
@@ -236,7 +236,7 @@
                 "id": "14948097",
                 "username": "keira224",
                 "fullName": "keira224",
-                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-10-03 04:04:58"
             },
             "languages": [
@@ -313,6 +313,28 @@
             ],
             "translated": 570,
             "target": 1035,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14964573",
+                "username": "fungh",
+                "fullName": "Fu ug (fungh)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14964573/medium/07b8fd86740a2d8fbd301f71335fd9b5.jpeg",
+                "joined": "2021-10-16 06:51:18"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 515,
+            "target": 901,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -401,28 +423,6 @@
             ],
             "translated": 237,
             "target": 290,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14964573",
-                "username": "fungh",
-                "fullName": "Fu ug (fungh)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14964573/medium/07b8fd86740a2d8fbd301f71335fd9b5.jpeg",
-                "joined": "2021-10-16 06:51:18"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 213,
-            "target": 424,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -654,7 +654,7 @@
                 "id": "14795000",
                 "username": "BloggerWang",
                 "fullName": "BloggerWang",
-                "avatarUrl": "https://www.gravatar.com/avatar/47eb397a82320b3065df932ecee0935d?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/47eb397a82320b3065df932ecee0935d?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-06-11 01:59:30"
             },
             "languages": [
@@ -717,28 +717,6 @@
         },
         {
             "user": {
-                "id": "14974137",
-                "username": "11055168",
-                "fullName": "32趙柏傑 (11055168)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14974137/medium/ed8c1bcf164da55702d36e6ecc1e9cde.png",
-                "joined": "2021-10-24 08:41:59"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 4,
-            "target": 10,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14820114",
                 "username": "Jtwone",
                 "fullName": "Jtwone",
@@ -753,6 +731,28 @@
             ],
             "translated": 4,
             "target": 13,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14974137",
+                "username": "11055168",
+                "fullName": "32趙柏傑 (11055168)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14974137/medium/ed8c1bcf164da55702d36e6ecc1e9cde.png",
+                "joined": "2021-10-24 08:41:59"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4,
+            "target": 10,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -778,6 +778,23 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14786964",
+                "username": "n7051530",
+                "fullName": "雨落櫻風 (n7051530)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786964/medium/017a689d6bb6765ae65c03fc88711132.jpeg",
+                "joined": "2021-06-05 05:07:49"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -822,23 +839,6 @@
             "approved": 0,
             "voted": 2,
             "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14786964",
-                "username": "n7051530",
-                "fullName": "雨落櫻風 (n7051530)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786964/medium/017a689d6bb6765ae65c03fc88711132.jpeg",
-                "joined": "2021-06-05 05:07:49"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         },
