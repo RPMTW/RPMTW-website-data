@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-26T00:00:00+00:00",
-        "to": "2021-10-26T12:00:00+00:00"
+        "to": "2021-10-26T13:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -79,6 +79,28 @@
         },
         {
             "user": {
+                "id": "14782632",
+                "username": "andrewhsia.cow",
+                "fullName": "流川楓rrr (andrewhsia.cow)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782632/medium/610567d5a432cd0d717c3ae506a6deae.png",
+                "joined": "2021-06-12 06:42:17"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 5649,
+            "target": 9283,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14941681",
                 "username": "yeast",
                 "fullName": "酵母菌 (yeast)",
@@ -96,28 +118,6 @@
             "approved": 0,
             "voted": 39,
             "positiveVotes": 5,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14782632",
-                "username": "andrewhsia.cow",
-                "fullName": "流川楓rrr (andrewhsia.cow)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782632/medium/610567d5a432cd0d717c3ae506a6deae.png",
-                "joined": "2021-06-12 06:42:17"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 5192,
-            "target": 8601,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -500,7 +500,7 @@
                 "id": "14776122",
                 "username": "__Luminous__",
                 "fullName": "__Luminous__",
-                "avatarUrl": "https://www.gravatar.com/avatar/155903b94f40a1b983ab5e3d9699d449?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/155903b94f40a1b983ab5e3d9699d449?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-05-28 05:09:36"
             },
             "languages": [
