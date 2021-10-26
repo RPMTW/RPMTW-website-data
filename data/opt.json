@@ -4,7 +4,7 @@
     "unit": "words",
     "dateRange": {
         "from": "2021-09-26T00:00:00+00:00",
-        "to": "2021-10-26T13:00:00+00:00"
+        "to": "2021-10-26T14:00:00+00:00"
     },
     "language": {
         "id": "zh-TW",
@@ -57,6 +57,28 @@
         },
         {
             "user": {
+                "id": "14782632",
+                "username": "andrewhsia.cow",
+                "fullName": "流川楓rrr (andrewhsia.cow)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782632/medium/610567d5a432cd0d717c3ae506a6deae.png",
+                "joined": "2021-06-12 06:42:17"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 6065,
+            "target": 9884,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14036188",
                 "username": "chesterccj305",
                 "fullName": "舞秋風 (chesterccj305)",
@@ -79,32 +101,10 @@
         },
         {
             "user": {
-                "id": "14782632",
-                "username": "andrewhsia.cow",
-                "fullName": "流川楓rrr (andrewhsia.cow)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782632/medium/610567d5a432cd0d717c3ae506a6deae.png",
-                "joined": "2021-06-12 06:42:17"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 5649,
-            "target": 9283,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14941681",
                 "username": "yeast",
                 "fullName": "酵母菌 (yeast)",
-                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-09-28 08:56:51"
             },
             "languages": [
@@ -170,7 +170,7 @@
                 "id": "14946781",
                 "username": "Lichen",
                 "fullName": "Lichen",
-                "avatarUrl": "https://www.gravatar.com/avatar/66e1e3f0be4558ec0ef080cb043ed69e?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/66e1e3f0be4558ec0ef080cb043ed69e?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-10-03 01:31:54"
             },
             "languages": [
@@ -478,7 +478,7 @@
                 "id": "14971911",
                 "username": "Aki0617",
                 "fullName": "Aki0617",
-                "avatarUrl": "https://www.gravatar.com/avatar/e17bca172fb65e658a9458110facc1ab?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/e17bca172fb65e658a9458110facc1ab?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-10-22 01:16:00"
             },
             "languages": [
