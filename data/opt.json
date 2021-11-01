@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-09-31T00:00:00+00:00",
-        "to": "2021-10-31T23:00:00+00:00"
+        "from": "2021-10-01T09:17:28.436Z",
+        "to": "2021-11-01T09:17:28.437Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 130446,
-            "target": 223363,
+            "translated": 122398,
+            "target": 211304,
             "approved": 0,
             "voted": 25,
             "positiveVotes": 2,
@@ -82,7 +82,7 @@
                 "id": "14941681",
                 "username": "yeast",
                 "fullName": "酵母菌 (yeast)",
-                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-09-28 08:56:51"
             },
             "languages": [
@@ -96,6 +96,28 @@
             "approved": 0,
             "voted": 38,
             "positiveVotes": 5,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14846146",
+                "username": "KuriPa",
+                "fullName": "Kuri Pa (KuriPa)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846146/medium/b9aa35d1001ce10bd78208c618e1f5f3.jpeg",
+                "joined": "2021-07-20 00:54:57"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4989,
+            "target": 8238,
+            "approved": 0,
+            "voted": 2,
+            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -145,32 +167,10 @@
         },
         {
             "user": {
-                "id": "14846146",
-                "username": "KuriPa",
-                "fullName": "Kuri Pa (KuriPa)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846146/medium/b9aa35d1001ce10bd78208c618e1f5f3.jpeg",
-                "joined": "2021-07-20 00:54:57"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3402,
-            "target": 5811,
-            "approved": 0,
-            "voted": 2,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14946781",
                 "username": "Lichen",
                 "fullName": "Lichen",
-                "avatarUrl": "https://www.gravatar.com/avatar/66e1e3f0be4558ec0ef080cb043ed69e?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/66e1e3f0be4558ec0ef080cb043ed69e?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-10-03 01:31:54"
             },
             "languages": [
@@ -258,7 +258,7 @@
                 "id": "14971911",
                 "username": "Aki0617",
                 "fullName": "Aki0617",
-                "avatarUrl": "https://www.gravatar.com/avatar/e17bca172fb65e658a9458110facc1ab?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/e17bca172fb65e658a9458110facc1ab?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-10-22 01:16:00"
             },
             "languages": [
