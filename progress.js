@@ -19,7 +19,7 @@ fetch("https://api.crowdin.com/api/v2/projects/442446/languages/progress",
     {
         method: "get",
         headers: {
-            "Authorization": `Bearer 5ab136d1a21a139a709461f914d5a0b7cec77e40416d9e93912e1816ce9c4074c308d2efbf4bf2e6`,
+            "Authorization": `Bearer ${process.env.CrowdinToken}`,
             'Content-Type': 'application/json'
         },
     })
@@ -33,7 +33,7 @@ for (let Version in VersionBrancheID)
         {
             method: "get",
             headers: {
-                "Authorization": "Bearer 5ab136d1a21a139a709461f914d5a0b7cec77e40416d9e93912e1816ce9c4074c308d2efbf4bf2e6",
+                "Authorization": `Bearer ${process.env.CrowdinToken}`,
                 "Content-Type": "application/json",
             },
         })
