@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-04T11:17:36.410Z",
-        "to": "2021-11-04T11:17:36.423Z"
+        "from": "2021-10-04T12:33:41.160Z",
+        "to": "2021-11-04T12:33:41.176Z"
     },
     "language": {
         "id": "zh-TW",
@@ -70,7 +70,7 @@
                 }
             ],
             "translated": 6670,
-            "target": 10997,
+            "target": 11000,
             "approved": 0,
             "voted": 2,
             "positiveVotes": 0,
@@ -135,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3944,
-            "target": 6796,
+            "translated": 3898,
+            "target": 6724,
             "approved": 265,
             "voted": 0,
             "positiveVotes": 8,
@@ -179,8 +179,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2021,
-            "target": 3652,
+            "translated": 1856,
+            "target": 3335,
             "approved": 0,
             "voted": 4,
             "positiveVotes": 5,
@@ -252,28 +252,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 13
-        },
-        {
-            "user": {
-                "id": "14948097",
-                "username": "keira224",
-                "fullName": "keira224",
-                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-10-03 04:04:58"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 720,
-            "target": 1033,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
         },
         {
             "user": {
@@ -357,6 +335,28 @@
             ],
             "translated": 543,
             "target": 946,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14948097",
+                "username": "keira224",
+                "fullName": "keira224",
+                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-10-03 04:04:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 526,
+            "target": 727,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
