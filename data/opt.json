@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-04T09:20:58.076Z",
-        "to": "2021-11-04T09:20:58.089Z"
+        "from": "2021-10-04T10:23:35.902Z",
+        "to": "2021-11-04T10:23:35.908Z"
     },
     "language": {
         "id": "zh-TW",
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 9251,
-            "target": 13922,
+            "translated": 9247,
+            "target": 13914,
             "approved": 33,
             "voted": 0,
             "positiveVotes": 3,
@@ -135,35 +135,13 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3992,
-            "target": 6844,
+            "translated": 3946,
+            "target": 6798,
             "approved": 265,
             "voted": 0,
             "positiveVotes": 8,
             "negativeVotes": 0,
             "winning": 145
-        },
-        {
-            "user": {
-                "id": "14941681",
-                "username": "yeast",
-                "fullName": "酵母菌 (yeast)",
-                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-09-28 08:56:51"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2425,
-            "target": 4315,
-            "approved": 0,
-            "voted": 4,
-            "positiveVotes": 5,
-            "negativeVotes": 0,
-            "winning": 0
         },
         {
             "user": {
@@ -184,6 +162,28 @@
             "approved": 0,
             "voted": 6,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14941681",
+                "username": "yeast",
+                "fullName": "酵母菌 (yeast)",
+                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-09-28 08:56:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2226,
+            "target": 3964,
+            "approved": 0,
+            "voted": 4,
+            "positiveVotes": 5,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -577,6 +577,28 @@
             ],
             "translated": 55,
             "target": 80,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14989705",
+                "username": "KA9696",
+                "fullName": "KA9696",
+                "avatarUrl": "https://www.gravatar.com/avatar/8dcd52e59b4b8df966ed298755837418?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-11-04 06:20:06"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 47,
+            "target": 60,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
