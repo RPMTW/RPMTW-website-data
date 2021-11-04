@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-04T15:22:27.763Z",
-        "to": "2021-11-04T15:22:27.764Z"
+        "from": "2021-10-04T16:32:32.617Z",
+        "to": "2021-11-04T16:32:32.630Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,9 +25,9 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 132258,
-            "target": 228998,
-            "approved": 4,
+            "translated": 132260,
+            "target": 229002,
+            "approved": 5,
             "voted": 20,
             "positiveVotes": 2,
             "negativeVotes": 0,
@@ -53,7 +53,7 @@
             "voted": 0,
             "positiveVotes": 3,
             "negativeVotes": 2,
-            "winning": 8
+            "winning": 9
         },
         {
             "user": {
@@ -135,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3844,
-            "target": 6645,
+            "translated": 3628,
+            "target": 6195,
             "approved": 238,
             "voted": 0,
             "positiveVotes": 8,
@@ -343,28 +343,6 @@
         },
         {
             "user": {
-                "id": "14948097",
-                "username": "keira224",
-                "fullName": "keira224",
-                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-10-03 04:04:58"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 399,
-            "target": 545,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14912105",
                 "username": "Yataragasus",
                 "fullName": "Yataragasus",
@@ -381,6 +359,28 @@
             "target": 610,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14948097",
+                "username": "keira224",
+                "fullName": "keira224",
+                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-10-03 04:04:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 342,
+            "target": 468,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -487,8 +487,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 138,
-            "target": 185,
+            "translated": 142,
+            "target": 189,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
