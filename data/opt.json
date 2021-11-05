@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-05T15:22:35.208Z",
-        "to": "2021-11-05T15:22:35.210Z"
+        "from": "2021-10-05T16:32:46.451Z",
+        "to": "2021-11-05T16:32:46.452Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 141388,
-            "target": 245816,
+            "translated": 142327,
+            "target": 248578,
             "approved": 19,
             "voted": 20,
             "positiveVotes": 2,
@@ -321,6 +321,28 @@
         },
         {
             "user": {
+                "id": "14989705",
+                "username": "KA9696",
+                "fullName": "KA9696",
+                "avatarUrl": "https://www.gravatar.com/avatar/8dcd52e59b4b8df966ed298755837418?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-11-04 06:20:06"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 420,
+            "target": 525,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14937223",
                 "username": "yaoul6666",
                 "fullName": "yaoul6666",
@@ -333,8 +355,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 453,
-            "target": 724,
+            "translated": 410,
+            "target": 655,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -381,28 +403,6 @@
             "target": 468,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14989705",
-                "username": "KA9696",
-                "fullName": "KA9696",
-                "avatarUrl": "https://www.gravatar.com/avatar/8dcd52e59b4b8df966ed298755837418?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-11-04 06:20:06"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 288,
-            "target": 375,
-            "approved": 0,
-            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
