@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-05T14:19:23.436Z",
-        "to": "2021-11-05T14:19:23.436Z"
+        "from": "2021-10-05T15:22:35.208Z",
+        "to": "2021-11-05T15:22:35.210Z"
     },
     "language": {
         "id": "zh-TW",
@@ -113,8 +113,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 5346,
-            "target": 8649,
+            "translated": 5345,
+            "target": 8648,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -157,8 +157,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3551,
-            "target": 6031,
+            "translated": 3496,
+            "target": 5928,
             "approved": 238,
             "voted": 0,
             "positiveVotes": 8,
@@ -277,28 +277,6 @@
         },
         {
             "user": {
-                "id": "14937223",
-                "username": "yaoul6666",
-                "fullName": "yaoul6666",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14937223/medium/ec03c7d97dfcdb08d96c526d6d9a54ff.jpg",
-                "joined": "2021-09-25 06:08:52"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 574,
-            "target": 971,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14649134",
                 "username": "jerry40822",
                 "fullName": "傑瑞 (jerry40822)",
@@ -343,6 +321,28 @@
         },
         {
             "user": {
+                "id": "14937223",
+                "username": "yaoul6666",
+                "fullName": "yaoul6666",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14937223/medium/ec03c7d97dfcdb08d96c526d6d9a54ff.jpg",
+                "joined": "2021-09-25 06:08:52"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 453,
+            "target": 724,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14912105",
                 "username": "Yataragasus",
                 "fullName": "Yataragasus",
@@ -355,8 +355,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 348,
-            "target": 610,
+            "translated": 388,
+            "target": 682,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
@@ -390,7 +390,7 @@
                 "id": "14989705",
                 "username": "KA9696",
                 "fullName": "KA9696",
-                "avatarUrl": "https://www.gravatar.com/avatar/8dcd52e59b4b8df966ed298755837418?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/8dcd52e59b4b8df966ed298755837418?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-11-04 06:20:06"
             },
             "languages": [
@@ -399,8 +399,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 279,
-            "target": 366,
+            "translated": 288,
+            "target": 375,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
