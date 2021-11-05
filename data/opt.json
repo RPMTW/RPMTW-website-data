@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-05T02:33:08.697Z",
-        "to": "2021-11-05T02:33:08.697Z"
+        "from": "2021-10-05T03:22:14.981Z",
+        "to": "2021-11-05T03:22:14.981Z"
     },
     "language": {
         "id": "zh-TW",
@@ -145,6 +145,28 @@
         },
         {
             "user": {
+                "id": "13104413",
+                "username": "yutayamamoto212",
+                "fullName": "陳裕太 (yutayamamoto212)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13104413/medium/4c8bf0646d31a7096f2e386fdfb7906f.png",
+                "joined": "2021-05-13 07:39:53"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2871,
+            "target": 4321,
+            "approved": 0,
+            "voted": 20,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 23
+        },
+        {
+            "user": {
                 "id": "14946781",
                 "username": "Lichen",
                 "fullName": "Lichen",
@@ -164,28 +186,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
-        },
-        {
-            "user": {
-                "id": "13104413",
-                "username": "yutayamamoto212",
-                "fullName": "陳裕太 (yutayamamoto212)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13104413/medium/4c8bf0646d31a7096f2e386fdfb7906f.png",
-                "joined": "2021-05-13 07:39:53"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1671,
-            "target": 2545,
-            "approved": 0,
-            "voted": 20,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 23
         },
         {
             "user": {
