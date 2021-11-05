@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-05T06:25:23.426Z",
-        "to": "2021-11-05T06:25:23.426Z"
+        "from": "2021-10-05T07:20:03.981Z",
+        "to": "2021-11-05T07:20:03.992Z"
     },
     "language": {
         "id": "zh-TW",
@@ -91,10 +91,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 5682,
-            "target": 8390,
+            "translated": 5688,
+            "target": 8396,
             "approved": 0,
-            "voted": 20,
+            "voted": 70,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 23
@@ -651,28 +651,6 @@
         },
         {
             "user": {
-                "id": "14018449",
-                "username": "kevinchang0916",
-                "fullName": "凱崴 - Kevin (kevinchang0916)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14018449/medium/7c5ccd44621ff1208b58719bd95b0c67.png",
-                "joined": "2021-10-26 02:37:42"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 12,
-            "target": 22,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14967113",
                 "username": "jim620062",
                 "fullName": "ChiaChin (jim620062)",
@@ -687,6 +665,28 @@
             ],
             "translated": 12,
             "target": 31,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14018449",
+                "username": "kevinchang0916",
+                "fullName": "凱崴 - Kevin (kevinchang0916)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14018449/medium/7c5ccd44621ff1208b58719bd95b0c67.png",
+                "joined": "2021-10-26 02:37:42"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 12,
+            "target": 22,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -822,6 +822,28 @@
         },
         {
             "user": {
+                "id": "14308030",
+                "username": "ChocoMing",
+                "fullName": "巧克明 (ChocoMing)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14308030/medium/9aeac6b20adb2fdd95623d824640d8ef.png",
+                "joined": "2021-04-05 10:24:10"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 2,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14454952",
                 "username": "jason715941",
                 "fullName": "颯熾 (jason715941)",
@@ -844,6 +866,23 @@
         },
         {
             "user": {
+                "id": "14818404",
+                "username": "taiwanpeople",
+                "fullName": "taiwanpeople",
+                "avatarUrl": "https://www.gravatar.com/avatar/55dd2589bf9e2f763faa4acd78136c13?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-24 04:02:08"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 1,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14686780",
                 "username": "t7991321",
                 "fullName": "星野宿 (t7991321)",
@@ -861,23 +900,35 @@
         },
         {
             "user": {
-                "id": "14308030",
-                "username": "ChocoMing",
-                "fullName": "巧克明 (ChocoMing)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14308030/medium/9aeac6b20adb2fdd95623d824640d8ef.png",
-                "joined": "2021-04-05 10:24:10"
+                "id": "14883002",
+                "username": "peter2340083",
+                "fullName": "peter2340083",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14883002/medium/57ff011daef2db96d4b74ef882abdfda.png",
+                "joined": "2021-08-16 15:03:31"
             },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
+            "languages": [],
             "translated": 0,
             "target": 0,
             "approved": 0,
-            "voted": 2,
-            "positiveVotes": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14835204",
+                "username": "leter5103",
+                "fullName": "leter5103",
+                "avatarUrl": "https://www.gravatar.com/avatar/cf05c02aefe1b57ab49438d93a264963?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-11 05:29:26"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 48,
             "negativeVotes": 0,
             "winning": 0
         }
