@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-05T20:21:55.223Z",
-        "to": "2021-11-05T20:21:55.225Z"
+        "from": "2021-10-05T21:17:55.516Z",
+        "to": "2021-11-05T21:17:55.518Z"
     },
     "language": {
         "id": "zh-TW",
@@ -170,7 +170,7 @@
                 "id": "14946781",
                 "username": "Lichen",
                 "fullName": "Lichen",
-                "avatarUrl": "https://www.gravatar.com/avatar/66e1e3f0be4558ec0ef080cb043ed69e?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/66e1e3f0be4558ec0ef080cb043ed69e?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-10-03 01:31:54"
             },
             "languages": [
@@ -192,7 +192,7 @@
                 "id": "14941681",
                 "username": "yeast",
                 "fullName": "酵母菌 (yeast)",
-                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-09-28 08:56:51"
             },
             "languages": [
@@ -214,7 +214,7 @@
                 "id": "14971911",
                 "username": "Aki0617",
                 "fullName": "Aki0617",
-                "avatarUrl": "https://www.gravatar.com/avatar/e17bca172fb65e658a9458110facc1ab?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/e17bca172fb65e658a9458110facc1ab?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-10-22 01:16:00"
             },
             "languages": [
@@ -321,6 +321,28 @@
         },
         {
             "user": {
+                "id": "14912105",
+                "username": "Yataragasus",
+                "fullName": "Yataragasus",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14912105/medium/109c570c639661fdf37010f65751c617.png",
+                "joined": "2021-09-07 00:10:30"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 491,
+            "target": 823,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14989705",
                 "username": "KA9696",
                 "fullName": "KA9696",
@@ -359,28 +381,6 @@
             "target": 655,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14912105",
-                "username": "Yataragasus",
-                "fullName": "Yataragasus",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14912105/medium/109c570c639661fdf37010f65751c617.png",
-                "joined": "2021-09-07 00:10:30"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 388,
-            "target": 682,
-            "approved": 0,
-            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
