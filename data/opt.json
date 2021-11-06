@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-06T13:23:38.461Z",
-        "to": "2021-11-06T13:23:38.474Z"
+        "from": "2021-10-06T14:18:41.693Z",
+        "to": "2021-11-06T14:18:41.694Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,9 +25,9 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 144445,
-            "target": 252294,
-            "approved": 31,
+            "translated": 144452,
+            "target": 252308,
+            "approved": 34,
             "voted": 20,
             "positiveVotes": 2,
             "negativeVotes": 0,
@@ -189,6 +189,28 @@
         },
         {
             "user": {
+                "id": "14912105",
+                "username": "Yataragasus",
+                "fullName": "Yataragasus",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14912105/medium/109c570c639661fdf37010f65751c617.png",
+                "joined": "2021-09-07 00:10:30"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1181,
+            "target": 2124,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14946781",
                 "username": "Lichen",
                 "fullName": "Lichen",
@@ -201,8 +223,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1876,
-            "target": 3015,
+            "translated": 1159,
+            "target": 1885,
             "approved": 0,
             "voted": 5,
             "positiveVotes": 0,
@@ -223,33 +245,11 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1383,
-            "target": 2359,
+            "translated": 1152,
+            "target": 2006,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 5,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14912105",
-                "username": "Yataragasus",
-                "fullName": "Yataragasus",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14912105/medium/109c570c639661fdf37010f65751c617.png",
-                "joined": "2021-09-07 00:10:30"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1181,
-            "target": 2124,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
