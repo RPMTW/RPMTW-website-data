@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-06T14:18:41.693Z",
-        "to": "2021-11-06T14:18:41.694Z"
+        "from": "2021-10-06T15:21:18.116Z",
+        "to": "2021-11-06T15:21:18.117Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,9 +25,9 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 144452,
-            "target": 252308,
-            "approved": 34,
+            "translated": 148121,
+            "target": 259531,
+            "approved": 39,
             "voted": 20,
             "positiveVotes": 2,
             "negativeVotes": 0,
@@ -157,8 +157,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3288,
-            "target": 5543,
+            "translated": 2757,
+            "target": 4747,
             "approved": 238,
             "voted": 0,
             "positiveVotes": 8,
@@ -211,11 +211,11 @@
         },
         {
             "user": {
-                "id": "14946781",
-                "username": "Lichen",
-                "fullName": "Lichen",
-                "avatarUrl": "https://www.gravatar.com/avatar/66e1e3f0be4558ec0ef080cb043ed69e?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-10-03 01:31:54"
+                "id": "14971911",
+                "username": "Aki0617",
+                "fullName": "Aki0617",
+                "avatarUrl": "https://www.gravatar.com/avatar/e17bca172fb65e658a9458110facc1ab?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-10-22 01:16:00"
             },
             "languages": [
                 {
@@ -223,10 +223,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1159,
-            "target": 1885,
+            "translated": 959,
+            "target": 1524,
             "approved": 0,
-            "voted": 5,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -245,33 +245,11 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1152,
-            "target": 2006,
+            "translated": 861,
+            "target": 1554,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 5,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14971911",
-                "username": "Aki0617",
-                "fullName": "Aki0617",
-                "avatarUrl": "https://www.gravatar.com/avatar/e17bca172fb65e658a9458110facc1ab?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-10-22 01:16:00"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 959,
-            "target": 1524,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -343,6 +321,28 @@
         },
         {
             "user": {
+                "id": "14946781",
+                "username": "Lichen",
+                "fullName": "Lichen",
+                "avatarUrl": "https://www.gravatar.com/avatar/66e1e3f0be4558ec0ef080cb043ed69e?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-10-03 01:31:54"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 558,
+            "target": 901,
+            "approved": 0,
+            "voted": 5,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14964573",
                 "username": "fungh",
                 "fullName": "Fu ug (fungh)",
@@ -357,28 +357,6 @@
             ],
             "translated": 543,
             "target": 946,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14937223",
-                "username": "yaoul6666",
-                "fullName": "yaoul6666",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14937223/medium/ec03c7d97dfcdb08d96c526d6d9a54ff.jpg",
-                "joined": "2021-09-25 06:08:52"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 410,
-            "target": 655,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -516,6 +494,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 153
+        },
+        {
+            "user": {
+                "id": "14937223",
+                "username": "yaoul6666",
+                "fullName": "yaoul6666",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14937223/medium/ec03c7d97dfcdb08d96c526d6d9a54ff.jpg",
+                "joined": "2021-09-25 06:08:52"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 128,
+            "target": 176,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
         },
         {
             "user": {
