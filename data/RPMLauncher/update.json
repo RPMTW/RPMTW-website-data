@@ -11,51 +11,12 @@
     },
     "version_list": {
         "1.0.0": {
-            "695": {
-                "download_url": {
-                    "windows_7": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.695/RPMLauncher-Windows7.zip",
-                    "windows_10_11": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.695/RPMLauncher-Windows10_11.zip",
-                    "linux": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.695/RPMLauncher-Linux.zip",
-                    "macos": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.695/RPMLauncher-MacOS-Installer.dmg"
-                },
-                "changelog": "New feature: Wrapper Command Close #17\n\n新功能：包裝指令",
-                "type": "dev"
-            },
-            "696": {
-                "download_url": {
-                    "windows_7": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.696/RPMLauncher-Windows7.zip",
-                    "windows_10_11": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.696/RPMLauncher-Windows10_11.zip",
-                    "linux": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.696/RPMLauncher-Linux.zip",
-                    "macos": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.696/RPMLauncher-MacOS-Installer.dmg"
-                },
-                "changelog": "Bug fix: Some widgets failed to test\n\n錯誤修復：部份小部件測試失敗",
-                "type": "dev"
-            },
-            "697": {
-                "download_url": {
-                    "windows_7": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.697/RPMLauncher-Windows7.zip",
-                    "windows_10_11": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.697/RPMLauncher-Windows10_11.zip",
-                    "linux": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.697/RPMLauncher-Linux.zip",
-                    "macos": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.697/RPMLauncher-MacOS-Installer.dmg"
-                },
-                "changelog": "Bug fix: Wrapper Command\n\n錯誤修復：包裝指令",
-                "type": "dev"
-            },
-            "698": {
-                "download_url": {
-                    "windows_7": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.698/RPMLauncher-Windows7.zip",
-                    "windows_10_11": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.698/RPMLauncher-Windows10_11.zip",
-                    "linux": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.698/RPMLauncher-Linux.zip",
-                    "macos": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.698/RPMLauncher-MacOS-Installer.dmg"
-                },
-                "changelog": "Bug fix: Switching page animation Close #121\n\n錯誤修復：切換頁面動畫",
-                "type": "dev"
-            },
             "699": {
                 "download_url": {
                     "windows_7": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.699/RPMLauncher-Windows7.zip",
                     "windows_10_11": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.699/RPMLauncher-Windows10_11.zip",
                     "linux": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.699/RPMLauncher-Linux.zip",
+                    "linux-appimage": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.699/RPMLauncher-MacOS-Installer.dmg",
                     "macos": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0.699/RPMLauncher-MacOS-Installer.dmg"
                 },
                 "changelog": "Test: More unit tests added\n\n測試：新增更多單元測試",
