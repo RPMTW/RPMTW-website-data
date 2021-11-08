@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-08T11:17:34.741Z",
-        "to": "2021-11-08T11:17:34.741Z"
+        "from": "2021-10-08T12:33:36.304Z",
+        "to": "2021-11-08T12:33:36.304Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 173833,
-            "target": 304261,
+            "translated": 174072,
+            "target": 304745,
             "approved": 142,
             "voted": 20,
             "positiveVotes": 2,
@@ -91,8 +91,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 5715,
-            "target": 8445,
+            "translated": 5818,
+            "target": 8638,
             "approved": 0,
             "voted": 71,
             "positiveVotes": 0,
@@ -201,8 +201,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1344,
-            "target": 2405,
+            "translated": 1347,
+            "target": 2415,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
@@ -563,28 +563,6 @@
         },
         {
             "user": {
-                "id": "14948097",
-                "username": "keira224",
-                "fullName": "keira224",
-                "avatarUrl": "https://www.gravatar.com/avatar/42563e3459ce929d9cbe7435d05a2afc?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-10-03 04:04:58"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 43,
-            "target": 68,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14815244",
                 "username": "Nanamiya738",
                 "fullName": "Nanamiya738",
@@ -607,28 +585,6 @@
         },
         {
             "user": {
-                "id": "14967113",
-                "username": "jim620062",
-                "fullName": "ChiaChin (jim620062)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14967113/medium/10a0db492418328f5403f591a3f084f3.png",
-                "joined": "2021-10-18 11:12:15"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 12,
-            "target": 31,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14018449",
                 "username": "kevinchang0916",
                 "fullName": "凱崴 - Kevin (kevinchang0916)",
@@ -643,6 +599,28 @@
             ],
             "translated": 12,
             "target": 22,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14967113",
+                "username": "jim620062",
+                "fullName": "ChiaChin (jim620062)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14967113/medium/10a0db492418328f5403f591a3f084f3.png",
+                "joined": "2021-10-18 11:12:15"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 12,
+            "target": 31,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -822,28 +800,6 @@
         },
         {
             "user": {
-                "id": "14308030",
-                "username": "ChocoMing",
-                "fullName": "巧克明 (ChocoMing)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14308030/medium/9aeac6b20adb2fdd95623d824640d8ef.png",
-                "joined": "2021-04-05 10:24:10"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 3,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14946781",
                 "username": "Lichen",
                 "fullName": "Lichen",
@@ -860,6 +816,28 @@
             "target": 0,
             "approved": 0,
             "voted": 5,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14308030",
+                "username": "ChocoMing",
+                "fullName": "巧克明 (ChocoMing)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14308030/medium/9aeac6b20adb2fdd95623d824640d8ef.png",
+                "joined": "2021-04-05 10:24:10"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 3,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
