@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-09T04:27:59.345Z",
-        "to": "2021-11-09T04:27:59.347Z"
+        "from": "2021-10-09T05:18:56.751Z",
+        "to": "2021-11-09T05:18:56.751Z"
     },
     "language": {
         "id": "zh-TW",
@@ -69,35 +69,13 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 6973,
-            "target": 11542,
+            "translated": 6993,
+            "target": 11582,
             "approved": 0,
             "voted": 2,
             "positiveVotes": 2,
             "negativeVotes": 0,
             "winning": 0
-        },
-        {
-            "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 6605,
-            "target": 11075,
-            "approved": 33,
-            "voted": 0,
-            "positiveVotes": 4,
-            "negativeVotes": 2,
-            "winning": 17
         },
         {
             "user": {
@@ -157,9 +135,9 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2700,
-            "target": 4661,
-            "approved": 238,
+            "translated": 2681,
+            "target": 4627,
+            "approved": 236,
             "voted": 0,
             "positiveVotes": 8,
             "negativeVotes": 0,
@@ -186,6 +164,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1860,
+            "target": 2894,
+            "approved": 33,
+            "voted": 0,
+            "positiveVotes": 4,
+            "negativeVotes": 2,
+            "winning": 17
         },
         {
             "user": {
