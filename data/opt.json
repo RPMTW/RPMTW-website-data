@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-11T12:33:32.442Z",
-        "to": "2021-11-11T12:33:32.455Z"
+        "from": "2021-10-11T13:24:38.224Z",
+        "to": "2021-11-11T13:24:38.236Z"
     },
     "language": {
         "id": "zh-TW",
@@ -365,28 +365,6 @@
         },
         {
             "user": {
-                "id": "14941681",
-                "username": "yeast",
-                "fullName": "酵母菌 (yeast)",
-                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-09-28 08:56:51"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 183,
-            "target": 362,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 5,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13509568",
                 "username": "luyisien",
                 "fullName": "seacucu (luyisien)",
@@ -406,6 +384,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 153
+        },
+        {
+            "user": {
+                "id": "14941681",
+                "username": "yeast",
+                "fullName": "酵母菌 (yeast)",
+                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-09-28 08:56:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 176,
+            "target": 352,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 5,
+            "negativeVotes": 0,
+            "winning": 0
         },
         {
             "user": {
