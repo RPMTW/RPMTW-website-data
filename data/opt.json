@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-12T11:17:37.659Z",
-        "to": "2021-11-12T11:17:37.660Z"
+        "from": "2021-10-12T12:33:38.251Z",
+        "to": "2021-11-12T12:33:38.251Z"
     },
     "language": {
         "id": "zh-TW",
@@ -299,28 +299,6 @@
         },
         {
             "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 236,
-            "target": 386,
-            "approved": 33,
-            "voted": 0,
-            "positiveVotes": 3,
-            "negativeVotes": 2,
-            "winning": 17
-        },
-        {
-            "user": {
                 "id": "14871148",
                 "username": "yingsicy",
                 "fullName": "YingsIcy (yingsicy)",
@@ -585,28 +563,6 @@
         },
         {
             "user": {
-                "id": "14018449",
-                "username": "kevinchang0916",
-                "fullName": "凱崴 - Kevin (kevinchang0916)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14018449/medium/7c5ccd44621ff1208b58719bd95b0c67.png",
-                "joined": "2021-10-26 02:37:42"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 12,
-            "target": 22,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14967113",
                 "username": "jim620062",
                 "fullName": "ChiaChin (jim620062)",
@@ -621,6 +577,28 @@
             ],
             "translated": 12,
             "target": 31,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14018449",
+                "username": "kevinchang0916",
+                "fullName": "凱崴 - Kevin (kevinchang0916)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14018449/medium/7c5ccd44621ff1208b58719bd95b0c67.png",
+                "joined": "2021-10-26 02:37:42"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 12,
+            "target": 22,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -836,6 +814,28 @@
             "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 0,
+            "target": 0,
+            "approved": 33,
+            "voted": 0,
+            "positiveVotes": 3,
+            "negativeVotes": 2,
+            "winning": 17
         },
         {
             "user": {
