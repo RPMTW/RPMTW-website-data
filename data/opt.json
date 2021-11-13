@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-13T12:32:06.742Z",
-        "to": "2021-11-13T12:32:06.755Z"
+        "from": "2021-10-13T13:23:39.936Z",
+        "to": "2021-11-13T13:23:39.937Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,10 +25,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 151604,
-            "target": 261471,
+            "translated": 150716,
+            "target": 259976,
             "approved": 142,
-            "voted": 13,
+            "voted": 8,
             "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 37
@@ -47,10 +47,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 7495,
-            "target": 12114,
+            "translated": 8446,
+            "target": 13730,
             "approved": 0,
-            "voted": 70,
+            "voted": 99,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 23
@@ -82,7 +82,7 @@
                 "id": "14753864",
                 "username": "yoshikiece",
                 "fullName": "旺財 (yoshikiece)",
-                "avatarUrl": "https://www.gravatar.com/avatar/9b1b878bb4a8a923d1c7b129bce6e120?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/9b1b878bb4a8a923d1c7b129bce6e120?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-05-13 02:17:39"
             },
             "languages": [
@@ -148,7 +148,7 @@
                 "id": "14989705",
                 "username": "KA9696",
                 "fullName": "KA9696",
-                "avatarUrl": "https://www.gravatar.com/avatar/8dcd52e59b4b8df966ed298755837418?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/8dcd52e59b4b8df966ed298755837418?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-11-04 06:20:06"
             },
             "languages": [
@@ -183,7 +183,7 @@
             "target": 2765,
             "approved": 133,
             "voted": 0,
-            "positiveVotes": 12,
+            "positiveVotes": 10,
             "negativeVotes": 0,
             "winning": 67
         },
@@ -519,6 +519,28 @@
         },
         {
             "user": {
+                "id": "14974137",
+                "username": "11055168",
+                "fullName": "32趙柏傑 (11055168)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14974137/medium/ed8c1bcf164da55702d36e6ecc1e9cde.png",
+                "joined": "2021-10-24 08:41:59"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 33,
+            "target": 60,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14815244",
                 "username": "Nanamiya738",
                 "fullName": "Nanamiya738",
@@ -610,7 +632,7 @@
                 "id": "14795000",
                 "username": "BloggerWang",
                 "fullName": "BloggerWang",
-                "avatarUrl": "https://www.gravatar.com/avatar/47eb397a82320b3065df932ecee0935d?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/47eb397a82320b3065df932ecee0935d?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-06-11 01:59:30"
             },
             "languages": [
@@ -643,28 +665,6 @@
             ],
             "translated": 6,
             "target": 9,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14974137",
-                "username": "11055168",
-                "fullName": "32趙柏傑 (11055168)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14974137/medium/ed8c1bcf164da55702d36e6ecc1e9cde.png",
-                "joined": "2021-10-24 08:41:59"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 4,
-            "target": 10,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
