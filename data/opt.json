@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-14T15:21:29.752Z",
-        "to": "2021-11-14T15:21:29.753Z"
+        "from": "2021-10-14T16:32:04.201Z",
+        "to": "2021-11-14T16:32:04.201Z"
     },
     "language": {
         "id": "zh-TW",
@@ -31,7 +31,7 @@
             "voted": 8,
             "positiveVotes": 1,
             "negativeVotes": 0,
-            "winning": 37
+            "winning": 35
         },
         {
             "user": {
@@ -181,7 +181,7 @@
             ],
             "translated": 809,
             "target": 1590,
-            "approved": 133,
+            "approved": 131,
             "voted": 0,
             "positiveVotes": 9,
             "negativeVotes": 0,
@@ -431,28 +431,6 @@
         },
         {
             "user": {
-                "id": "14871148",
-                "username": "yingsicy",
-                "fullName": "YingsIcy (yingsicy)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14871148/medium/7aa32c2c7feafb07e6eebee397419a28.jpeg",
-                "joined": "2021-08-09 10:39:54"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 91,
-            "target": 204,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14994649",
                 "username": "ERROR_WK",
                 "fullName": "林 唯 (ERROR_WK)",
@@ -491,6 +469,28 @@
             "target": 107,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14871148",
+                "username": "yingsicy",
+                "fullName": "YingsIcy (yingsicy)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14871148/medium/7aa32c2c7feafb07e6eebee397419a28.jpeg",
+                "joined": "2021-08-09 10:39:54"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 55,
+            "target": 93,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -651,28 +651,6 @@
         },
         {
             "user": {
-                "id": "14989939",
-                "username": "lonelyrab",
-                "fullName": "lonelyrab",
-                "avatarUrl": "https://www.gravatar.com/avatar/7f55c9fb32de4d8fa92770c34832bf48?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-11-04 08:56:33"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3,
-            "target": 5,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14959745",
                 "username": "godknows",
                 "fullName": "Ng Stephen (godknows)",
@@ -687,6 +665,28 @@
             ],
             "translated": 3,
             "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14989939",
+                "username": "lonelyrab",
+                "fullName": "lonelyrab",
+                "avatarUrl": "https://www.gravatar.com/avatar/7f55c9fb32de4d8fa92770c34832bf48?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-11-04 08:56:33"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 5,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
