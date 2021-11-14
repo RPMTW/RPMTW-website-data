@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-14T10:23:17.071Z",
-        "to": "2021-11-14T10:23:17.073Z"
+        "from": "2021-10-14T11:17:03.460Z",
+        "to": "2021-11-14T11:17:03.462Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 152425,
-            "target": 262402,
+            "translated": 152505,
+            "target": 262532,
             "approved": 142,
             "voted": 8,
             "positiveVotes": 1,
@@ -135,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3703,
-            "target": 5842,
+            "translated": 3682,
+            "target": 5798,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -497,28 +497,6 @@
         },
         {
             "user": {
-                "id": "14782794",
-                "username": "goodboyye",
-                "fullName": "goodboyye",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782794/medium/5f5808fb8b849c7387bd7edf148ffc44.png",
-                "joined": "2021-08-16 08:07:34"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 66,
-            "target": 122,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14964349",
                 "username": "xiaobu5487",
                 "fullName": "小布 (xiaobu5487)",
@@ -541,11 +519,11 @@
         },
         {
             "user": {
-                "id": "14751082",
-                "username": "AnimefanXShotacon",
-                "fullName": "水祈里太 (AnimefanXShotacon)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14751082/medium/027dc884e9b8f1dfb3cea16b4558b033.jpeg",
-                "joined": "2021-05-11 10:00:18"
+                "id": "14782794",
+                "username": "goodboyye",
+                "fullName": "goodboyye",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782794/medium/5f5808fb8b849c7387bd7edf148ffc44.png",
+                "joined": "2021-08-16 08:07:34"
             },
             "languages": [
                 {
@@ -553,8 +531,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 55,
-            "target": 80,
+            "translated": 59,
+            "target": 110,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -709,6 +687,28 @@
             ],
             "translated": 6,
             "target": 9,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14751082",
+                "username": "AnimefanXShotacon",
+                "fullName": "水祈里太 (AnimefanXShotacon)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14751082/medium/027dc884e9b8f1dfb3cea16b4558b033.jpeg",
+                "joined": "2021-05-11 10:00:18"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 5,
+            "target": 10,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
