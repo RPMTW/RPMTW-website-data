@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-15T03:22:27.169Z",
-        "to": "2021-11-15T03:22:27.170Z"
+        "from": "2021-10-15T04:28:34.803Z",
+        "to": "2021-11-15T04:28:34.816Z"
     },
     "language": {
         "id": "zh-TW",
@@ -47,10 +47,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 10136,
-            "target": 16576,
+            "translated": 11635,
+            "target": 19115,
             "approved": 0,
-            "voted": 109,
+            "voted": 115,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 23
@@ -778,11 +778,11 @@
         },
         {
             "user": {
-                "id": "14818404",
-                "username": "taiwanpeople",
-                "fullName": "taiwanpeople",
-                "avatarUrl": "https://www.gravatar.com/avatar/55dd2589bf9e2f763faa4acd78136c13?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-07-24 04:02:08"
+                "id": "14829860",
+                "username": "EternalDragonborn",
+                "fullName": "Dragonborn (EternalDragonborn)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14829860/medium/d417b1ded9e14967ca6c1fbf5e61cd41.jpg",
+                "joined": "2021-07-06 20:13:55"
             },
             "languages": [],
             "translated": 0,
@@ -864,6 +864,23 @@
             "voted": 0,
             "positiveVotes": 1,
             "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14818404",
+                "username": "taiwanpeople",
+                "fullName": "taiwanpeople",
+                "avatarUrl": "https://www.gravatar.com/avatar/55dd2589bf9e2f763faa4acd78136c13?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-24 04:02:08"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 1,
             "winning": 0
         },
         {
