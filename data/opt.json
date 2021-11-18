@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-18T15:22:43.908Z",
-        "to": "2021-11-18T15:22:43.909Z"
+        "from": "2021-10-18T16:33:02.239Z",
+        "to": "2021-11-18T16:33:02.239Z"
     },
     "language": {
         "id": "zh-TW",
@@ -69,8 +69,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 10661,
-            "target": 17715,
+            "translated": 10673,
+            "target": 17750,
             "approved": 0,
             "voted": 15,
             "positiveVotes": 2,
@@ -157,8 +157,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2017,
-            "target": 3508,
+            "translated": 2319,
+            "target": 4000,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -511,28 +511,6 @@
             ],
             "translated": 12,
             "target": 22,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14967113",
-                "username": "jim620062",
-                "fullName": "ChiaChin (jim620062)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14967113/medium/10a0db492418328f5403f591a3f084f3.png",
-                "joined": "2021-10-18 11:12:15"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 8,
-            "target": 23,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
