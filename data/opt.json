@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-18T22:21:18.323Z",
-        "to": "2021-11-18T22:21:18.323Z"
+        "from": "2021-10-18T23:21:46.038Z",
+        "to": "2021-11-18T23:21:46.058Z"
     },
     "language": {
         "id": "zh-TW",
@@ -255,28 +255,6 @@
         },
         {
             "user": {
-                "id": "14649134",
-                "username": "jerry40822",
-                "fullName": "傑瑞 (jerry40822)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14649134/medium/889390111db5536c7023ecd3f1f48011.png",
-                "joined": "2021-10-18 13:06:22"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 380,
-            "target": 680,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14974137",
                 "username": "11055168",
                 "fullName": "32趙柏傑 (11055168)",
@@ -405,6 +383,28 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 1,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14649134",
+                "username": "jerry40822",
+                "fullName": "傑瑞 (jerry40822)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14649134/medium/889390111db5536c7023ecd3f1f48011.png",
+                "joined": "2021-10-18 13:06:22"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 111,
+            "target": 230,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
             "winning": 0
         },
         {
