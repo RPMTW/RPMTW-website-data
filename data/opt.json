@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-21T08:24:40.768Z",
-        "to": "2021-11-21T08:24:40.769Z"
+        "from": "2021-10-21T09:20:30.459Z",
+        "to": "2021-11-21T09:20:30.460Z"
     },
     "language": {
         "id": "zh-TW",
@@ -233,28 +233,6 @@
         },
         {
             "user": {
-                "id": "14036188",
-                "username": "chesterccj305",
-                "fullName": "舞秋風 (chesterccj305)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
-                "joined": "2021-03-01 15:40:11"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 566,
-            "target": 1115,
-            "approved": 138,
-            "voted": 0,
-            "positiveVotes": 11,
-            "negativeVotes": 0,
-            "winning": 67
-        },
-        {
-            "user": {
                 "id": "14964573",
                 "username": "fungh",
                 "fullName": "Fu ug (fungh)",
@@ -384,6 +362,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "14036188",
+                "username": "chesterccj305",
+                "fullName": "舞秋風 (chesterccj305)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
+                "joined": "2021-03-01 15:40:11"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 246,
+            "target": 408,
+            "approved": 72,
+            "voted": 0,
+            "positiveVotes": 11,
+            "negativeVotes": 0,
+            "winning": 9
         },
         {
             "user": {
