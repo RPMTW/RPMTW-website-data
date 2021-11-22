@@ -1,1 +1,34 @@
-{"dev":{"latest_version":"1.0.0","latest_build_id":"772","latest_version_full":"1.0.0+772"},"stable":{"latest_version":null,"latest_build_id":null,"latest_version_full":null},"version_list":{"1.0.0+771":{"download_url":{"windows":"https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+771/RPMLauncher-Windows-Installer.exe","linux":"https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+771/RPMLauncher-Linux.zip","linux-appimage":"https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+771/RPMLauncher-Linux.AppImage","macos":"https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+771/RPMLauncher-MacOS-Installer.dmg"},"changelog":"New Feature: New background image in the instance browser window\n\n新功能：安裝檔瀏覽視窗新增背景圖","type":"dev"},"1.0.0":{},"1.0.0+772":{"download_url":{"windows":"https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+772/RPMLauncher-Windows-Installer.exe","linux":"https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+772/RPMLauncher-Linux.zip","linux-appimage":"https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+772/RPMLauncher-Linux.AppImage","macos":"https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+772/RPMLauncher-MacOS-Installer.dmg"},"changelog":"Enhancement: Automatic update detection\n\n改進：自動更新偵測","type":"dev"}}}
+{
+    "dev": {
+        "latest_version": "1.0.0",
+        "latest_build_id": "772",
+        "latest_version_full": "1.0.0+772"
+    },
+    "stable": {
+        "latest_version": null,
+        "latest_build_id": null,
+        "latest_version_full": null
+    },
+    "version_list": {
+        "1.0.0+771": {
+            "download_url": {
+                "windows": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+771/RPMLauncher-Windows-Installer.exe",
+                "linux": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+771/RPMLauncher-Linux.zip",
+                "linux-appimage": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+771/RPMLauncher-Linux.AppImage",
+                "macos": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+771/RPMLauncher-MacOS-Installer.dmg"
+            },
+            "changelog": "New Feature: New background image in the instance browser window\n\n新功能：安裝檔瀏覽視窗新增背景圖",
+            "type": "dev"
+        },
+        "1.0.0+772": {
+            "download_url": {
+                "windows": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+772/RPMLauncher-Windows-Installer.exe",
+                "linux": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+772/RPMLauncher-Linux.zip",
+                "linux-appimage": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+772/RPMLauncher-Linux.AppImage",
+                "macos": "https://github.com/RPMTW/RPMLauncher/releases/download/1.0.0+772/RPMLauncher-MacOS-Installer.dmg"
+            },
+            "changelog": "Enhancement: Automatic update detection\n\n改進：自動更新偵測",
+            "type": "dev"
+        }
+    }
+}
