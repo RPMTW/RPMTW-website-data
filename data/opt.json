@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-22T17:27:11.423Z",
-        "to": "2021-11-22T17:27:11.425Z"
+        "from": "2021-10-22T18:25:12.204Z",
+        "to": "2021-11-22T18:25:12.235Z"
     },
     "language": {
         "id": "zh-TW",
@@ -255,6 +255,28 @@
         },
         {
             "user": {
+                "id": "14036188",
+                "username": "chesterccj305",
+                "fullName": "舞秋風 (chesterccj305)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
+                "joined": "2021-03-01 15:40:11"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 389,
+            "target": 672,
+            "approved": 72,
+            "voted": 0,
+            "positiveVotes": 10,
+            "negativeVotes": 0,
+            "winning": 9
+        },
+        {
+            "user": {
                 "id": "14860302",
                 "username": "Ben_Shing",
                 "fullName": "Ben Shing (Ben_Shing)",
@@ -274,28 +296,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
-        },
-        {
-            "user": {
-                "id": "14036188",
-                "username": "chesterccj305",
-                "fullName": "舞秋風 (chesterccj305)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
-                "joined": "2021-03-01 15:40:11"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 334,
-            "target": 567,
-            "approved": 72,
-            "voted": 0,
-            "positiveVotes": 10,
-            "negativeVotes": 0,
-            "winning": 9
         },
         {
             "user": {
