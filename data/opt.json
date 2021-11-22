@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-22T16:34:44.737Z",
-        "to": "2021-11-22T16:34:44.769Z"
+        "from": "2021-10-22T17:27:11.423Z",
+        "to": "2021-11-22T17:27:11.425Z"
     },
     "language": {
         "id": "zh-TW",
@@ -277,6 +277,28 @@
         },
         {
             "user": {
+                "id": "14036188",
+                "username": "chesterccj305",
+                "fullName": "舞秋風 (chesterccj305)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
+                "joined": "2021-03-01 15:40:11"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 334,
+            "target": 567,
+            "approved": 72,
+            "voted": 0,
+            "positiveVotes": 10,
+            "negativeVotes": 0,
+            "winning": 9
+        },
+        {
+            "user": {
                 "id": "14974137",
                 "username": "11055168",
                 "fullName": "32趙柏傑 (11055168)",
@@ -365,28 +387,6 @@
         },
         {
             "user": {
-                "id": "14036188",
-                "username": "chesterccj305",
-                "fullName": "舞秋風 (chesterccj305)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
-                "joined": "2021-03-01 15:40:11"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 235,
-            "target": 388,
-            "approved": 72,
-            "voted": 0,
-            "positiveVotes": 10,
-            "negativeVotes": 0,
-            "winning": 9
-        },
-        {
-            "user": {
                 "id": "13509568",
                 "username": "luyisien",
                 "fullName": "seacucu (luyisien)",
@@ -465,8 +465,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 93,
-            "target": 253,
+            "translated": 85,
+            "target": 238,
             "approved": 0,
             "voted": 2,
             "positiveVotes": 0,
