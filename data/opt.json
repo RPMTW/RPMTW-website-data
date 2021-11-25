@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-25T06:25:48.349Z",
-        "to": "2021-11-25T06:25:48.362Z"
+        "from": "2021-10-25T07:20:37.310Z",
+        "to": "2021-11-25T07:20:37.311Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 120136,
-            "target": 210585,
+            "translated": 120472,
+            "target": 211144,
             "approved": 145,
             "voted": 2,
             "positiveVotes": 3,
@@ -48,7 +48,7 @@
                 }
             ],
             "translated": 23509,
-            "target": 37719,
+            "target": 37703,
             "approved": 0,
             "voted": 183,
             "positiveVotes": 0,
@@ -233,28 +233,6 @@
         },
         {
             "user": {
-                "id": "14964573",
-                "username": "fungh",
-                "fullName": "Fu ug (fungh)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14964573/medium/07b8fd86740a2d8fbd301f71335fd9b5.jpeg",
-                "joined": "2021-10-16 06:51:18"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 376,
-            "target": 604,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14036188",
                 "username": "chesterccj305",
                 "fullName": "舞秋風 (chesterccj305)",
@@ -359,6 +337,28 @@
             "target": 652,
             "approved": 0,
             "voted": 6,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14964573",
+                "username": "fungh",
+                "fullName": "Fu ug (fungh)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14964573/medium/07b8fd86740a2d8fbd301f71335fd9b5.jpeg",
+                "joined": "2021-10-16 06:51:18"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 275,
+            "target": 451,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
