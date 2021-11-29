@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-28T23:21:17.461Z",
-        "to": "2021-11-28T23:21:17.475Z"
+        "from": "2021-10-29T01:08:36.935Z",
+        "to": "2021-11-29T01:08:36.947Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 150164,
-            "target": 260130,
+            "translated": 150180,
+            "target": 260169,
             "approved": 145,
             "voted": 2,
             "positiveVotes": 3,
@@ -365,28 +365,6 @@
         },
         {
             "user": {
-                "id": "13509568",
-                "username": "luyisien",
-                "fullName": "seacucu (luyisien)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13509568/medium/b6d8d9541bf48eb0ba287f519df252cd.jpg",
-                "joined": "2021-10-28 20:37:58"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 177,
-            "target": 339,
-            "approved": 152,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 153
-        },
-        {
-            "user": {
                 "id": "14688458",
                 "username": "jlin53882",
                 "fullName": "林家豪 (jlin53882)",
@@ -406,6 +384,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "13509568",
+                "username": "luyisien",
+                "fullName": "seacucu (luyisien)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13509568/medium/b6d8d9541bf48eb0ba287f519df252cd.jpg",
+                "joined": "2021-10-28 20:37:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 162,
+            "target": 303,
+            "approved": 152,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 153
         },
         {
             "user": {
