@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-30T06:21:04.580Z",
-        "to": "2021-11-30T06:21:04.600Z"
+        "from": "2021-10-30T07:16:42.848Z",
+        "to": "2021-11-30T07:16:42.849Z"
     },
     "language": {
         "id": "zh-TW",
@@ -31,7 +31,7 @@
             "voted": 2,
             "positiveVotes": 3,
             "negativeVotes": 2,
-            "winning": 24
+            "winning": 23
         },
         {
             "user": {
@@ -97,7 +97,7 @@
             "voted": 0,
             "positiveVotes": 14,
             "negativeVotes": 1,
-            "winning": 18
+            "winning": 10
         },
         {
             "user": {
@@ -384,28 +384,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
-        },
-        {
-            "user": {
-                "id": "13509568",
-                "username": "luyisien",
-                "fullName": "seacucu (luyisien)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13509568/medium/b6d8d9541bf48eb0ba287f519df252cd.jpg",
-                "joined": "2021-10-28 20:37:58"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 162,
-            "target": 303,
-            "approved": 152,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 138
         },
         {
             "user": {
