@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-10-30T13:17:34.242Z",
-        "to": "2021-11-30T13:17:34.243Z"
+        "from": "2021-10-30T14:19:45.372Z",
+        "to": "2021-11-30T14:19:45.373Z"
     },
     "language": {
         "id": "zh-TW",
@@ -26,7 +26,7 @@
                 }
             ],
             "translated": 143662,
-            "target": 249350,
+            "target": 249351,
             "approved": 145,
             "voted": 2,
             "positiveVotes": 3,
@@ -206,28 +206,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14971911",
-                "username": "Aki0617",
-                "fullName": "Aki0617",
-                "avatarUrl": "https://www.gravatar.com/avatar/e17bca172fb65e658a9458110facc1ab?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-10-22 01:16:00"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 647,
-            "target": 995,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -423,6 +401,28 @@
             ],
             "translated": 72,
             "target": 169,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14971911",
+                "username": "Aki0617",
+                "fullName": "Aki0617",
+                "avatarUrl": "https://www.gravatar.com/avatar/e17bca172fb65e658a9458110facc1ab?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-10-22 01:16:00"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 43,
+            "target": 63,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
