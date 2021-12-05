@@ -1,0 +1,30 @@
+[
+    {
+        "name": "魔法金屬",
+        "version": "1.7.10",
+        "type": "instance",
+        "loader": "forge",
+        "loaderVersion": "10.13.4.1614-1.7.10",
+        "mods": [
+            {
+                "curseforgeID": 531708,
+                "version": "latest",
+                "type": "curseforge"
+            },
+            {
+                "curseforgeID": 530214,
+                "version": "latest",
+                "type": "curseforge"
+            }
+        ]
+    },
+    {
+        "name": "魔法金屬官方伺服器模組包",
+        "version": "1.7.10",
+        "type": "curseforge-modpack",
+        "loader": "forge",
+        "loaderVersion": "10.13.4.1614-1.7.10",
+        "curseforgeID": "",
+        "visible": false
+    }
+]
