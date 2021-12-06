@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-06T12:35:25.104Z",
-        "to": "2021-12-06T12:35:25.122Z"
+        "from": "2021-11-06T13:27:45.104Z",
+        "to": "2021-12-06T13:27:45.104Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 155218,
-            "target": 263864,
+            "translated": 154245,
+            "target": 262168,
             "approved": 114,
             "voted": 0,
             "positiveVotes": 3,
@@ -101,28 +101,6 @@
         },
         {
             "user": {
-                "id": "14912105",
-                "username": "Yataragasus",
-                "fullName": "Yataragasus",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14912105/medium/109c570c639661fdf37010f65751c617.png",
-                "joined": "2021-09-07 00:10:30"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3567,
-            "target": 6015,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14796570",
                 "username": "yekongyt",
                 "fullName": "夜空 (yekongyt)",
@@ -137,6 +115,28 @@
             ],
             "translated": 3487,
             "target": 6096,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14912105",
+                "username": "Yataragasus",
+                "fullName": "Yataragasus",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14912105/medium/109c570c639661fdf37010f65751c617.png",
+                "joined": "2021-09-07 00:10:30"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2907,
+            "target": 4752,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -434,7 +434,7 @@
                 "id": "15041097",
                 "username": "Lv8970269",
                 "fullName": "Lv8970269",
-                "avatarUrl": "https://www.gravatar.com/avatar/37bc2171db7f53a1d04b41e9e3d62712?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/37bc2171db7f53a1d04b41e9e3d62712?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-12-02 22:35:12"
             },
             "languages": [
@@ -610,7 +610,7 @@
                 "id": "14989939",
                 "username": "lonelyrab",
                 "fullName": "lonelyrab",
-                "avatarUrl": "https://www.gravatar.com/avatar/7f55c9fb32de4d8fa92770c34832bf48?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/7f55c9fb32de4d8fa92770c34832bf48?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-11-04 08:56:33"
             },
             "languages": [
@@ -715,7 +715,7 @@
                 "id": "14941681",
                 "username": "yeast",
                 "fullName": "酵母菌 (yeast)",
-                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/ab22f97b3ede811a1600570eb4cfac70?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-09-28 08:56:51"
             },
             "languages": [],
@@ -827,7 +827,7 @@
                 "id": "14836098",
                 "username": "ethanwu0417",
                 "fullName": "ethanwu0417",
-                "avatarUrl": "https://www.gravatar.com/avatar/96257471ae157652c4856c3b6483a769?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/96257471ae157652c4856c3b6483a769?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-07-12 00:53:37"
             },
             "languages": [],
