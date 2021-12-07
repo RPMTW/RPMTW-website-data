@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.ga/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-07T11:19:39.369Z",
-        "to": "2021-12-07T11:19:39.369Z"
+        "from": "2021-11-07T12:37:24.903Z",
+        "to": "2021-12-07T12:37:24.905Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,13 +25,13 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 147532,
-            "target": 248194,
-            "approved": 43,
+            "translated": 148106,
+            "target": 248321,
+            "approved": 3,
             "voted": 0,
             "positiveVotes": 3,
             "negativeVotes": 2,
-            "winning": 9
+            "winning": 0
         },
         {
             "user": {
@@ -321,11 +321,11 @@
         },
         {
             "user": {
-                "id": "14889234",
-                "username": "frank1320",
-                "fullName": "frank1320",
-                "avatarUrl": "https://www.gravatar.com/avatar/e085a4408e5b9a77f4d1114715df2655?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-11-30 23:16:11"
+                "id": "14815244",
+                "username": "Nanamiya738",
+                "fullName": "Nanamiya738",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14815244/medium/72e038ea746d52fd7edf4d5855b911d9.png",
+                "joined": "2021-06-25 10:09:23"
             },
             "languages": [
                 {
@@ -333,8 +333,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 160,
-            "target": 234,
+            "translated": 206,
+            "target": 413,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -357,6 +357,28 @@
             ],
             "translated": 160,
             "target": 173,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14889234",
+                "username": "frank1320",
+                "fullName": "frank1320",
+                "avatarUrl": "https://www.gravatar.com/avatar/e085a4408e5b9a77f4d1114715df2655?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-11-30 23:16:11"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 160,
+            "target": 234,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
