@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-12T12:33:29.824Z",
-        "to": "2021-12-12T12:33:29.824Z"
+        "from": "2021-11-12T13:24:43.863Z",
+        "to": "2021-12-12T13:24:43.877Z"
     },
     "language": {
         "id": "zh-TW",
@@ -72,7 +72,7 @@
             "translated": 10545,
             "target": 17642,
             "approved": 0,
-            "voted": 15,
+            "voted": 16,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -157,10 +157,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2788,
-            "target": 5307,
+            "translated": 3005,
+            "target": 5711,
             "approved": 0,
-            "voted": 103,
+            "voted": 104,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -954,6 +954,23 @@
             "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14824558",
+                "username": "mkytap",
+                "fullName": "mkytap",
+                "avatarUrl": "https://www.gravatar.com/avatar/80abb28bc95f1d81c799c8fc014c0f3f?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-07-02 10:51:40"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 1,
             "winning": 0
         },
         {
