@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-16T11:18:07.874Z",
-        "to": "2021-12-16T11:18:07.875Z"
+        "from": "2021-11-16T12:35:20.726Z",
+        "to": "2021-12-16T12:35:20.739Z"
     },
     "language": {
         "id": "zh-TW",
@@ -157,8 +157,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3046,
-            "target": 4292,
+            "translated": 2482,
+            "target": 3719,
             "approved": 0,
             "voted": 3,
             "positiveVotes": 0,
@@ -211,28 +211,6 @@
         },
         {
             "user": {
-                "id": "14782632",
-                "username": "andrewhsia.cow",
-                "fullName": "流川楓rrr (andrewhsia.cow)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782632/medium/610567d5a432cd0d717c3ae506a6deae.png",
-                "joined": "2021-06-12 06:42:17"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 758,
-            "target": 1598,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14815244",
                 "username": "Nanamiya738",
                 "fullName": "Nanamiya738",
@@ -267,8 +245,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 456,
-            "target": 876,
+            "translated": 477,
+            "target": 918,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -448,6 +426,28 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14782632",
+                "username": "andrewhsia.cow",
+                "fullName": "流川楓rrr (andrewhsia.cow)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782632/medium/610567d5a432cd0d717c3ae506a6deae.png",
+                "joined": "2021-06-12 06:42:17"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 72,
+            "target": 157,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         },
