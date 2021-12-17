@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-17T14:21:22.138Z",
-        "to": "2021-12-17T14:21:22.138Z"
+        "from": "2021-11-17T15:23:01.213Z",
+        "to": "2021-12-17T15:23:01.215Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 143397,
-            "target": 250370,
+            "translated": 143458,
+            "target": 250498,
             "approved": 24,
             "voted": 0,
             "positiveVotes": 11,
@@ -145,32 +145,10 @@
         },
         {
             "user": {
-                "id": "15014137",
-                "username": "zz4498536",
-                "fullName": "慶 (zz4498536)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15014137/medium/c75c22414b160dcab8eee28d3a78582d.jpeg",
-                "joined": "2021-11-17 06:16:40"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2129,
-            "target": 3693,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14989705",
                 "username": "KA9696",
                 "fullName": "KA9696",
-                "avatarUrl": "https://www.gravatar.com/avatar/8dcd52e59b4b8df966ed298755837418?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/8dcd52e59b4b8df966ed298755837418?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-11-04 06:20:06"
             },
             "languages": [
@@ -183,6 +161,28 @@
             "target": 3089,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15014137",
+                "username": "zz4498536",
+                "fullName": "慶 (zz4498536)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15014137/medium/c75c22414b160dcab8eee28d3a78582d.jpeg",
+                "joined": "2021-11-17 06:16:40"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1935,
+            "target": 3304,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -324,7 +324,7 @@
                 "id": "14848632",
                 "username": "GEBYMO_DJV",
                 "fullName": "GEBYMO_DJV",
-                "avatarUrl": "https://www.gravatar.com/avatar/93c4c16d98cf18ca4d40766a31848228?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/93c4c16d98cf18ca4d40766a31848228?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-07-28 12:45:17"
             },
             "languages": [
@@ -368,7 +368,7 @@
                 "id": "14889234",
                 "username": "frank1320",
                 "fullName": "frank1320",
-                "avatarUrl": "https://www.gravatar.com/avatar/e085a4408e5b9a77f4d1114715df2655?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/e085a4408e5b9a77f4d1114715df2655?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-11-30 23:16:11"
             },
             "languages": [
@@ -859,7 +859,7 @@
                 "id": "14777786",
                 "username": "jim870226",
                 "fullName": "jim870226",
-                "avatarUrl": "https://www.gravatar.com/avatar/d04ac12a9179705b47ec1c8c162c8a62?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/d04ac12a9179705b47ec1c8c162c8a62?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-05-29 12:27:12"
             },
             "languages": [],
