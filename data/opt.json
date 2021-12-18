@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-18T07:20:10.944Z",
-        "to": "2021-12-18T07:20:10.945Z"
+        "from": "2021-11-18T08:25:46.893Z",
+        "to": "2021-12-18T08:25:46.893Z"
     },
     "language": {
         "id": "zh-TW",
@@ -57,28 +57,6 @@
         },
         {
             "user": {
-                "id": "14846146",
-                "username": "KuriPa",
-                "fullName": "Kuri Pa (KuriPa)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846146/medium/b9aa35d1001ce10bd78208c618e1f5f3.jpeg",
-                "joined": "2021-07-20 00:54:57"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 7560,
-            "target": 12789,
-            "approved": 0,
-            "voted": 15,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14504298",
                 "username": "SiongSng",
                 "fullName": "菘菘 (SiongSng)",
@@ -97,6 +75,28 @@
             "voted": 0,
             "positiveVotes": 31,
             "negativeVotes": 4,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14846146",
+                "username": "KuriPa",
+                "fullName": "Kuri Pa (KuriPa)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846146/medium/b9aa35d1001ce10bd78208c618e1f5f3.jpeg",
+                "joined": "2021-07-20 00:54:57"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 7062,
+            "target": 12029,
+            "approved": 0,
+            "voted": 15,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
             "winning": 0
         },
         {
