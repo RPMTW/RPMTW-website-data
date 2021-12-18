@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-18T13:26:08.982Z",
-        "to": "2021-12-18T13:26:08.983Z"
+        "from": "2021-11-18T14:18:57.126Z",
+        "to": "2021-12-18T14:18:57.126Z"
     },
     "language": {
         "id": "zh-TW",
@@ -91,10 +91,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 6882,
-            "target": 11763,
+            "translated": 6488,
+            "target": 10790,
             "approved": 0,
-            "voted": 11,
+            "voted": 6,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -211,28 +211,6 @@
         },
         {
             "user": {
-                "id": "15014137",
-                "username": "zz4498536",
-                "fullName": "慶 (zz4498536)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15014137/medium/c75c22414b160dcab8eee28d3a78582d.jpeg",
-                "joined": "2021-11-17 06:16:40"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 532,
-            "target": 896,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14847496",
                 "username": "StarsShine11904",
                 "fullName": "Stars Shine (StarsShine11904)",
@@ -247,6 +225,28 @@
             ],
             "translated": 477,
             "target": 918,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15014137",
+                "username": "zz4498536",
+                "fullName": "慶 (zz4498536)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15014137/medium/c75c22414b160dcab8eee28d3a78582d.jpeg",
+                "joined": "2021-11-17 06:16:40"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 448,
+            "target": 749,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -644,7 +644,7 @@
             "translated": 9,
             "target": 21,
             "approved": 0,
-            "voted": 0,
+            "voted": 1,
             "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
@@ -945,7 +945,7 @@
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 6,
+            "positiveVotes": 2,
             "negativeVotes": 0,
             "winning": 0
         },
