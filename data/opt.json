@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-19T15:24:04.423Z",
-        "to": "2021-12-19T15:24:04.424Z"
+        "from": "2021-11-19T16:33:45.663Z",
+        "to": "2021-12-19T16:33:45.663Z"
     },
     "language": {
         "id": "zh-TW",
@@ -54,28 +54,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
-        },
-        {
-            "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 7260,
-            "target": 11425,
-            "approved": 495,
-            "voted": 0,
-            "positiveVotes": 31,
-            "negativeVotes": 3,
-            "winning": 253
         },
         {
             "user": {
@@ -230,6 +208,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 368,
+            "target": 622,
+            "approved": 495,
+            "voted": 0,
+            "positiveVotes": 31,
+            "negativeVotes": 3,
+            "winning": 253
         },
         {
             "user": {
