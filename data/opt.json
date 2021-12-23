@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-23T12:36:11.965Z",
-        "to": "2021-12-23T12:36:11.965Z"
+        "from": "2021-11-23T13:28:30.417Z",
+        "to": "2021-12-23T13:28:30.417Z"
     },
     "language": {
         "id": "zh-TW",
@@ -189,6 +189,28 @@
         },
         {
             "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 378,
+            "target": 635,
+            "approved": 500,
+            "voted": 0,
+            "positiveVotes": 31,
+            "negativeVotes": 3,
+            "winning": 253
+        },
+        {
+            "user": {
                 "id": "15060019",
                 "username": "shepherd1025",
                 "fullName": "shepherd1025",
@@ -208,28 +230,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
-        },
-        {
-            "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 350,
-            "target": 593,
-            "approved": 500,
-            "voted": 0,
-            "positiveVotes": 31,
-            "negativeVotes": 3,
-            "winning": 253
         },
         {
             "user": {
@@ -412,7 +412,7 @@
                 "id": "12335782",
                 "username": "sisura",
                 "fullName": "SimoLiao (sisura)",
-                "avatarUrl": "https://www.gravatar.com/avatar/50b783800307edebdf58f54b464a46e1?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/50b783800307edebdf58f54b464a46e1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-12-19 21:08:02"
             },
             "languages": [
