@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-26T12:34:34.481Z",
-        "to": "2021-12-26T12:34:34.487Z"
+        "from": "2021-11-26T13:25:59.494Z",
+        "to": "2021-12-26T13:25:59.496Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 161043,
-            "target": 280719,
+            "translated": 161239,
+            "target": 281145,
             "approved": 24,
             "voted": 0,
             "positiveVotes": 10,
@@ -434,7 +434,7 @@
                 "id": "12335782",
                 "username": "sisura",
                 "fullName": "SimoLiao (sisura)",
-                "avatarUrl": "https://www.gravatar.com/avatar/50b783800307edebdf58f54b464a46e1?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/50b783800307edebdf58f54b464a46e1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-12-19 21:08:02"
             },
             "languages": [
@@ -557,6 +557,28 @@
             "target": 23,
             "approved": 0,
             "voted": 23,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13577647",
+                "username": "a302854888",
+                "fullName": "民間有小麥 (a302854888)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13577647/medium/502561c9f95117b384b705b935f4fe80.jpg",
+                "joined": "2021-04-16 05:58:22"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 7,
+            "target": 14,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
