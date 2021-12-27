@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-27T06:27:33.871Z",
-        "to": "2021-12-27T06:27:33.905Z"
+        "from": "2021-11-27T07:21:01.466Z",
+        "to": "2021-12-27T07:21:01.466Z"
     },
     "language": {
         "id": "zh-TW",
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 19860,
-            "target": 27588,
+            "translated": 19810,
+            "target": 27497,
             "approved": 500,
             "voted": 0,
             "positiveVotes": 25,
@@ -711,28 +711,6 @@
             "target": 4,
             "approved": 0,
             "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15032477",
-                "username": "CNTFK",
-                "fullName": "沈科甫 (CNTFK)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15032477/medium/1cc940d8d7c9b29905fd0255ec1a33b3.png",
-                "joined": "2021-11-27 01:57:32"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1,
-            "target": 2,
-            "approved": 0,
-            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
