@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-28T06:26:57.479Z",
-        "to": "2021-12-28T06:26:57.486Z"
+        "from": "2021-11-28T07:20:53.620Z",
+        "to": "2021-12-28T07:20:53.621Z"
     },
     "language": {
         "id": "zh-TW",
@@ -255,6 +255,28 @@
         },
         {
             "user": {
+                "id": "15068241",
+                "username": "earth_dragon2",
+                "fullName": "MAN BRUH (earth_dragon2)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15068241/medium/8e610cc9f1841efb95ec0ba096a5a11c.png",
+                "joined": "2021-12-28 00:59:09"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 219,
+            "target": 361,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14889234",
                 "username": "frank1320",
                 "fullName": "frank1320",
@@ -357,28 +379,6 @@
             ],
             "translated": 95,
             "target": 207,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15068241",
-                "username": "earth_dragon2",
-                "fullName": "MAN BRUH (earth_dragon2)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15068241/medium/8e610cc9f1841efb95ec0ba096a5a11c.png",
-                "joined": "2021-12-28 00:59:09"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 59,
-            "target": 96,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
