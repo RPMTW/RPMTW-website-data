@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-28T15:23:23.147Z",
-        "to": "2021-12-28T15:23:23.148Z"
+        "from": "2021-11-28T16:35:00.273Z",
+        "to": "2021-12-28T16:35:00.274Z"
     },
     "language": {
         "id": "zh-TW",
@@ -167,6 +167,28 @@
         },
         {
             "user": {
+                "id": "14889234",
+                "username": "frank1320",
+                "fullName": "frank1320",
+                "avatarUrl": "https://www.gravatar.com/avatar/e085a4408e5b9a77f4d1114715df2655?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-11-30 23:16:11"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 695,
+            "target": 1422,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14847496",
                 "username": "StarsShine11904",
                 "fullName": "Stars Shine (StarsShine11904)",
@@ -201,8 +223,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 397,
-            "target": 652,
+            "translated": 487,
+            "target": 819,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -291,28 +313,6 @@
             ],
             "translated": 219,
             "target": 361,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14889234",
-                "username": "frank1320",
-                "fullName": "frank1320",
-                "avatarUrl": "https://www.gravatar.com/avatar/e085a4408e5b9a77f4d1114715df2655?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-11-30 23:16:11"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 172,
-            "target": 249,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -478,7 +478,7 @@
                 "id": "12335782",
                 "username": "sisura",
                 "fullName": "SimoLiao (sisura)",
-                "avatarUrl": "https://www.gravatar.com/avatar/50b783800307edebdf58f54b464a46e1?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/50b783800307edebdf58f54b464a46e1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-12-19 21:08:02"
             },
             "languages": [
