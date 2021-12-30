@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-11-30T10:24:20.659Z",
-        "to": "2021-12-30T10:24:20.660Z"
+        "from": "2021-11-30T11:18:03.638Z",
+        "to": "2021-12-30T11:18:03.638Z"
     },
     "language": {
         "id": "zh-TW",
@@ -69,8 +69,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 4241,
-            "target": 6396,
+            "translated": 4691,
+            "target": 7073,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
@@ -475,6 +475,28 @@
         },
         {
             "user": {
+                "id": "15083713",
+                "username": "chuziyv63",
+                "fullName": "Ziyv Chu (chuziyv63)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15083713/medium/096aca2eeaa3c695c5113751a4643c04.jpeg",
+                "joined": "2021-12-30 06:05:14"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 44,
+            "target": 76,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14809104",
                 "username": "Hochy",
                 "fullName": "Hochy",
@@ -773,11 +795,11 @@
         },
         {
             "user": {
-                "id": "14786964",
-                "username": "n7051530",
-                "fullName": "雨落櫻風 (n7051530)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786964/medium/017a689d6bb6765ae65c03fc88711132.jpeg",
-                "joined": "2021-06-05 05:07:49"
+                "id": "14792142",
+                "username": "denzil890531",
+                "fullName": "蘇子齊 (denzil890531)",
+                "avatarUrl": "https://www.gravatar.com/avatar/4718113ad9d9cd9322c3bb2563cca6a1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-06-09 04:15:11"
             },
             "languages": [],
             "translated": 0,
@@ -785,8 +807,8 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
-            "negativeVotes": 1,
-            "winning": 0
+            "negativeVotes": 0,
+            "winning": 17
         },
         {
             "user": {
@@ -812,28 +834,11 @@
         },
         {
             "user": {
-                "id": "14796976",
-                "username": "misace000",
-                "fullName": "吳建昕 (misace000)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14796976/medium/06014cb54b1cc159342ea76bb2e32e6a.jpeg",
-                "joined": "2021-06-12 14:12:41"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 1,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14869772",
-                "username": "bowen980112",
-                "fullName": "王柏允 (bowen980112)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14869772/medium/ae7524ee5a19ddbbf8a647e001f0929f.jpeg",
-                "joined": "2021-12-11 05:50:51"
+                "id": "14652174",
+                "username": "StarskyXIII",
+                "fullName": "夜之星 (StarskyXIII)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14652174/medium/05e7de522a01874e1b13628295e0c205.jpg",
+                "joined": "2021-04-18 14:40:46"
             },
             "languages": [
                 {
@@ -851,11 +856,11 @@
         },
         {
             "user": {
-                "id": "14652174",
-                "username": "StarskyXIII",
-                "fullName": "夜之星 (StarskyXIII)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14652174/medium/05e7de522a01874e1b13628295e0c205.jpg",
-                "joined": "2021-04-18 14:40:46"
+                "id": "14869772",
+                "username": "bowen980112",
+                "fullName": "王柏允 (bowen980112)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14869772/medium/ae7524ee5a19ddbbf8a647e001f0929f.jpeg",
+                "joined": "2021-12-11 05:50:51"
             },
             "languages": [
                 {
@@ -912,11 +917,11 @@
         },
         {
             "user": {
-                "id": "14792142",
-                "username": "denzil890531",
-                "fullName": "蘇子齊 (denzil890531)",
-                "avatarUrl": "https://www.gravatar.com/avatar/4718113ad9d9cd9322c3bb2563cca6a1?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-06-09 04:15:11"
+                "id": "14786964",
+                "username": "n7051530",
+                "fullName": "雨落櫻風 (n7051530)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786964/medium/017a689d6bb6765ae65c03fc88711132.jpeg",
+                "joined": "2021-06-05 05:07:49"
             },
             "languages": [],
             "translated": 0,
@@ -924,8 +929,25 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 17
+            "negativeVotes": 1,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14796976",
+                "username": "misace000",
+                "fullName": "吳建昕 (misace000)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14796976/medium/06014cb54b1cc159342ea76bb2e32e6a.jpeg",
+                "joined": "2021-06-12 14:12:41"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 1,
+            "winning": 0
         }
     ]
 }
