@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-06T07:21:13.469Z",
-        "to": "2022-01-06T07:21:13.470Z"
+        "from": "2021-12-06T08:27:26.414Z",
+        "to": "2022-01-06T08:27:26.414Z"
     },
     "language": {
         "id": "zh-TW",
@@ -541,28 +541,6 @@
         },
         {
             "user": {
-                "id": "14623594",
-                "username": "command_music",
-                "fullName": "指音 (command_music)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14623594/medium/e8f62c57247b3e03dff91240120f93dc.png",
-                "joined": "2021-03-17 19:56:59"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 31,
-            "target": 62,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14740506",
                 "username": "hankkan940228",
                 "fullName": "康皓鈞 (hankkan940228)",
@@ -599,6 +577,28 @@
             ],
             "translated": 21,
             "target": 36,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14623594",
+                "username": "command_music",
+                "fullName": "指音 (command_music)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14623594/medium/e8f62c57247b3e03dff91240120f93dc.png",
+                "joined": "2021-03-17 19:56:59"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 20,
+            "target": 40,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
