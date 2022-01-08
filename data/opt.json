@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-08T19:17:19.577Z",
-        "to": "2022-01-08T19:17:19.577Z"
+        "from": "2021-12-08T20:23:07.445Z",
+        "to": "2022-01-08T20:23:07.452Z"
     },
     "language": {
         "id": "zh-TW",
@@ -233,6 +233,28 @@
         },
         {
             "user": {
+                "id": "14036188",
+                "username": "chesterccj305",
+                "fullName": "舞秋風 (chesterccj305)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
+                "joined": "2021-03-01 15:40:11"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 438,
+            "target": 871,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 2,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14782632",
                 "username": "andrewhsia.cow",
                 "fullName": "流川楓rrr (andrewhsia.cow)",
@@ -316,28 +338,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14036188",
-                "username": "chesterccj305",
-                "fullName": "舞秋風 (chesterccj305)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
-                "joined": "2021-03-01 15:40:11"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 252,
-            "target": 520,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 2,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -610,7 +610,7 @@
                 "id": "14913313",
                 "username": "5656",
                 "fullName": "5656",
-                "avatarUrl": "https://www.gravatar.com/avatar/07941d53e0b9e9c21a521b4fe7bfc838?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "avatarUrl": "https://www.gravatar.com/avatar/07941d53e0b9e9c21a521b4fe7bfc838?s=96&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
                 "joined": "2021-11-02 23:50:51"
             },
             "languages": [
