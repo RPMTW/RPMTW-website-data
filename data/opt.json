@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-12T14:20:32.622Z",
-        "to": "2022-01-12T14:20:32.623Z"
+        "from": "2021-12-12T15:23:36.793Z",
+        "to": "2022-01-12T15:23:36.794Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 89296,
-            "target": 153441,
+            "translated": 89261,
+            "target": 153386,
             "approved": 27,
             "voted": 0,
             "positiveVotes": 4,
@@ -533,28 +533,6 @@
             ],
             "translated": 44,
             "target": 69,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15059987",
-                "username": "charleskong97",
-                "fullName": "charkes K (charleskong97)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15059987/medium/ebe118415b991a2615978c9c31b4f6f4.png",
-                "joined": "2021-12-12 09:31:17"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 32,
-            "target": 54,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
