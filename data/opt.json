@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-12T06:28:00.251Z",
-        "to": "2022-01-12T06:28:00.251Z"
+        "from": "2021-12-12T07:21:00.302Z",
+        "to": "2022-01-12T07:21:00.303Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,11 +25,11 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 90249,
-            "target": 154996,
+            "translated": 90022,
+            "target": 154590,
             "approved": 27,
             "voted": 0,
-            "positiveVotes": 8,
+            "positiveVotes": 7,
             "negativeVotes": 14,
             "winning": 0
         },
@@ -101,28 +101,6 @@
         },
         {
             "user": {
-                "id": "13686089",
-                "username": "zica87",
-                "fullName": "zica87",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13686089/medium/d4f6929410f3fc7eceb0fa6bf595a51c.jpg",
-                "joined": "2021-05-11 08:16:59"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2688,
-            "target": 5019,
-            "approved": 0,
-            "voted": 110,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14889234",
                 "username": "frank1320",
                 "fullName": "Frank Cheung (frank1320)",
@@ -139,6 +117,28 @@
             "target": 4965,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13686089",
+                "username": "zica87",
+                "fullName": "zica87",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13686089/medium/d4f6929410f3fc7eceb0fa6bf595a51c.jpg",
+                "joined": "2021-05-11 08:16:59"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2449,
+            "target": 4598,
+            "approved": 0,
+            "voted": 98,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -673,6 +673,28 @@
         },
         {
             "user": {
+                "id": "15090475",
+                "username": "o5239602",
+                "fullName": "煎茶果 (o5239602)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15090475/medium/8168c36caa5f38ccd0b73847ee6ceb82.jpeg",
+                "joined": "2022-01-12 01:22:01"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 9,
+            "target": 19,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15061999",
                 "username": "SummerFocus",
                 "fullName": "SummerFocus",
@@ -739,11 +761,11 @@
         },
         {
             "user": {
-                "id": "15090475",
-                "username": "o5239602",
-                "fullName": "煎茶果 (o5239602)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15090475/medium/8168c36caa5f38ccd0b73847ee6ceb82.jpeg",
-                "joined": "2022-01-12 01:22:01"
+                "id": "15101081",
+                "username": "YungHsin",
+                "fullName": "曾詠興 (YungHsin)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15101081/medium/dc9507cf1f52a2279b6e233b5daf7f9f.png",
+                "joined": "2022-01-12 02:03:56"
             },
             "languages": [
                 {
@@ -751,8 +773,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 5,
-            "target": 10,
+            "translated": 3,
+            "target": 8,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -778,7 +800,7 @@
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
-            "negativeVotes": 1,
+            "negativeVotes": 0,
             "winning": 0
         },
         {
