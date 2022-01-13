@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-13T13:29:56.509Z",
-        "to": "2022-01-13T13:29:56.510Z"
+        "from": "2021-12-13T14:20:41.857Z",
+        "to": "2022-01-13T14:20:41.858Z"
     },
     "language": {
         "id": "zh-TW",
@@ -277,28 +277,6 @@
         },
         {
             "user": {
-                "id": "15060019",
-                "username": "shepherd1025",
-                "fullName": "shepherd1025",
-                "avatarUrl": "https://www.gravatar.com/avatar/c2e2bdfaee9f15578bb291c549a73702?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
-                "joined": "2021-12-13 09:01:02"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 358,
-            "target": 623,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14758888",
                 "username": "niemoxi",
                 "fullName": "茉聶 (niemoxi)",
@@ -313,6 +291,28 @@
             ],
             "translated": 336,
             "target": 557,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15060019",
+                "username": "shepherd1025",
+                "fullName": "shepherd1025",
+                "avatarUrl": "https://www.gravatar.com/avatar/c2e2bdfaee9f15578bb291c549a73702?s=48&d=https%3A%2F%2Fcrowdin.com%2Fimages%2Fuser-picture.png",
+                "joined": "2021-12-13 09:01:02"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 327,
+            "target": 565,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
