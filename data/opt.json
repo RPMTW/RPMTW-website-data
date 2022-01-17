@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-17T13:30:36.496Z",
-        "to": "2022-01-17T13:30:36.497Z"
+        "from": "2021-12-17T14:20:50.489Z",
+        "to": "2022-01-17T14:20:50.490Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 87343,
-            "target": 147771,
+            "translated": 87355,
+            "target": 147785,
             "approved": 3,
             "voted": 0,
             "positiveVotes": 2,
@@ -135,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2060,
-            "target": 3371,
+            "translated": 1855,
+            "target": 3023,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -541,6 +541,28 @@
         },
         {
             "user": {
+                "id": "15108545",
+                "username": "johnsonyan",
+                "fullName": "johnsonyan",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15108545/medium/7ab187c8ed7340584550befa1ac72e40_default.png",
+                "joined": "2022-01-17 08:30:19"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 17,
+            "target": 27,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15091787",
                 "username": "blackinflammation87",
                 "fullName": "黑紅火焰 (blackinflammation87)",
@@ -555,6 +577,28 @@
             ],
             "translated": 13,
             "target": 35,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14913313",
+                "username": "5656",
+                "fullName": "5656",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14913313/medium/99c7d3d95eac24f12bc88f9926952f07_default.png",
+                "joined": "2021-11-02 23:50:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 10,
+            "target": 19,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -607,11 +651,11 @@
         },
         {
             "user": {
-                "id": "14913313",
-                "username": "5656",
-                "fullName": "5656",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14913313/medium/99c7d3d95eac24f12bc88f9926952f07_default.png",
-                "joined": "2021-11-02 23:50:51"
+                "id": "15061999",
+                "username": "SummerFocus",
+                "fullName": "SummerFocus",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15061999/medium/b21326aa8ce82a3f9f8403d2a440ac81_default.png",
+                "joined": "2021-12-13 21:18:57"
             },
             "languages": [
                 {
@@ -619,8 +663,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 10,
-            "target": 19,
+            "translated": 9,
+            "target": 15,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -643,28 +687,6 @@
             ],
             "translated": 9,
             "target": 19,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15061999",
-                "username": "SummerFocus",
-                "fullName": "SummerFocus",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15061999/medium/b21326aa8ce82a3f9f8403d2a440ac81_default.png",
-                "joined": "2021-12-13 21:18:57"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 9,
-            "target": 15,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
