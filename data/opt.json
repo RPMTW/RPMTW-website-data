@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-18T11:18:27.590Z",
-        "to": "2022-01-18T11:18:27.590Z"
+        "from": "2021-12-18T12:37:12.151Z",
+        "to": "2022-01-18T12:37:12.163Z"
     },
     "language": {
         "id": "zh-TW",
@@ -833,16 +833,11 @@
                 "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14652174/medium/05e7de522a01874e1b13628295e0c205.jpg",
                 "joined": "2021-04-18 14:40:46"
             },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
+            "languages": [],
             "translated": 0,
             "target": 0,
             "approved": 0,
-            "voted": 1,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 1,
             "winning": 0
