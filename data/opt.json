@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-21T15:21:43.479Z",
-        "to": "2022-01-21T15:21:43.490Z"
+        "from": "2021-12-21T16:29:56.856Z",
+        "to": "2022-01-21T16:29:56.857Z"
     },
     "language": {
         "id": "zh-TW",
@@ -101,28 +101,6 @@
         },
         {
             "user": {
-                "id": "14815244",
-                "username": "Nanamiya738",
-                "fullName": "Nanamiya738",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14815244/medium/72e038ea746d52fd7edf4d5855b911d9.png",
-                "joined": "2021-06-25 10:09:23"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1614,
-            "target": 2660,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13104413",
                 "username": "yutayamamoto212",
                 "fullName": "陳裕太 (yutayamamoto212)",
@@ -203,6 +181,28 @@
             ],
             "translated": 808,
             "target": 1351,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14815244",
+                "username": "Nanamiya738",
+                "fullName": "Nanamiya738",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14815244/medium/72e038ea746d52fd7edf4d5855b911d9.png",
+                "joined": "2021-06-25 10:09:23"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 797,
+            "target": 1297,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -311,8 +311,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 224,
-            "target": 354,
+            "translated": 164,
+            "target": 253,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
