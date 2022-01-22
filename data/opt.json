@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-22T09:19:24.078Z",
-        "to": "2022-01-22T09:19:24.079Z"
+        "from": "2021-12-22T10:21:56.290Z",
+        "to": "2022-01-22T10:21:56.291Z"
     },
     "language": {
         "id": "zh-TW",
@@ -299,6 +299,28 @@
         },
         {
             "user": {
+                "id": "15090475",
+                "username": "o5239602",
+                "fullName": "煎茶果 (o5239602)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15090475/medium/8168c36caa5f38ccd0b73847ee6ceb82.jpeg",
+                "joined": "2022-01-12 01:22:01"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 151,
+            "target": 243,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15083713",
                 "username": "chuziyv63",
                 "fullName": "Ziyv Chu (chuziyv63)",
@@ -475,28 +497,6 @@
         },
         {
             "user": {
-                "id": "14753864",
-                "username": "yoshikiece",
-                "fullName": "旺財 (yoshikiece)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14753864/medium/a6320a12cad2450e6a8e91468862a1ea_default.png",
-                "joined": "2021-05-13 02:17:39"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 18,
-            "target": 41,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15101081",
                 "username": "YungHsin",
                 "fullName": "曾詠興 (YungHsin)",
@@ -511,6 +511,28 @@
             ],
             "translated": 18,
             "target": 46,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14753864",
+                "username": "yoshikiece",
+                "fullName": "旺財 (yoshikiece)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14753864/medium/a6320a12cad2450e6a8e91468862a1ea_default.png",
+                "joined": "2021-05-13 02:17:39"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 18,
+            "target": 41,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -555,28 +577,6 @@
             ],
             "translated": 13,
             "target": 35,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15090475",
-                "username": "o5239602",
-                "fullName": "煎茶果 (o5239602)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15090475/medium/8168c36caa5f38ccd0b73847ee6ceb82.jpeg",
-                "joined": "2022-01-12 01:22:01"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 13,
-            "target": 25,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
