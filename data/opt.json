@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-23T11:17:31.546Z",
-        "to": "2022-01-23T11:17:31.559Z"
+        "from": "2021-12-23T12:32:13.293Z",
+        "to": "2022-01-23T12:32:13.303Z"
     },
     "language": {
         "id": "zh-TW",
@@ -29,7 +29,7 @@
             "target": 253493,
             "approved": 3,
             "voted": 0,
-            "positiveVotes": 2,
+            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -167,6 +167,28 @@
         },
         {
             "user": {
+                "id": "14815244",
+                "username": "Nanamiya738",
+                "fullName": "Nanamiya738",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14815244/medium/72e038ea746d52fd7edf4d5855b911d9.png",
+                "joined": "2021-06-25 10:09:23"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1166,
+            "target": 1987,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13686089",
                 "username": "zica87",
                 "fullName": "zica87",
@@ -181,28 +203,6 @@
             ],
             "translated": 808,
             "target": 1351,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14815244",
-                "username": "Nanamiya738",
-                "fullName": "Nanamiya738",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14815244/medium/72e038ea746d52fd7edf4d5855b911d9.png",
-                "joined": "2021-06-25 10:09:23"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 777,
-            "target": 1257,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -313,6 +313,28 @@
             ],
             "translated": 336,
             "target": 557,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14910757",
+                "username": "hellophone",
+                "fullName": "Hello Phone (hellophone)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
+                "joined": "2021-09-17 09:40:31"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 289,
+            "target": 449,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -453,28 +475,6 @@
         },
         {
             "user": {
-                "id": "13944863",
-                "username": "minecraft.kyle.train",
-                "fullName": "ChAoS - UnItY 阿祐 (minecraft.kyle.train)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13944863/medium/4ca34f2470c6afeb72adc4a708ef284a.jpg",
-                "joined": "2021-06-14 02:47:45"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 21,
-            "target": 36,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14740506",
                 "username": "hankkan940228",
                 "fullName": "康皓鈞 (hankkan940228)",
@@ -489,6 +489,28 @@
             ],
             "translated": 21,
             "target": 41,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13944863",
+                "username": "minecraft.kyle.train",
+                "fullName": "ChAoS - UnItY 阿祐 (minecraft.kyle.train)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13944863/medium/4ca34f2470c6afeb72adc4a708ef284a.jpg",
+                "joined": "2021-06-14 02:47:45"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 21,
+            "target": 36,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -776,7 +798,7 @@
             "translated": 1,
             "target": 2,
             "approved": 0,
-            "voted": 1,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
