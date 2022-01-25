@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-25T22:20:22.852Z",
-        "to": "2022-01-25T22:20:22.853Z"
+        "from": "2021-12-25T23:21:37.060Z",
+        "to": "2022-01-25T23:21:37.061Z"
     },
     "language": {
         "id": "zh-TW",
@@ -52,7 +52,7 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 23,
-            "negativeVotes": 0,
+            "negativeVotes": 1,
             "winning": 0
         },
         {
@@ -629,6 +629,28 @@
         },
         {
             "user": {
+                "id": "15121091",
+                "username": "yuanchun1125",
+                "fullName": "鄭元峻 (yuanchun1125)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15121091/medium/8a0c53f8bb237ea48534e178b4606d54.jpeg",
+                "joined": "2022-01-25 18:14:13"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 14,
+            "target": 23,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15091787",
                 "username": "blackinflammation87",
                 "fullName": "黑紅火焰 (blackinflammation87)",
@@ -643,28 +665,6 @@
             ],
             "translated": 13,
             "target": 35,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14913313",
-                "username": "5656",
-                "fullName": "5656",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14913313/medium/99c7d3d95eac24f12bc88f9926952f07_default.png",
-                "joined": "2021-11-02 23:50:51"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 10,
-            "target": 19,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -700,6 +700,28 @@
                 "fullName": "Roll er (az7682014)",
                 "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15107315/medium/9fc891620ae702134168300575672f1d.jpeg",
                 "joined": "2022-01-16 11:16:30"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 10,
+            "target": 19,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14913313",
+                "username": "5656",
+                "fullName": "5656",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14913313/medium/99c7d3d95eac24f12bc88f9926952f07_default.png",
+                "joined": "2021-11-02 23:50:51"
             },
             "languages": [
                 {
