@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-25T13:22:21.865Z",
-        "to": "2022-01-25T13:22:21.866Z"
+        "from": "2021-12-25T14:18:29.018Z",
+        "to": "2022-01-25T14:18:29.019Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 150488,
-            "target": 253522,
+            "translated": 150126,
+            "target": 252923,
             "approved": 3,
             "voted": 0,
             "positiveVotes": 1,
@@ -79,6 +79,28 @@
         },
         {
             "user": {
+                "id": "14889234",
+                "username": "frank1320",
+                "fullName": "Frank Cheung (frank1320)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14889234/medium/9f2a019af40a786fdc7b1aed7ef2a117_default.png",
+                "joined": "2021-11-30 23:16:11"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3382,
+            "target": 6324,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13104413",
                 "username": "yutayamamoto212",
                 "fullName": "陳裕太 (yutayamamoto212)",
@@ -96,28 +118,6 @@
             "approved": 0,
             "voted": 42,
             "positiveVotes": 3,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14889234",
-                "username": "frank1320",
-                "fullName": "Frank Cheung (frank1320)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14889234/medium/9f2a019af40a786fdc7b1aed7ef2a117_default.png",
-                "joined": "2021-11-30 23:16:11"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2690,
-            "target": 5213,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
