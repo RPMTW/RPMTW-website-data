@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-26T10:22:58.176Z",
-        "to": "2022-01-26T10:22:58.176Z"
+        "from": "2021-12-26T11:18:09.716Z",
+        "to": "2022-01-26T11:18:09.717Z"
     },
     "language": {
         "id": "zh-TW",
@@ -35,28 +35,6 @@
         },
         {
             "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 17273,
-            "target": 27129,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 23,
-            "negativeVotes": 1,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14989705",
                 "username": "KA9696",
                 "fullName": "KA9696",
@@ -75,6 +53,28 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 7628,
+            "target": 10255,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 23,
+            "negativeVotes": 1,
             "winning": 0
         },
         {
