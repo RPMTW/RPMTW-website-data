@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-27T10:22:12.721Z",
-        "to": "2022-01-27T10:22:12.721Z"
+        "from": "2021-12-27T11:16:31.997Z",
+        "to": "2022-01-27T11:16:31.998Z"
     },
     "language": {
         "id": "zh-TW",
@@ -73,7 +73,7 @@
             "target": 10126,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 23,
+            "positiveVotes": 24,
             "negativeVotes": 1,
             "winning": 0
         },
@@ -475,6 +475,28 @@
         },
         {
             "user": {
+                "id": "14753864",
+                "username": "yoshikiece",
+                "fullName": "旺財 (yoshikiece)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14753864/medium/a6320a12cad2450e6a8e91468862a1ea_default.png",
+                "joined": "2021-05-13 02:17:39"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 23,
+            "target": 49,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13944863",
                 "username": "minecraft.kyle.train",
                 "fullName": "ChAoS - UnItY 阿祐 (minecraft.kyle.train)",
@@ -489,28 +511,6 @@
             ],
             "translated": 21,
             "target": 36,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14753864",
-                "username": "yoshikiece",
-                "fullName": "旺財 (yoshikiece)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14753864/medium/a6320a12cad2450e6a8e91468862a1ea_default.png",
-                "joined": "2021-05-13 02:17:39"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 20,
-            "target": 45,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
