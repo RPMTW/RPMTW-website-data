@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-28T05:17:54.489Z",
-        "to": "2022-01-28T05:17:54.490Z"
+        "from": "2021-12-28T06:25:18.903Z",
+        "to": "2022-01-28T06:25:18.922Z"
     },
     "language": {
         "id": "zh-TW",
@@ -289,8 +289,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 399,
-            "target": 698,
+            "translated": 340,
+            "target": 602,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -629,6 +629,28 @@
         },
         {
             "user": {
+                "id": "15103781",
+                "username": "IngramCY",
+                "fullName": "IngramCY",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15103781/medium/0d08d0e9802f83352e78244977e434b6_default.png",
+                "joined": "2022-01-13 21:20:06"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 10,
+            "target": 13,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15107315",
                 "username": "az7682014",
                 "fullName": "Roll er (az7682014)",
@@ -651,11 +673,11 @@
         },
         {
             "user": {
-                "id": "15103781",
-                "username": "IngramCY",
-                "fullName": "IngramCY",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15103781/medium/0d08d0e9802f83352e78244977e434b6_default.png",
-                "joined": "2022-01-13 21:20:06"
+                "id": "14575120",
+                "username": "lefia1222",
+                "fullName": "Yi Cheng Tseng (lefia1222)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14575120/medium/7a5d1a0e509ba7fbfe62d3b95445c2ba.jpg",
+                "joined": "2022-01-28 01:10:08"
             },
             "languages": [
                 {
@@ -663,8 +685,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 10,
-            "target": 13,
+            "translated": 9,
+            "target": 12,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -761,23 +783,6 @@
         },
         {
             "user": {
-                "id": "13395892",
-                "username": "MarginalPerson",
-                "fullName": "默默無名邊緣人 (MarginalPerson)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13395892/medium/2ab4a287b993e055fd8e51ada0170787.jpg",
-                "joined": "2021-03-13 06:51:47"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14652174",
                 "username": "StarskyXIII",
                 "fullName": "夜之星 (StarskyXIII)",
@@ -791,6 +796,23 @@
             "voted": 0,
             "positiveVotes": 1,
             "negativeVotes": 2,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13395892",
+                "username": "MarginalPerson",
+                "fullName": "默默無名邊緣人 (MarginalPerson)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13395892/medium/2ab4a287b993e055fd8e51ada0170787.jpg",
+                "joined": "2021-03-13 06:51:47"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 0,
             "winning": 0
         }
     ]
