@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-28T04:26:53.334Z",
-        "to": "2022-01-28T04:26:53.335Z"
+        "from": "2021-12-28T05:17:54.489Z",
+        "to": "2022-01-28T05:17:54.490Z"
     },
     "language": {
         "id": "zh-TW",
@@ -673,28 +673,6 @@
         },
         {
             "user": {
-                "id": "15061999",
-                "username": "SummerFocus",
-                "fullName": "SummerFocus",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15061999/medium/b21326aa8ce82a3f9f8403d2a440ac81_default.png",
-                "joined": "2021-12-13 21:18:57"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 9,
-            "target": 15,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15060019",
                 "username": "shepherd1025",
                 "fullName": "shepherd1025",
@@ -709,6 +687,28 @@
             ],
             "translated": 7,
             "target": 14,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15061999",
+                "username": "SummerFocus",
+                "fullName": "SummerFocus",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15061999/medium/b21326aa8ce82a3f9f8403d2a440ac81_default.png",
+                "joined": "2021-12-13 21:18:57"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 6,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
