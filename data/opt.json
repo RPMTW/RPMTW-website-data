@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-28T14:18:38.576Z",
-        "to": "2022-01-28T14:18:38.576Z"
+        "from": "2021-12-28T15:21:23.677Z",
+        "to": "2022-01-28T15:21:23.700Z"
     },
     "language": {
         "id": "zh-TW",
@@ -255,28 +255,6 @@
         },
         {
             "user": {
-                "id": "14987257",
-                "username": "JimLi",
-                "fullName": "JimLi",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14987257/medium/e6d9ee5108a1ee96373068f6c665ed5b_default.png",
-                "joined": "2021-11-02 10:35:12"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 487,
-            "target": 819,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14910757",
                 "username": "hellophone",
                 "fullName": "Hello Phone (hellophone)",
@@ -379,6 +357,28 @@
             ],
             "translated": 110,
             "target": 259,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14987257",
+                "username": "JimLi",
+                "fullName": "JimLi",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14987257/medium/e6d9ee5108a1ee96373068f6c665ed5b_default.png",
+                "joined": "2021-11-02 10:35:12"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 90,
+            "target": 154,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
