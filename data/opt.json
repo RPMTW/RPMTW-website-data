@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-29T05:17:29.659Z",
-        "to": "2022-01-29T05:17:29.674Z"
+        "from": "2021-12-29T06:24:13.234Z",
+        "to": "2022-01-29T06:24:13.234Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 107172,
-            "target": 181388,
+            "translated": 106767,
+            "target": 180724,
             "approved": 3,
             "voted": 0,
             "positiveVotes": 1,
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 8469,
-            "target": 12788,
+            "translated": 8246,
+            "target": 12439,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -223,10 +223,32 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1003,
-            "target": 1709,
+            "translated": 1117,
+            "target": 1940,
             "approved": 0,
             "voted": 5,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14378320",
+                "username": "Itukii",
+                "fullName": "Itukii",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14378320/medium/2c60078e864f6fffb02d0d356662964a.png",
+                "joined": "2022-01-28 22:54:12"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1039,
+            "target": 1751,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -247,28 +269,6 @@
             ],
             "translated": 808,
             "target": 1351,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14378320",
-                "username": "Itukii",
-                "fullName": "Itukii",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14378320/medium/2c60078e864f6fffb02d0d356662964a.png",
-                "joined": "2022-01-28 22:54:12"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 455,
-            "target": 767,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -756,6 +756,23 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14285924",
+                "username": "VbbTesz",
+                "fullName": "VbbTesz",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14285924/medium/52909d184df5a7f50de43c8e265bba8c_default.png",
+                "joined": "2021-07-13 02:45:02"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         },
