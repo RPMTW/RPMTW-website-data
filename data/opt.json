@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-30T16:29:48.649Z",
-        "to": "2022-01-30T16:29:48.650Z"
+        "from": "2021-12-30T17:20:06.856Z",
+        "to": "2022-01-30T17:20:06.869Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 96792,
-            "target": 163586,
+            "translated": 96384,
+            "target": 162960,
             "approved": 3,
             "voted": 0,
             "positiveVotes": 5,
@@ -57,28 +57,6 @@
         },
         {
             "user": {
-                "id": "14989705",
-                "username": "KA9696",
-                "fullName": "KA9696",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14989705/medium/d0166cbc798152588c7f008f15c37198_default.png",
-                "joined": "2021-11-04 06:20:06"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 5097,
-            "target": 7804,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13104413",
                 "username": "yutayamamoto212",
                 "fullName": "陳裕太 (yutayamamoto212)",
@@ -96,6 +74,28 @@
             "approved": 0,
             "voted": 53,
             "positiveVotes": 3,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14989705",
+                "username": "KA9696",
+                "fullName": "KA9696",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14989705/medium/d0166cbc798152588c7f008f15c37198_default.png",
+                "joined": "2021-11-04 06:20:06"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4209,
+            "target": 6407,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
