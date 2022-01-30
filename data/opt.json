@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2021-12-30T14:17:31.387Z",
-        "to": "2022-01-30T14:17:31.388Z"
+        "from": "2021-12-30T15:19:31.206Z",
+        "to": "2022-01-30T15:19:31.215Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 97609,
-            "target": 165062,
+            "translated": 97262,
+            "target": 164445,
             "approved": 3,
             "voted": 0,
             "positiveVotes": 5,
@@ -343,28 +343,6 @@
         },
         {
             "user": {
-                "id": "15068241",
-                "username": "earth_dragon2",
-                "fullName": "MAN BRUH (earth_dragon2)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15068241/medium/8e610cc9f1841efb95ec0ba096a5a11c.png",
-                "joined": "2021-12-28 00:59:09"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 180,
-            "target": 337,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15121809",
                 "username": "Nightring",
                 "fullName": "Roger (Nightring)",
@@ -629,6 +607,28 @@
         },
         {
             "user": {
+                "id": "15068241",
+                "username": "earth_dragon2",
+                "fullName": "MAN BRUH (earth_dragon2)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15068241/medium/8e610cc9f1841efb95ec0ba096a5a11c.png",
+                "joined": "2021-12-28 00:59:09"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 14,
+            "target": 21,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15091787",
                 "username": "blackinflammation87",
                 "fullName": "黑紅火焰 (blackinflammation87)",
@@ -778,23 +778,6 @@
         },
         {
             "user": {
-                "id": "14652174",
-                "username": "StarskyXIII",
-                "fullName": "夜之星 (StarskyXIII)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14652174/medium/05e7de522a01874e1b13628295e0c205.jpg",
-                "joined": "2021-04-18 14:40:46"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 2,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13395892",
                 "username": "MarginalPerson",
                 "fullName": "默默無名邊緣人 (MarginalPerson)",
@@ -808,6 +791,23 @@
             "voted": 0,
             "positiveVotes": 1,
             "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14652174",
+                "username": "StarskyXIII",
+                "fullName": "夜之星 (StarskyXIII)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14652174/medium/05e7de522a01874e1b13628295e0c205.jpg",
+                "joined": "2021-04-18 14:40:46"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 2,
             "winning": 0
         },
         {
