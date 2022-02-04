@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-04T18:19:45.231Z",
-        "to": "2022-02-04T18:19:45.250Z"
+        "from": "2022-01-04T19:14:09.355Z",
+        "to": "2022-02-04T19:14:09.355Z"
     },
     "language": {
         "id": "zh-TW",
@@ -125,7 +125,7 @@
             "user": {
                 "id": "14360646",
                 "username": "Ijiapwned",
-                "fullName": "麻幻枲 (Ijiapwned)",
+                "fullName": "Pwned (Ijiapwned)",
                 "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14360646/medium/602dd18b5116303f956b09f088134481.jpg",
                 "joined": "2022-02-03 16:29:19"
             },
@@ -135,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1723,
-            "target": 2863,
+            "translated": 2198,
+            "target": 3853,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -401,6 +401,28 @@
             ],
             "translated": 177,
             "target": 217,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14810392",
+                "username": "Gary14242",
+                "fullName": "Gary14242",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14810392/medium/799ead00a1157032430e3c13ea1ea9cf.png",
+                "joined": "2021-06-21 21:10:36"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 153,
+            "target": 239,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
