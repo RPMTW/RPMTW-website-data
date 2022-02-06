@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-06T10:21:27.001Z",
-        "to": "2022-02-06T10:21:27.002Z"
+        "from": "2022-01-06T11:16:18.612Z",
+        "to": "2022-02-06T11:16:18.623Z"
     },
     "language": {
         "id": "zh-TW",
@@ -651,28 +651,6 @@
         },
         {
             "user": {
-                "id": "15103781",
-                "username": "IngramCY",
-                "fullName": "IngramCY",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15103781/medium/0d08d0e9802f83352e78244977e434b6_default.png",
-                "joined": "2022-01-13 21:20:06"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 10,
-            "target": 13,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15107315",
                 "username": "az7682014",
                 "fullName": "Roll er (az7682014)",
@@ -695,11 +673,11 @@
         },
         {
             "user": {
-                "id": "15083713",
-                "username": "chuziyv63",
-                "fullName": "Ziyv Chu (chuziyv63)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15083713/medium/096aca2eeaa3c695c5113751a4643c04.jpeg",
-                "joined": "2021-12-30 06:05:14"
+                "id": "15103781",
+                "username": "IngramCY",
+                "fullName": "IngramCY",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15103781/medium/0d08d0e9802f83352e78244977e434b6_default.png",
+                "joined": "2022-01-13 21:20:06"
             },
             "languages": [
                 {
@@ -707,8 +685,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 9,
-            "target": 18,
+            "translated": 10,
+            "target": 13,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
