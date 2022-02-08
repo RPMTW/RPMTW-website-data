@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-08T09:21:20.686Z",
-        "to": "2022-02-08T09:21:20.688Z"
+        "from": "2022-01-08T10:22:30.464Z",
+        "to": "2022-02-08T10:22:30.464Z"
     },
     "language": {
         "id": "zh-TW",
@@ -431,6 +431,28 @@
         },
         {
             "user": {
+                "id": "14948097",
+                "username": "keira224",
+                "fullName": "keira224",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14948097/medium/1f268d88eb87c446def6465f973b1e9e_default.png",
+                "joined": "2021-10-03 04:04:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 107,
+            "target": 174,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15132651",
                 "username": "PureWhite_owo",
                 "fullName": "PureWhite_owo",
@@ -511,28 +533,6 @@
             ],
             "translated": 39,
             "target": 70,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14948097",
-                "username": "keira224",
-                "fullName": "keira224",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14948097/medium/1f268d88eb87c446def6465f973b1e9e_default.png",
-                "joined": "2021-10-03 04:04:58"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 30,
-            "target": 54,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
