@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-08T06:24:19.247Z",
-        "to": "2022-02-08T06:24:19.257Z"
+        "from": "2022-01-08T07:18:56.010Z",
+        "to": "2022-02-08T07:18:56.010Z"
     },
     "language": {
         "id": "zh-TW",
@@ -519,6 +519,28 @@
         },
         {
             "user": {
+                "id": "14948097",
+                "username": "keira224",
+                "fullName": "keira224",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14948097/medium/1f268d88eb87c446def6465f973b1e9e_default.png",
+                "joined": "2021-10-03 04:04:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 30,
+            "target": 54,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14753864",
                 "username": "yoshikiece",
                 "fullName": "旺財 (yoshikiece)",
@@ -629,28 +651,6 @@
         },
         {
             "user": {
-                "id": "15103781",
-                "username": "IngramCY",
-                "fullName": "IngramCY",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15103781/medium/0d08d0e9802f83352e78244977e434b6_default.png",
-                "joined": "2022-01-13 21:20:06"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 10,
-            "target": 13,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15107315",
                 "username": "az7682014",
                 "fullName": "Roll er (az7682014)",
@@ -665,6 +665,28 @@
             ],
             "translated": 10,
             "target": 19,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15103781",
+                "username": "IngramCY",
+                "fullName": "IngramCY",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15103781/medium/0d08d0e9802f83352e78244977e434b6_default.png",
+                "joined": "2022-01-13 21:20:06"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 10,
+            "target": 13,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -700,28 +722,6 @@
                 "fullName": "賴為騫 (Assaideas0419)",
                 "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14920939/medium/113493e0d229a915aae201a67b07e9b3.png",
                 "joined": "2021-09-13 13:52:49"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 5,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14948097",
-                "username": "keira224",
-                "fullName": "keira224",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14948097/medium/1f268d88eb87c446def6465f973b1e9e_default.png",
-                "joined": "2021-10-03 04:04:58"
             },
             "languages": [
                 {
