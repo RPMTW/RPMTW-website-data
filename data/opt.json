@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-08T19:16:29.729Z",
-        "to": "2022-02-08T19:16:29.730Z"
+        "from": "2022-01-08T20:23:25.453Z",
+        "to": "2022-02-08T20:23:25.454Z"
     },
     "language": {
         "id": "zh-TW",
@@ -211,28 +211,6 @@
         },
         {
             "user": {
-                "id": "14036188",
-                "username": "chesterccj305",
-                "fullName": "舞秋風 (chesterccj305)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
-                "joined": "2021-03-01 15:40:11"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1221,
-            "target": 2110,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14815244",
                 "username": "Nanamiya738",
                 "fullName": "Nanamiya738",
@@ -250,6 +228,28 @@
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14036188",
+                "username": "chesterccj305",
+                "fullName": "舞秋風 (chesterccj305)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
+                "joined": "2021-03-01 15:40:11"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1035,
+            "target": 1759,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         },
