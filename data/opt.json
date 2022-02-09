@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-09T06:25:15.072Z",
-        "to": "2022-02-09T06:25:15.082Z"
+        "from": "2022-01-09T07:19:18.628Z",
+        "to": "2022-02-09T07:19:18.648Z"
     },
     "language": {
         "id": "zh-TW",
@@ -621,6 +621,28 @@
             ],
             "translated": 17,
             "target": 38,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15142168",
+                "username": "Wo4da",
+                "fullName": "Wo 4da (Wo4da)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15142168/medium/a29c21a96392380a5766ba61c8e4c3e3.jpeg",
+                "joined": "2022-02-09 02:03:46"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 17,
+            "target": 30,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
