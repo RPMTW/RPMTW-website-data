@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-12T06:23:38.964Z",
-        "to": "2022-02-12T06:23:38.965Z"
+        "from": "2022-01-12T07:17:53.608Z",
+        "to": "2022-02-12T07:17:53.608Z"
     },
     "language": {
         "id": "zh-TW",
@@ -157,10 +157,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1615,
-            "target": 2867,
+            "translated": 1611,
+            "target": 2858,
             "approved": 0,
-            "voted": 27,
+            "voted": 29,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -585,28 +585,6 @@
         },
         {
             "user": {
-                "id": "15101081",
-                "username": "YungHsin",
-                "fullName": "曾詠興 (YungHsin)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15101081/medium/dc9507cf1f52a2279b6e233b5daf7f9f.png",
-                "joined": "2022-01-12 02:03:56"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 18,
-            "target": 46,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15142168",
                 "username": "Wo4da",
                 "fullName": "Wo 4da (Wo4da)",
@@ -665,6 +643,28 @@
             ],
             "translated": 15,
             "target": 34,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15101081",
+                "username": "YungHsin",
+                "fullName": "曾詠興 (YungHsin)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15101081/medium/dc9507cf1f52a2279b6e233b5daf7f9f.png",
+                "joined": "2022-01-12 02:03:56"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 15,
+            "target": 38,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
