@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-16T16:30:12.657Z",
-        "to": "2022-02-16T16:30:12.658Z"
+        "from": "2022-01-16T17:20:10.361Z",
+        "to": "2022-02-16T17:20:10.389Z"
     },
     "language": {
         "id": "zh-TW",
@@ -91,8 +91,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3360,
-            "target": 5598,
+            "translated": 3450,
+            "target": 5737,
             "approved": 0,
             "voted": 41,
             "positiveVotes": 3,
@@ -673,28 +673,6 @@
         },
         {
             "user": {
-                "id": "15107315",
-                "username": "az7682014",
-                "fullName": "Roll er (az7682014)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15107315/medium/9fc891620ae702134168300575672f1d.jpeg",
-                "joined": "2022-01-16 11:16:30"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 10,
-            "target": 19,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14575120",
                 "username": "lefia1222",
                 "fullName": "Yi Cheng Tseng (lefia1222)",
@@ -834,23 +812,6 @@
         },
         {
             "user": {
-                "id": "14285924",
-                "username": "VbbTesz",
-                "fullName": "VbbTesz",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14285924/medium/52909d184df5a7f50de43c8e265bba8c_default.png",
-                "joined": "2021-07-13 02:45:02"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14796570",
                 "username": "yekongyt",
                 "fullName": "夜空 (yekongyt)",
@@ -937,6 +898,23 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 1,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14285924",
+                "username": "VbbTesz",
+                "fullName": "VbbTesz",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14285924/medium/52909d184df5a7f50de43c8e265bba8c_default.png",
+                "joined": "2021-07-13 02:45:02"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 0,
             "winning": 0
         }
     ]
