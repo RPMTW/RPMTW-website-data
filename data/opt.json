@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-19T13:21:06.450Z",
-        "to": "2022-02-19T13:21:06.450Z"
+        "from": "2022-01-19T14:18:14.456Z",
+        "to": "2022-02-19T14:18:14.457Z"
     },
     "language": {
         "id": "zh-TW",
@@ -585,28 +585,6 @@
         },
         {
             "user": {
-                "id": "15085765",
-                "username": "a0908359955",
-                "fullName": "唐瑋佑 (a0908359955)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085765/medium/98f10387621de183456b117757f37ed4.jpeg",
-                "joined": "2022-01-01 01:31:07"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 11,
-            "target": 24,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14575120",
                 "username": "lefia1222",
                 "fullName": "Yi Cheng Tseng (lefia1222)",
@@ -629,11 +607,11 @@
         },
         {
             "user": {
-                "id": "14793632",
-                "username": "ben2008",
-                "fullName": "ben2008",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14793632/medium/4017a44dc19c65902f838a0b2995177b_default.png",
-                "joined": "2022-01-17 09:39:57"
+                "id": "15085765",
+                "username": "a0908359955",
+                "fullName": "唐瑋佑 (a0908359955)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085765/medium/98f10387621de183456b117757f37ed4.jpeg",
+                "joined": "2022-01-01 01:31:07"
             },
             "languages": [
                 {
@@ -641,10 +619,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 5,
-            "target": 9,
+            "translated": 7,
+            "target": 15,
             "approved": 0,
-            "voted": 1,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -665,6 +643,28 @@
             ],
             "translated": 5,
             "target": 8,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14793632",
+                "username": "ben2008",
+                "fullName": "ben2008",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14793632/medium/4017a44dc19c65902f838a0b2995177b_default.png",
+                "joined": "2022-01-17 09:39:57"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 5,
+            "target": 9,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
@@ -739,23 +739,6 @@
         },
         {
             "user": {
-                "id": "14652174",
-                "username": "StarskyXIII",
-                "fullName": "夜之星 (StarskyXIII)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14652174/medium/05e7de522a01874e1b13628295e0c205.jpg",
-                "joined": "2021-04-18 14:40:46"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 2,
-            "negativeVotes": 1,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14929975",
                 "username": "Xi_purple",
                 "fullName": "希紫 (Xi_purple)",
@@ -769,6 +752,23 @@
             "voted": 0,
             "positiveVotes": 1,
             "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14652174",
+                "username": "StarskyXIII",
+                "fullName": "夜之星 (StarskyXIII)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14652174/medium/05e7de522a01874e1b13628295e0c205.jpg",
+                "joined": "2021-04-18 14:40:46"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 2,
+            "negativeVotes": 1,
             "winning": 0
         },
         {
