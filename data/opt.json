@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-23T04:26:59.526Z",
-        "to": "2022-02-23T04:26:59.541Z"
+        "from": "2022-01-23T05:18:41.816Z",
+        "to": "2022-02-23T05:18:41.816Z"
     },
     "language": {
         "id": "zh-TW",
@@ -79,28 +79,6 @@
         },
         {
             "user": {
-                "id": "13104413",
-                "username": "yutayamamoto212",
-                "fullName": "陳裕太 (yutayamamoto212)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13104413/medium/0570fea75bbe3c95eeebcfcb7f67c3b9.png",
-                "joined": "2021-05-13 07:39:53"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3061,
-            "target": 5027,
-            "approved": 0,
-            "voted": 39,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14378320",
                 "username": "Itukii",
                 "fullName": "Itukii",
@@ -161,6 +139,28 @@
             "target": 3943,
             "approved": 0,
             "voted": 53,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13104413",
+                "username": "yutayamamoto212",
+                "fullName": "陳裕太 (yutayamamoto212)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13104413/medium/0570fea75bbe3c95eeebcfcb7f67c3b9.png",
+                "joined": "2021-05-13 07:39:53"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2197,
+            "target": 3590,
+            "approved": 0,
+            "voted": 39,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
