@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-23T08:24:22.847Z",
-        "to": "2022-02-23T08:24:22.847Z"
+        "from": "2022-01-23T09:17:37.326Z",
+        "to": "2022-02-23T09:17:37.327Z"
     },
     "language": {
         "id": "zh-TW",
@@ -475,28 +475,6 @@
         },
         {
             "user": {
-                "id": "14847496",
-                "username": "StarsShine11904",
-                "fullName": "Stars Shine (StarsShine11904)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14847496/medium/7dd0810eeb4147ade405fcc4d192fb48.jpeg",
-                "joined": "2021-10-19 10:08:54"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 17,
-            "target": 38,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15146334",
                 "username": "wl02945617",
                 "fullName": "CHI YUNG WONG (wl02945617)",
@@ -673,11 +651,11 @@
         },
         {
             "user": {
-                "id": "15135941",
-                "username": "ccjh1090910",
-                "fullName": "ccjh1090910",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15135941/medium/255cf2f6cb52b0aab925bb0ac255a5d4_default.png",
-                "joined": "2022-02-05 01:53:59"
+                "id": "14920939",
+                "username": "Assaideas0419",
+                "fullName": "賴為騫 (Assaideas0419)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14920939/medium/113493e0d229a915aae201a67b07e9b3.png",
+                "joined": "2021-09-13 13:52:49"
             },
             "languages": [
                 {
@@ -695,11 +673,11 @@
         },
         {
             "user": {
-                "id": "14920939",
-                "username": "Assaideas0419",
-                "fullName": "賴為騫 (Assaideas0419)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14920939/medium/113493e0d229a915aae201a67b07e9b3.png",
-                "joined": "2021-09-13 13:52:49"
+                "id": "15135941",
+                "username": "ccjh1090910",
+                "fullName": "ccjh1090910",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15135941/medium/255cf2f6cb52b0aab925bb0ac255a5d4_default.png",
+                "joined": "2022-02-05 01:53:59"
             },
             "languages": [
                 {
@@ -761,23 +739,6 @@
                 "fullName": "zica87",
                 "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13686089/medium/d4f6929410f3fc7eceb0fa6bf595a51c.jpg",
                 "joined": "2021-05-11 08:16:59"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14929975",
-                "username": "Xi_purple",
-                "fullName": "希紫 (Xi_purple)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14929975/medium/d636977da0b5cd25538841795f8550a4.jpeg",
-                "joined": "2021-09-19 23:35:25"
             },
             "languages": [],
             "translated": 0,
@@ -910,6 +871,23 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 1,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14929975",
+                "username": "Xi_purple",
+                "fullName": "希紫 (Xi_purple)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14929975/medium/d636977da0b5cd25538841795f8550a4.jpeg",
+                "joined": "2021-09-19 23:35:25"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 0,
             "winning": 0
         }
     ]
