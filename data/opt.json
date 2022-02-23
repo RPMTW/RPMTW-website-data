@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-23T12:35:12.515Z",
-        "to": "2022-02-23T12:35:12.527Z"
+        "from": "2022-01-23T13:24:11.701Z",
+        "to": "2022-02-23T13:24:11.701Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 31743,
-            "target": 56348,
+            "translated": 31736,
+            "target": 56329,
             "approved": 5,
             "voted": 0,
             "positiveVotes": 5,
@@ -157,8 +157,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2034,
-            "target": 3713,
+            "translated": 1964,
+            "target": 3603,
             "approved": 0,
             "voted": 53,
             "positiveVotes": 0,
@@ -409,28 +409,6 @@
         },
         {
             "user": {
-                "id": "14910757",
-                "username": "hellophone",
-                "fullName": "Hello Phone (hellophone)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
-                "joined": "2021-09-17 09:40:31"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 23,
-            "target": 32,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15146470",
                 "username": "0922_Stars",
                 "fullName": "0922_Stars",
@@ -445,6 +423,28 @@
             ],
             "translated": 23,
             "target": 34,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14910757",
+                "username": "hellophone",
+                "fullName": "Hello Phone (hellophone)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
+                "joined": "2021-09-17 09:40:31"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 18,
+            "target": 24,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
