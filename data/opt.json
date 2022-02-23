@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-23T13:24:11.701Z",
-        "to": "2022-02-23T13:24:11.701Z"
+        "from": "2022-01-23T14:19:03.495Z",
+        "to": "2022-02-23T14:19:03.496Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 31736,
-            "target": 56329,
+            "translated": 31537,
+            "target": 55999,
             "approved": 5,
             "voted": 0,
             "positiveVotes": 5,
@@ -157,8 +157,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1964,
-            "target": 3603,
+            "translated": 1930,
+            "target": 3547,
             "approved": 0,
             "voted": 53,
             "positiveVotes": 0,
@@ -206,7 +206,7 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
-            "negativeVotes": 1,
+            "negativeVotes": 0,
             "winning": 0
         },
         {
@@ -358,7 +358,7 @@
             "translated": 74,
             "target": 122,
             "approved": 0,
-            "voted": 1,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -695,45 +695,6 @@
         },
         {
             "user": {
-                "id": "14665926",
-                "username": "EvanHsieh0415",
-                "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14665926/medium/43cb27309eabac14eeffc913f42312b1.png",
-                "joined": "2021-04-20 06:05:34"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1,
-            "target": 4,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14929975",
-                "username": "Xi_purple",
-                "fullName": "希紫 (Xi_purple)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14929975/medium/d636977da0b5cd25538841795f8550a4.jpeg",
-                "joined": "2021-09-19 23:35:25"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14652174",
                 "username": "StarskyXIII",
                 "fullName": "夜之星 (StarskyXIII)",
@@ -751,11 +712,11 @@
         },
         {
             "user": {
-                "id": "14796570",
-                "username": "yekongyt",
-                "fullName": "夜空 (yekongyt)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14796570/medium/d9334ccba6a24a852f236f1deef93ac3.jpeg",
-                "joined": "2021-06-30 00:41:48"
+                "id": "14929975",
+                "username": "Xi_purple",
+                "fullName": "希紫 (Xi_purple)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14929975/medium/d636977da0b5cd25538841795f8550a4.jpeg",
+                "joined": "2021-09-19 23:35:25"
             },
             "languages": [],
             "translated": 0,
@@ -853,6 +814,23 @@
         },
         {
             "user": {
+                "id": "14754262",
+                "username": "Linkinrock",
+                "fullName": "Linkinrock",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14754262/medium/f653b7fc9b6751cc7c614120c69f6420.jpg",
+                "joined": "2021-05-13 08:10:22"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 1,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13215510",
                 "username": "mics8128",
                 "fullName": "mics8128",
@@ -875,19 +853,19 @@
         },
         {
             "user": {
-                "id": "14754262",
-                "username": "Linkinrock",
-                "fullName": "Linkinrock",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14754262/medium/f653b7fc9b6751cc7c614120c69f6420.jpg",
-                "joined": "2021-05-13 08:10:22"
+                "id": "14796570",
+                "username": "yekongyt",
+                "fullName": "夜空 (yekongyt)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14796570/medium/d9334ccba6a24a852f236f1deef93ac3.jpeg",
+                "joined": "2021-06-30 00:41:48"
             },
             "languages": [],
             "translated": 0,
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 1,
+            "positiveVotes": 1,
+            "negativeVotes": 0,
             "winning": 0
         }
     ]
