@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-25T05:18:51.970Z",
-        "to": "2022-02-25T05:18:51.970Z"
+        "from": "2022-01-25T06:25:54.419Z",
+        "to": "2022-02-25T06:25:54.419Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 28880,
-            "target": 51454,
+            "translated": 28289,
+            "target": 50454,
             "approved": 5,
             "voted": 0,
             "positiveVotes": 5,
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 8630,
-            "target": 9620,
+            "translated": 6621,
+            "target": 7181,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 14,
@@ -365,28 +365,6 @@
         },
         {
             "user": {
-                "id": "14815244",
-                "username": "Nanamiya738",
-                "fullName": "Nanamiya738",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14815244/medium/72e038ea746d52fd7edf4d5855b911d9.png",
-                "joined": "2021-06-25 10:09:23"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 24,
-            "target": 52,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 13,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15146470",
                 "username": "0922_Stars",
                 "fullName": "0922_Stars",
@@ -404,6 +382,28 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14815244",
+                "username": "Nanamiya738",
+                "fullName": "Nanamiya738",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14815244/medium/72e038ea746d52fd7edf4d5855b911d9.png",
+                "joined": "2021-06-25 10:09:23"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 22,
+            "target": 48,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 13,
             "negativeVotes": 0,
             "winning": 0
         },
