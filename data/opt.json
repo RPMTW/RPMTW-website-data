@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-01-28T05:19:09.455Z",
-        "to": "2022-02-28T05:19:09.456Z"
+        "from": "2022-01-28T06:26:17.695Z",
+        "to": "2022-02-28T06:26:17.696Z"
     },
     "language": {
         "id": "zh-TW",
@@ -497,28 +497,6 @@
         },
         {
             "user": {
-                "id": "14575120",
-                "username": "lefia1222",
-                "fullName": "Yi Cheng Tseng (lefia1222)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14575120/medium/7a5d1a0e509ba7fbfe62d3b95445c2ba.jpg",
-                "joined": "2022-01-28 01:10:08"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 9,
-            "target": 12,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15085765",
                 "username": "a0908359955",
                 "fullName": "唐瑋佑 (a0908359955)",
@@ -624,23 +602,6 @@
         },
         {
             "user": {
-                "id": "14036188",
-                "username": "chesterccj305",
-                "fullName": "舞秋風 (chesterccj305)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
-                "joined": "2021-03-01 15:40:11"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 5,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13686089",
                 "username": "zica87",
                 "fullName": "zica87",
@@ -653,6 +614,23 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14036188",
+                "username": "chesterccj305",
+                "fullName": "舞秋風 (chesterccj305)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
+                "joined": "2021-03-01 15:40:11"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 5,
             "negativeVotes": 0,
             "winning": 0
         },
