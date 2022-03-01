@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-02-01T04:27:48.033Z",
-        "to": "2022-03-01T04:27:48.034Z"
+        "from": "2022-02-01T05:19:10.826Z",
+        "to": "2022-03-01T05:19:10.828Z"
     },
     "language": {
         "id": "zh-TW",
@@ -409,6 +409,28 @@
         },
         {
             "user": {
+                "id": "14913313",
+                "username": "5656",
+                "fullName": "5656",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14913313/medium/99c7d3d95eac24f12bc88f9926952f07_default.png",
+                "joined": "2021-11-02 23:50:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 15,
+            "target": 32,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15156144",
                 "username": "-Parker-",
                 "fullName": "-Parker-",
@@ -497,28 +519,6 @@
         },
         {
             "user": {
-                "id": "15135941",
-                "username": "ccjh1090910",
-                "fullName": "ccjh1090910",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15135941/medium/255cf2f6cb52b0aab925bb0ac255a5d4_default.png",
-                "joined": "2022-02-05 01:53:59"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 5,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15085765",
                 "username": "a0908359955",
                 "fullName": "唐瑋佑 (a0908359955)",
@@ -563,6 +563,28 @@
         },
         {
             "user": {
+                "id": "15135941",
+                "username": "ccjh1090910",
+                "fullName": "ccjh1090910",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15135941/medium/255cf2f6cb52b0aab925bb0ac255a5d4_default.png",
+                "joined": "2022-02-05 01:53:59"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 5,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14929975",
                 "username": "Xi_purple",
                 "fullName": "希紫 (Xi_purple)",
@@ -575,23 +597,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14036188",
-                "username": "chesterccj305",
-                "fullName": "舞秋風 (chesterccj305)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
-                "joined": "2021-03-01 15:40:11"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 5,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -631,6 +636,23 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14036188",
+                "username": "chesterccj305",
+                "fullName": "舞秋風 (chesterccj305)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
+                "joined": "2021-03-01 15:40:11"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 5,
             "negativeVotes": 0,
             "winning": 0
         }
