@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-02-08T07:20:29.195Z",
-        "to": "2022-03-08T07:20:29.207Z"
+        "from": "2022-02-08T08:27:01.065Z",
+        "to": "2022-03-08T08:27:01.076Z"
     },
     "language": {
         "id": "zh-TW",
@@ -69,8 +69,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1118,
-            "target": 2017,
+            "translated": 1009,
+            "target": 1836,
             "approved": 0,
             "voted": 48,
             "positiveVotes": 0,
@@ -321,28 +321,6 @@
         },
         {
             "user": {
-                "id": "14910757",
-                "username": "hellophone",
-                "fullName": "Hello Phone (hellophone)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
-                "joined": "2021-09-17 09:40:31"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 18,
-            "target": 24,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15142168",
                 "username": "Wo4da",
                 "fullName": "Wo 4da (Wo4da)",
@@ -519,19 +497,19 @@
         },
         {
             "user": {
-                "id": "14929975",
-                "username": "Xi_purple",
-                "fullName": "希紫 (Xi_purple)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14929975/medium/d636977da0b5cd25538841795f8550a4.jpeg",
-                "joined": "2021-09-19 23:35:25"
+                "id": "14846650",
+                "username": "scott26265571",
+                "fullName": "Scott (scott26265571)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846650/medium/3ee0858b2a84fb5e3c80e4b9e04494a7.png",
+                "joined": "2021-07-20 09:07:47"
             },
             "languages": [],
             "translated": 0,
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 0,
+            "positiveVotes": 2,
+            "negativeVotes": 5,
             "winning": 0
         },
         {
@@ -553,19 +531,19 @@
         },
         {
             "user": {
-                "id": "14846650",
-                "username": "scott26265571",
-                "fullName": "Scott (scott26265571)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846650/medium/3ee0858b2a84fb5e3c80e4b9e04494a7.png",
-                "joined": "2021-07-20 09:07:47"
+                "id": "14929975",
+                "username": "Xi_purple",
+                "fullName": "希紫 (Xi_purple)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14929975/medium/d636977da0b5cd25538841795f8550a4.jpeg",
+                "joined": "2021-09-19 23:35:25"
             },
             "languages": [],
             "translated": 0,
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 2,
-            "negativeVotes": 5,
+            "positiveVotes": 1,
+            "negativeVotes": 0,
             "winning": 0
         },
         {
