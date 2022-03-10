@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-02-10T08:25:47.358Z",
-        "to": "2022-03-10T08:25:47.380Z"
+        "from": "2022-02-10T09:20:59.914Z",
+        "to": "2022-03-10T09:20:59.914Z"
     },
     "language": {
         "id": "zh-TW",
@@ -387,6 +387,28 @@
         },
         {
             "user": {
+                "id": "15182054",
+                "username": "zhulapyt",
+                "fullName": "lap zhu (zhulapyt)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15182054/medium/c024f429798c8a7c51d39ef89a47f166.png",
+                "joined": "2022-03-10 04:09:59"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 8,
+            "target": 11,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14767610",
                 "username": "ChuYing",
                 "fullName": "初影 (ChuYing)",
@@ -400,28 +422,6 @@
                 }
             ],
             "translated": 6,
-            "target": 6,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15174614",
-                "username": "Yo_jiang",
-                "fullName": "Yo_jiang",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15174614/medium/f98b4b7ffb4c888ea370201994e19fc2_default.png",
-                "joined": "2022-03-05 11:51:44"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
             "target": 6,
             "approved": 0,
             "voted": 0,
@@ -453,18 +453,40 @@
         },
         {
             "user": {
-                "id": "14652174",
-                "username": "StarskyXIII",
-                "fullName": "夜之星 (StarskyXIII)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14652174/medium/05e7de522a01874e1b13628295e0c205.jpg",
-                "joined": "2021-04-18 14:40:46"
+                "id": "15174614",
+                "username": "Yo_jiang",
+                "fullName": "Yo_jiang",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15174614/medium/f98b4b7ffb4c888ea370201994e19fc2_default.png",
+                "joined": "2022-03-05 11:51:44"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 6,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
             },
             "languages": [],
             "translated": 0,
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 1,
+            "positiveVotes": 2,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -504,6 +526,23 @@
         },
         {
             "user": {
+                "id": "14652174",
+                "username": "StarskyXIII",
+                "fullName": "夜之星 (StarskyXIII)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14652174/medium/05e7de522a01874e1b13628295e0c205.jpg",
+                "joined": "2021-04-18 14:40:46"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14846650",
                 "username": "scott26265571",
                 "fullName": "Scott (scott26265571)",
@@ -517,23 +556,6 @@
             "voted": 0,
             "positiveVotes": 2,
             "negativeVotes": 5,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 2,
-            "negativeVotes": 0,
             "winning": 0
         }
     ]
