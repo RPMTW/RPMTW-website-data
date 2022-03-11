@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-02-11T11:17:55.460Z",
-        "to": "2022-03-11T11:17:55.460Z"
+        "from": "2022-02-11T12:35:40.006Z",
+        "to": "2022-03-11T12:35:40.017Z"
     },
     "language": {
         "id": "zh-TW",
@@ -409,28 +409,6 @@
         },
         {
             "user": {
-                "id": "15085765",
-                "username": "a0908359955",
-                "fullName": "唐瑋佑 (a0908359955)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085765/medium/98f10387621de183456b117757f37ed4.jpeg",
-                "joined": "2022-01-01 01:31:07"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 4,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15174614",
                 "username": "Yo_jiang",
                 "fullName": "Yo_jiang",
@@ -470,6 +448,23 @@
         },
         {
             "user": {
+                "id": "14929975",
+                "username": "Xi_purple",
+                "fullName": "希紫 (Xi_purple)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14929975/medium/d636977da0b5cd25538841795f8550a4.jpeg",
+                "joined": "2021-09-19 23:35:25"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14036188",
                 "username": "chesterccj305",
                 "fullName": "舞秋風 (chesterccj305)",
@@ -500,23 +495,6 @@
             "voted": 0,
             "positiveVotes": 2,
             "negativeVotes": 5,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14929975",
-                "username": "Xi_purple",
-                "fullName": "希紫 (Xi_purple)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14929975/medium/d636977da0b5cd25538841795f8550a4.jpeg",
-                "joined": "2021-09-19 23:35:25"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 0,
             "winning": 0
         }
     ]
