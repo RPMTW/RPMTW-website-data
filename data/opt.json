@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-02-12T08:24:43.755Z",
-        "to": "2022-03-12T08:24:43.755Z"
+        "from": "2022-02-12T09:19:52.699Z",
+        "to": "2022-03-12T09:19:52.699Z"
     },
     "language": {
         "id": "zh-TW",
@@ -69,10 +69,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 808,
-            "target": 1453,
+            "translated": 799,
+            "target": 1441,
             "approved": 0,
-            "voted": 21,
+            "voted": 12,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -337,7 +337,7 @@
             "target": 15,
             "approved": 0,
             "voted": 1,
-            "positiveVotes": 10,
+            "positiveVotes": 9,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -398,7 +398,7 @@
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 2,
+            "positiveVotes": 1,
             "negativeVotes": 5,
             "winning": 0
         },
@@ -416,23 +416,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 3,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14929975",
-                "username": "Xi_purple",
-                "fullName": "希紫 (Xi_purple)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14929975/medium/d636977da0b5cd25538841795f8550a4.jpeg",
-                "joined": "2021-09-19 23:35:25"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         },
