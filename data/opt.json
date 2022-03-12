@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-02-11T23:21:14.724Z",
-        "to": "2022-03-11T23:21:14.725Z"
+        "from": "2022-02-12T01:17:30.593Z",
+        "to": "2022-03-12T01:17:30.610Z"
     },
     "language": {
         "id": "zh-TW",
@@ -277,28 +277,6 @@
         },
         {
             "user": {
-                "id": "15146334",
-                "username": "wl02945617",
-                "fullName": "CHI YUNG WONG (wl02945617)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15146334/medium/8dbfa6b4732c0a687241d9974cb3faa6.jpeg",
-                "joined": "2022-02-11 18:21:42"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 15,
-            "target": 34,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15156144",
                 "username": "-Parker-",
                 "fullName": "-Parker-",
@@ -431,11 +409,11 @@
         },
         {
             "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
+                "id": "14846650",
+                "username": "scott26265571",
+                "fullName": "Scott (scott26265571)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846650/medium/3ee0858b2a84fb5e3c80e4b9e04494a7.png",
+                "joined": "2021-07-20 09:07:47"
             },
             "languages": [],
             "translated": 0,
@@ -443,6 +421,23 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 2,
+            "negativeVotes": 5,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14036188",
+                "username": "chesterccj305",
+                "fullName": "舞秋風 (chesterccj305)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
+                "joined": "2021-03-01 15:40:11"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 4,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -465,28 +460,11 @@
         },
         {
             "user": {
-                "id": "14036188",
-                "username": "chesterccj305",
-                "fullName": "舞秋風 (chesterccj305)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
-                "joined": "2021-03-01 15:40:11"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 4,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14846650",
-                "username": "scott26265571",
-                "fullName": "Scott (scott26265571)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846650/medium/3ee0858b2a84fb5e3c80e4b9e04494a7.png",
-                "joined": "2021-07-20 09:07:47"
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
             },
             "languages": [],
             "translated": 0,
@@ -494,7 +472,7 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 2,
-            "negativeVotes": 5,
+            "negativeVotes": 0,
             "winning": 0
         }
     ]
