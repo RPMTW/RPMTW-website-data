@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-02-18T15:22:51.296Z",
-        "to": "2022-03-18T15:22:51.296Z"
+        "from": "2022-02-18T16:32:00.879Z",
+        "to": "2022-03-18T16:32:00.894Z"
     },
     "language": {
         "id": "zh-TW",
@@ -145,28 +145,6 @@
         },
         {
             "user": {
-                "id": "15090475",
-                "username": "o5239602",
-                "fullName": "煎茶果 (o5239602)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15090475/medium/8168c36caa5f38ccd0b73847ee6ceb82.jpeg",
-                "joined": "2022-01-12 01:22:01"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 39,
-            "target": 86,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14913313",
                 "username": "5656",
                 "fullName": "5656",
@@ -277,28 +255,6 @@
         },
         {
             "user": {
-                "id": "15156856",
-                "username": "Liek_Girls",
-                "fullName": "Liek_Girls",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15156856/medium/0f59bd5cd3dbb11b2c2100be12fc5225_default.png",
-                "joined": "2022-02-20 01:33:19"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 11,
-            "target": 16,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14889234",
                 "username": "frank1320",
                 "fullName": "Frank Cheung (frank1320)",
@@ -313,6 +269,28 @@
             ],
             "translated": 11,
             "target": 14,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15156856",
+                "username": "Liek_Girls",
+                "fullName": "Liek_Girls",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15156856/medium/0f59bd5cd3dbb11b2c2100be12fc5225_default.png",
+                "joined": "2022-02-20 01:33:19"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 11,
+            "target": 16,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -409,23 +387,6 @@
         },
         {
             "user": {
-                "id": "14846650",
-                "username": "scott26265571",
-                "fullName": "Scott (scott26265571)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846650/medium/3ee0858b2a84fb5e3c80e4b9e04494a7.png",
-                "joined": "2021-07-20 09:07:47"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 5,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14504298",
                 "username": "SiongSng",
                 "fullName": "菘菘 (SiongSng)",
@@ -439,6 +400,23 @@
             "voted": 0,
             "positiveVotes": 1,
             "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14846650",
+                "username": "scott26265571",
+                "fullName": "Scott (scott26265571)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846650/medium/3ee0858b2a84fb5e3c80e4b9e04494a7.png",
+                "joined": "2021-07-20 09:07:47"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 5,
             "winning": 0
         }
     ]
