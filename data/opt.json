@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-02-22T08:26:55.435Z",
-        "to": "2022-03-22T08:26:55.436Z"
+        "from": "2022-02-22T09:20:59.652Z",
+        "to": "2022-03-22T09:20:59.653Z"
     },
     "language": {
         "id": "zh-TW",
@@ -203,6 +203,28 @@
             ],
             "translated": 19,
             "target": 59,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14793632",
+                "username": "ben2008",
+                "fullName": "ben2008",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14793632/medium/4017a44dc19c65902f838a0b2995177b_default.png",
+                "joined": "2022-01-17 09:39:57"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 17,
+            "target": 36,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
