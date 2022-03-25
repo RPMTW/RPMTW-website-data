@@ -3,14 +3,36 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-02-25T06:28:47.241Z",
-        "to": "2022-03-25T06:28:47.241Z"
+        "from": "2022-02-25T07:20:47.971Z",
+        "to": "2022-03-25T07:20:47.983Z"
     },
     "language": {
         "id": "zh-TW",
         "name": "Chinese Traditional"
     },
     "data": [
+        {
+            "user": {
+                "id": "14846146",
+                "username": "KuriPa",
+                "fullName": "Kuri Pa (KuriPa)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846146/medium/b9aa35d1001ce10bd78208c618e1f5f3.jpeg",
+                "joined": "2021-07-20 00:54:57"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1781,
+            "target": 3211,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
         {
             "user": {
                 "id": "14360646",
@@ -27,28 +49,6 @@
             ],
             "translated": 1318,
             "target": 2541,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14846146",
-                "username": "KuriPa",
-                "fullName": "Kuri Pa (KuriPa)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846146/medium/b9aa35d1001ce10bd78208c618e1f5f3.jpeg",
-                "joined": "2021-07-20 00:54:57"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1288,
-            "target": 2364,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
