@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-02-28T19:16:26.689Z",
-        "to": "2022-03-28T19:16:26.690Z"
+        "from": "2022-02-28T20:23:14.711Z",
+        "to": "2022-03-28T20:23:14.712Z"
     },
     "language": {
         "id": "zh-TW",
@@ -227,6 +227,28 @@
             "target": 36,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14756932",
+                "username": "Siliq",
+                "fullName": "Siliq",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14756932/medium/be1299f9d773c3455c76dd6b0c399c18.PNG",
+                "joined": "2021-05-14 14:46:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 5,
+            "target": 11,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
