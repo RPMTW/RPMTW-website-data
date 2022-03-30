@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-03-02T07:22:27.993Z",
-        "to": "2022-03-30T07:22:27.994Z"
+        "from": "2022-03-02T08:27:19.321Z",
+        "to": "2022-03-30T08:27:19.322Z"
     },
     "language": {
         "id": "zh-TW",
@@ -93,6 +93,28 @@
             ],
             "translated": 211,
             "target": 367,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15210074",
+                "username": "senchi0276",
+                "fullName": "Hui Duck (senchi0276)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15210074/medium/984b7af167c4fe2dcc2dff0042f348e7.jpeg",
+                "joined": "2022-03-30 03:56:10"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 161,
+            "target": 302,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
