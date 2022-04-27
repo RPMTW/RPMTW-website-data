@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-03-27T10:26:28.365Z",
-        "to": "2022-04-27T10:26:28.365Z"
+        "from": "2022-03-27T11:19:25.596Z",
+        "to": "2022-04-27T11:19:25.596Z"
     },
     "language": {
         "id": "zh-TW",
@@ -299,11 +299,11 @@
         },
         {
             "user": {
-                "id": "15236334",
-                "username": "vintedsy",
-                "fullName": "看看留言的男子無聊 (vintedsy)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15236334/medium/3186c30d51904c590386d9ca50284fb1.jpeg",
-                "joined": "2022-04-18 13:53:04"
+                "id": "13284935",
+                "username": "nightsnowlin_ouo",
+                "fullName": "NightSnowLin (nightsnowlin_ouo)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13284935/medium/ec20e19dd200cff99e19e982ef131c87.JPG",
+                "joined": "2021-03-30 11:44:30"
             },
             "languages": [
                 {
@@ -311,8 +311,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2,
-            "target": 4,
+            "translated": 3,
+            "target": 6,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -339,6 +339,45 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15236334",
+                "username": "vintedsy",
+                "fullName": "看看留言的男子無聊 (vintedsy)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15236334/medium/3186c30d51904c590386d9ca50284fb1.jpeg",
+                "joined": "2022-04-18 13:53:04"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14846650",
+                "username": "scott26265571",
+                "fullName": "Scott (scott26265571)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846650/medium/3ee0858b2a84fb5e3c80e4b9e04494a7.png",
+                "joined": "2021-07-20 09:07:47"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 1,
             "winning": 0
         },
         {
@@ -378,23 +417,6 @@
             "voted": 0,
             "positiveVotes": 3,
             "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14846650",
-                "username": "scott26265571",
-                "fullName": "Scott (scott26265571)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846650/medium/3ee0858b2a84fb5e3c80e4b9e04494a7.png",
-                "joined": "2021-07-20 09:07:47"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 1,
             "winning": 0
         }
     ]
