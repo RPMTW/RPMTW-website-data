@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-03-28T19:19:05.177Z",
-        "to": "2022-04-28T19:19:05.178Z"
+        "from": "2022-03-28T20:24:09.629Z",
+        "to": "2022-04-28T20:24:09.629Z"
     },
     "language": {
         "id": "zh-TW",
@@ -255,28 +255,6 @@
         },
         {
             "user": {
-                "id": "14756932",
-                "username": "Siliq",
-                "fullName": "Siliq",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14756932/medium/be1299f9d773c3455c76dd6b0c399c18.PNG",
-                "joined": "2021-05-14 14:46:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 5,
-            "target": 11,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14221720",
                 "username": "e74yp8",
                 "fullName": "e74yp8",
@@ -321,28 +299,6 @@
         },
         {
             "user": {
-                "id": "14913313",
-                "username": "5656",
-                "fullName": "5656",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14913313/medium/99c7d3d95eac24f12bc88f9926952f07_default.png",
-                "joined": "2021-11-02 23:50:51"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 4,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15236334",
                 "username": "vintedsy",
                 "fullName": "看看留言的男子無聊 (vintedsy)",
@@ -365,19 +321,24 @@
         },
         {
             "user": {
-                "id": "14846650",
-                "username": "scott26265571",
-                "fullName": "Scott (scott26265571)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846650/medium/3ee0858b2a84fb5e3c80e4b9e04494a7.png",
-                "joined": "2021-07-20 09:07:47"
+                "id": "14913313",
+                "username": "5656",
+                "fullName": "5656",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14913313/medium/99c7d3d95eac24f12bc88f9926952f07_default.png",
+                "joined": "2021-11-02 23:50:51"
             },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 4,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
             "winning": 0
         },
         {
@@ -417,6 +378,23 @@
             "voted": 0,
             "positiveVotes": 3,
             "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14846650",
+                "username": "scott26265571",
+                "fullName": "Scott (scott26265571)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846650/medium/3ee0858b2a84fb5e3c80e4b9e04494a7.png",
+                "joined": "2021-07-20 09:07:47"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 1,
             "winning": 0
         }
     ]
