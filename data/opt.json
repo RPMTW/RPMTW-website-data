@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-03-30T08:27:01.013Z",
-        "to": "2022-04-30T08:27:01.025Z"
+        "from": "2022-03-30T09:21:37.292Z",
+        "to": "2022-04-30T09:21:37.292Z"
     },
     "language": {
         "id": "zh-TW",
@@ -189,28 +189,6 @@
         },
         {
             "user": {
-                "id": "15210074",
-                "username": "senchi0276",
-                "fullName": "Hui Duck (senchi0276)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15210074/medium/984b7af167c4fe2dcc2dff0042f348e7.jpeg",
-                "joined": "2022-03-30 03:56:10"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 11,
-            "target": 24,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15218078",
                 "username": "JokerXue",
                 "fullName": "JokerXue",
@@ -321,19 +299,19 @@
         },
         {
             "user": {
-                "id": "14846650",
-                "username": "scott26265571",
-                "fullName": "Scott (scott26265571)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846650/medium/3ee0858b2a84fb5e3c80e4b9e04494a7.png",
-                "joined": "2021-07-20 09:07:47"
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
             },
             "languages": [],
             "translated": 0,
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 1,
-            "negativeVotes": 1,
+            "positiveVotes": 3,
+            "negativeVotes": 0,
             "winning": 0
         },
         {
@@ -360,19 +338,19 @@
         },
         {
             "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
+                "id": "14846650",
+                "username": "scott26265571",
+                "fullName": "Scott (scott26265571)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14846650/medium/3ee0858b2a84fb5e3c80e4b9e04494a7.png",
+                "joined": "2021-07-20 09:07:47"
             },
             "languages": [],
             "translated": 0,
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 3,
-            "negativeVotes": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 1,
             "winning": 0
         }
     ]
