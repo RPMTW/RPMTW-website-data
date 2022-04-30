@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-03-30T07:21:31.489Z",
-        "to": "2022-04-30T07:21:31.490Z"
+        "from": "2022-03-30T08:27:01.013Z",
+        "to": "2022-04-30T08:27:01.025Z"
     },
     "language": {
         "id": "zh-TW",
@@ -49,28 +49,6 @@
             ],
             "translated": 723,
             "target": 1301,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15210074",
-                "username": "senchi0276",
-                "fullName": "Hui Duck (senchi0276)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15210074/medium/984b7af167c4fe2dcc2dff0042f348e7.jpeg",
-                "joined": "2022-03-30 03:56:10"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 172,
-            "target": 326,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -205,6 +183,28 @@
             "target": 14,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15210074",
+                "username": "senchi0276",
+                "fullName": "Hui Duck (senchi0276)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15210074/medium/984b7af167c4fe2dcc2dff0042f348e7.jpeg",
+                "joined": "2022-03-30 03:56:10"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 11,
+            "target": 24,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
