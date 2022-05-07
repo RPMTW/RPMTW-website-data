@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-04-07T12:38:04.172Z",
-        "to": "2022-05-07T12:38:04.173Z"
+        "from": "2022-04-07T13:30:14.098Z",
+        "to": "2022-05-07T13:30:14.110Z"
     },
     "language": {
         "id": "zh-TW",
@@ -135,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 37,
-            "target": 64,
+            "translated": 35,
+            "target": 59,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -211,6 +211,28 @@
         },
         {
             "user": {
+                "id": "15241724",
+                "username": "olivertzengolivertzeng",
+                "fullName": "曾嘉禾 (olivertzengolivertzeng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15241724/medium/17a9f9caef4349a5d68aeca6a8315c56.png",
+                "joined": "2022-05-07 09:06:45"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 8,
+            "target": 11,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13610160",
                 "username": "lin24362525",
                 "fullName": "林政左 (lin24362525)",
@@ -277,28 +299,6 @@
         },
         {
             "user": {
-                "id": "15255688",
-                "username": "Kidermo",
-                "fullName": "Kidermo",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15255688/medium/eba60060aa65ab491c110b9d5fa6bb99_default.png",
-                "joined": "2022-05-03 07:23:45"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 8,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15236334",
                 "username": "vintedsy",
                 "fullName": "看看留言的男子無聊 (vintedsy)",
@@ -357,6 +357,28 @@
             ],
             "translated": 2,
             "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15255688",
+                "username": "Kidermo",
+                "fullName": "Kidermo",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15255688/medium/eba60060aa65ab491c110b9d5fa6bb99_default.png",
+                "joined": "2022-05-03 07:23:45"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 8,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
