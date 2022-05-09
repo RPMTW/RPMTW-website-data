@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-04-09T11:20:37.511Z",
-        "to": "2022-05-09T11:20:37.512Z"
+        "from": "2022-04-09T12:44:13.463Z",
+        "to": "2022-05-09T12:44:13.464Z"
     },
     "language": {
         "id": "zh-TW",
@@ -255,6 +255,28 @@
         },
         {
             "user": {
+                "id": "15085765",
+                "username": "a0908359955",
+                "fullName": "cooperjcarsen (a0908359955)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085765/medium/98f10387621de183456b117757f37ed4.jpeg",
+                "joined": "2022-01-01 01:31:07"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4,
+            "target": 5,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14221720",
                 "username": "e74yp8",
                 "fullName": "e74yp8",
@@ -299,11 +321,11 @@
         },
         {
             "user": {
-                "id": "14912105",
-                "username": "Yataragasus",
-                "fullName": "Yataragasus",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14912105/medium/109c570c639661fdf37010f65751c617.png",
-                "joined": "2021-09-07 00:10:30"
+                "id": "15236334",
+                "username": "vintedsy",
+                "fullName": "看看留言的男子無聊 (vintedsy)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15236334/medium/3186c30d51904c590386d9ca50284fb1.jpeg",
+                "joined": "2022-04-18 13:53:04"
             },
             "languages": [
                 {
@@ -365,28 +387,6 @@
         },
         {
             "user": {
-                "id": "15236334",
-                "username": "vintedsy",
-                "fullName": "看看留言的男子無聊 (vintedsy)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15236334/medium/3186c30d51904c590386d9ca50284fb1.jpeg",
-                "joined": "2022-04-18 13:53:04"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 4,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15255688",
                 "username": "Kidermo",
                 "fullName": "Kidermo",
@@ -401,6 +401,28 @@
             ],
             "translated": 2,
             "target": 8,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14912105",
+                "username": "Yataragasus",
+                "fullName": "Yataragasus",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14912105/medium/109c570c639661fdf37010f65751c617.png",
+                "joined": "2021-09-07 00:10:30"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 4,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
