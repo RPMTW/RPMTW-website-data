@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-04-22T23:23:23.586Z",
-        "to": "2022-05-22T23:23:23.587Z"
+        "from": "2022-04-23T01:57:52.288Z",
+        "to": "2022-05-23T01:57:52.288Z"
     },
     "language": {
         "id": "zh-TW",
@@ -79,6 +79,28 @@
         },
         {
             "user": {
+                "id": "14818404",
+                "username": "SWYA0621",
+                "fullName": "SWYA0621",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14818404/medium/a3ec472b7ec000deadb81c41ac924d2a_default.png",
+                "joined": "2021-07-24 04:02:08"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 837,
+            "target": 1492,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15044039",
                 "username": "ItzNotNeptune",
                 "fullName": "255421 AA (ItzNotNeptune)",
@@ -93,28 +115,6 @@
             ],
             "translated": 799,
             "target": 1351,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14818404",
-                "username": "SWYA0621",
-                "fullName": "SWYA0621",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14818404/medium/a3ec472b7ec000deadb81c41ac924d2a_default.png",
-                "joined": "2021-07-24 04:02:08"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 753,
-            "target": 1332,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
