@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-04-26T15:27:55.636Z",
-        "to": "2022-05-26T15:27:55.637Z"
+        "from": "2022-04-26T16:36:03.658Z",
+        "to": "2022-05-26T16:36:03.659Z"
     },
     "language": {
         "id": "zh-TW",
@@ -101,6 +101,28 @@
         },
         {
             "user": {
+                "id": "14946781",
+                "username": "Lichen",
+                "fullName": "Lichen",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14946781/medium/cf9919230d8cf2ebd82e3c2423731602_default.png",
+                "joined": "2021-10-03 01:31:54"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 697,
+            "target": 1190,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13395892",
                 "username": "MarginalPerson",
                 "fullName": "默默無名邊緣人 (MarginalPerson)",
@@ -159,28 +181,6 @@
             ],
             "translated": 248,
             "target": 426,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14946781",
-                "username": "Lichen",
-                "fullName": "Lichen",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14946781/medium/cf9919230d8cf2ebd82e3c2423731602_default.png",
-                "joined": "2021-10-03 01:31:54"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 220,
-            "target": 375,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
