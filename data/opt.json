@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-04-27T19:19:01.463Z",
-        "to": "2022-05-27T19:19:01.464Z"
+        "from": "2022-04-27T20:25:16.748Z",
+        "to": "2022-05-27T20:25:16.748Z"
     },
     "language": {
         "id": "zh-TW",
@@ -189,6 +189,28 @@
         },
         {
             "user": {
+                "id": "14808102",
+                "username": "ted09080037",
+                "fullName": "Happy-send (ted09080037)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14808102/medium/945fc5711e867dd2b184beda48be67f6_default.png",
+                "joined": "2021-06-20 16:12:50"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 171,
+            "target": 312,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15245468",
                 "username": "a109222014",
                 "fullName": "錒維 (a109222014)",
@@ -225,28 +247,6 @@
             ],
             "translated": 118,
             "target": 217,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14808102",
-                "username": "ted09080037",
-                "fullName": "Happy-send (ted09080037)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14808102/medium/945fc5711e867dd2b184beda48be67f6_default.png",
-                "joined": "2021-06-20 16:12:50"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 73,
-            "target": 130,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
