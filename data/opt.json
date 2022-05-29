@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-04-29T15:24:14.098Z",
-        "to": "2022-05-29T15:24:14.099Z"
+        "from": "2022-04-29T16:32:35.008Z",
+        "to": "2022-05-29T16:32:35.008Z"
     },
     "language": {
         "id": "zh-TW",
@@ -123,6 +123,28 @@
         },
         {
             "user": {
+                "id": "13993247",
+                "username": "PolaVulcanus",
+                "fullName": "PolaVulcanus",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13993247/medium/331817b69abfec695c5365dbb4d8b44b.png",
+                "joined": "2022-05-29 07:32:08"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 641,
+            "target": 1110,
+            "approved": 0,
+            "voted": 4,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13395892",
                 "username": "MarginalPerson",
                 "fullName": "默默無名邊緣人 (MarginalPerson)",
@@ -162,28 +184,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 3,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "13993247",
-                "username": "PolaVulcanus",
-                "fullName": "PolaVulcanus",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13993247/medium/331817b69abfec695c5365dbb4d8b44b.png",
-                "joined": "2022-05-29 07:32:08"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 440,
-            "target": 782,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -269,6 +269,28 @@
             ],
             "translated": 118,
             "target": 217,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14848632",
+                "username": "GEBYMO_DJV",
+                "fullName": "GEBYMO_DJV",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14848632/medium/3d919653590bc21b8b68d423ac17be37_default.png",
+                "joined": "2021-07-28 12:45:17"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 71,
+            "target": 139,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -497,28 +519,6 @@
         },
         {
             "user": {
-                "id": "14308030",
-                "username": "ChocoMing",
-                "fullName": "巧克明 (ChocoMing)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14308030/medium/9aeac6b20adb2fdd95623d824640d8ef.png",
-                "joined": "2021-04-05 10:24:10"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1,
-            "target": 2,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14753864",
                 "username": "yoshikiece",
                 "fullName": "旺財 (yoshikiece)",
@@ -535,6 +535,28 @@
             "target": 4,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14308030",
+                "username": "ChocoMing",
+                "fullName": "巧克明 (ChocoMing)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14308030/medium/9aeac6b20adb2fdd95623d824640d8ef.png",
+                "joined": "2021-04-05 10:24:10"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1,
+            "target": 2,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
