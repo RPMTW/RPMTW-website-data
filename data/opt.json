@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-04-30T21:21:16.552Z",
-        "to": "2022-05-30T21:21:16.553Z"
+        "from": "2022-04-30T22:24:28.595Z",
+        "to": "2022-05-30T22:24:28.596Z"
     },
     "language": {
         "id": "zh-TW",
@@ -211,6 +211,28 @@
         },
         {
             "user": {
+                "id": "14727994",
+                "username": "Thunder_Lion1069",
+                "fullName": "Thunder_Lion1069",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14727994/medium/b3143bb13261062bac27b38bdd541e53_default.png",
+                "joined": "2021-04-26 23:08:24"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 288,
+            "target": 445,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14819832",
                 "username": "FlySky",
                 "fullName": "FlySky",
@@ -335,28 +357,6 @@
             ],
             "translated": 51,
             "target": 85,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14727994",
-                "username": "Thunder_Lion1069",
-                "fullName": "Thunder_Lion1069",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14727994/medium/b3143bb13261062bac27b38bdd541e53_default.png",
-                "joined": "2021-04-26 23:08:24"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 50,
-            "target": 87,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
