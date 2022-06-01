@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-01T04:37:34.915Z",
-        "to": "2022-06-01T04:37:34.917Z"
+        "from": "2022-05-01T05:49:28.486Z",
+        "to": "2022-06-01T05:49:28.487Z"
     },
     "language": {
         "id": "zh-TW",
@@ -497,6 +497,28 @@
         },
         {
             "user": {
+                "id": "15085765",
+                "username": "a0908359955",
+                "fullName": "cooperjcarsen (a0908359955)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085765/medium/98f10387621de183456b117757f37ed4.jpeg",
+                "joined": "2022-01-01 01:31:07"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 5,
+            "target": 7,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15291670",
                 "username": "RmF0cGln",
                 "fullName": "RmF0cGln",
@@ -511,28 +533,6 @@
             ],
             "translated": 5,
             "target": 9,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15085765",
-                "username": "a0908359955",
-                "fullName": "cooperjcarsen (a0908359955)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085765/medium/98f10387621de183456b117757f37ed4.jpeg",
-                "joined": "2022-01-01 01:31:07"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 4,
-            "target": 5,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
