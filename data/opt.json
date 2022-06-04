@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-04T15:21:28.914Z",
-        "to": "2022-06-04T15:21:28.915Z"
+        "from": "2022-05-04T16:29:09.299Z",
+        "to": "2022-06-04T16:29:09.301Z"
     },
     "language": {
         "id": "zh-TW",
@@ -321,6 +321,28 @@
         },
         {
             "user": {
+                "id": "14771482",
+                "username": "leeuho16",
+                "fullName": "leeuho16",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14771482/medium/4bc7aada58e7b1040cf743f962572235_default.png",
+                "joined": "2021-05-24 23:38:43"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 102,
+            "target": 215,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14360646",
                 "username": "Ijiapwned",
                 "fullName": "Pwned (Ijiapwned)",
@@ -497,6 +519,28 @@
         },
         {
             "user": {
+                "id": "15085765",
+                "username": "a0908359955",
+                "fullName": "cooperjcarsen (a0908359955)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085765/medium/98f10387621de183456b117757f37ed4.jpeg",
+                "joined": "2022-01-01 01:31:07"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 9,
+            "target": 20,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15241724",
                 "username": "olivertzengolivertzeng",
                 "fullName": "曾嘉禾 (olivertzengolivertzeng)",
@@ -519,28 +563,6 @@
         },
         {
             "user": {
-                "id": "15085765",
-                "username": "a0908359955",
-                "fullName": "cooperjcarsen (a0908359955)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085765/medium/98f10387621de183456b117757f37ed4.jpeg",
-                "joined": "2022-01-01 01:31:07"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 5,
-            "target": 7,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15291670",
                 "username": "RmF0cGln",
                 "fullName": "RmF0cGln",
@@ -555,28 +577,6 @@
             ],
             "translated": 5,
             "target": 9,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14771482",
-                "username": "leeuho16",
-                "fullName": "leeuho16",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14771482/medium/4bc7aada58e7b1040cf743f962572235_default.png",
-                "joined": "2021-05-24 23:38:43"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3,
-            "target": 6,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
