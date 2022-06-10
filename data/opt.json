@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-10T14:20:36.125Z",
-        "to": "2022-06-10T14:20:36.126Z"
+        "from": "2022-05-10T15:25:16.972Z",
+        "to": "2022-06-10T15:25:16.973Z"
     },
     "language": {
         "id": "zh-TW",
@@ -519,11 +519,11 @@
         },
         {
             "user": {
-                "id": "14308030",
-                "username": "ChocoMing",
-                "fullName": "巧克明 (ChocoMing)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14308030/medium/9aeac6b20adb2fdd95623d824640d8ef.png",
-                "joined": "2021-04-05 10:24:10"
+                "id": "15281372",
+                "username": "Yu0230",
+                "fullName": "恆羽 (Yu0230)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15281372/medium/822b445deffe0474efebb099da5eeb50.jpeg",
+                "joined": "2022-06-10 10:59:43"
             },
             "languages": [
                 {
@@ -531,8 +531,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1,
-            "target": 2,
+            "translated": 2,
+            "target": 3,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -557,6 +557,28 @@
             "target": 4,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14308030",
+                "username": "ChocoMing",
+                "fullName": "巧克明 (ChocoMing)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14308030/medium/9aeac6b20adb2fdd95623d824640d8ef.png",
+                "joined": "2021-04-05 10:24:10"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1,
+            "target": 2,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
