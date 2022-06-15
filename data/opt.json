@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-15T19:18:22.168Z",
-        "to": "2022-06-15T19:18:22.170Z"
+        "from": "2022-05-15T20:28:01.442Z",
+        "to": "2022-06-15T20:28:01.444Z"
     },
     "language": {
         "id": "zh-TW",
@@ -339,6 +339,28 @@
             "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 1,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15316704",
+                "username": "nannuwc",
+                "fullName": "LILY T_T (nannuwc)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15316704/medium/b729724a804af8607314a896a91b5202.png",
+                "joined": "2022-06-15 16:11:18"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 62,
+            "target": 102,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
             "winning": 0
         },
         {
