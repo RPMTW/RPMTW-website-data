@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-18T14:19:14.165Z",
-        "to": "2022-06-18T14:19:14.178Z"
+        "from": "2022-05-18T15:21:45.724Z",
+        "to": "2022-06-18T15:21:45.725Z"
     },
     "language": {
         "id": "zh-TW",
@@ -211,6 +211,28 @@
         },
         {
             "user": {
+                "id": "14785870",
+                "username": "kkkkds4165",
+                "fullName": "kkkkds4165",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14785870/medium/70a9e7cfd91425612c62d03831249c2f.jpeg",
+                "joined": "2022-06-18 10:01:48"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 295,
+            "target": 467,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14855780",
                 "username": "cjiahe682",
                 "fullName": "Sculk man (cjiahe682)",
@@ -387,28 +409,6 @@
         },
         {
             "user": {
-                "id": "14785870",
-                "username": "kkkkds4165",
-                "fullName": "kkkkds4165",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14785870/medium/70a9e7cfd91425612c62d03831249c2f.jpeg",
-                "joined": "2022-06-18 10:01:48"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 58,
-            "target": 95,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14360646",
                 "username": "Ijiapwned",
                 "fullName": "Pwned (Ijiapwned)",
@@ -555,6 +555,28 @@
             ],
             "translated": 5,
             "target": 9,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13610160",
+                "username": "Leo0728",
+                "fullName": "Leo (Leo0728)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13610160/medium/d9b465313a5003ef1c3950fcc46bd4be.jpeg",
+                "joined": "2022-04-23 11:57:25"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 4,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
