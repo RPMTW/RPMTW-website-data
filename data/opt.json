@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-19T11:17:26.658Z",
-        "to": "2022-06-19T11:17:26.659Z"
+        "from": "2022-05-19T12:37:37.765Z",
+        "to": "2022-06-19T12:37:37.767Z"
     },
     "language": {
         "id": "zh-TW",
@@ -35,6 +35,28 @@
         },
         {
             "user": {
+                "id": "15317038",
+                "username": "StarLight777",
+                "fullName": "Star Light竣 (StarLight777)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15317038/medium/10d8e1fc76be9e095547d8cf51648f49.gif",
+                "joined": "2022-06-16 02:46:49"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 8979,
+            "target": 13200,
+            "approved": 0,
+            "voted": 30,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13395892",
                 "username": "MarginalPerson",
                 "fullName": "默默無名邊緣人 (MarginalPerson)",
@@ -51,28 +73,6 @@
             "target": 12906,
             "approved": 0,
             "voted": 26,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15317038",
-                "username": "StarLight777",
-                "fullName": "Star Light竣 (StarLight777)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15317038/medium/10d8e1fc76be9e095547d8cf51648f49.gif",
-                "joined": "2022-06-16 02:46:49"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 7142,
-            "target": 10614,
-            "approved": 0,
-            "voted": 6,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -403,6 +403,28 @@
             "target": 145,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15111613",
+                "username": "timothytseng508",
+                "fullName": "曾子昕 (timothytseng508)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15111613/medium/7f16890e16cd9f6a1949581f395c607b.png",
+                "joined": "2022-06-19 08:28:10"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 77,
+            "target": 131,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
