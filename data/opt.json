@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-21T11:23:34.729Z",
-        "to": "2022-06-21T11:23:34.751Z"
+        "from": "2022-05-21T12:51:38.937Z",
+        "to": "2022-06-21T12:51:38.954Z"
     },
     "language": {
         "id": "zh-TW",
@@ -453,6 +453,28 @@
         },
         {
             "user": {
+                "id": "14665926",
+                "username": "EvanHsieh0415",
+                "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14665926/medium/43cb27309eabac14eeffc913f42312b1.png",
+                "joined": "2021-04-20 06:05:34"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 59,
+            "target": 84,
+            "approved": 0,
+            "voted": 2,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14964573",
                 "username": "fungh",
                 "fullName": "Fu ug (fungh)",
@@ -535,28 +557,6 @@
             "target": 18,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14665926",
-                "username": "EvanHsieh0415",
-                "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14665926/medium/43cb27309eabac14eeffc913f42312b1.png",
-                "joined": "2021-04-20 06:05:34"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 8,
-            "target": 8,
-            "approved": 0,
-            "voted": 2,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
