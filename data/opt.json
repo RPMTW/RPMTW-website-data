@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-22T05:24:52.862Z",
-        "to": "2022-06-22T05:24:52.863Z"
+        "from": "2022-05-22T06:28:05.528Z",
+        "to": "2022-06-22T06:28:05.529Z"
     },
     "language": {
         "id": "zh-TW",
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 8790,
-            "target": 14059,
+            "translated": 8783,
+            "target": 14048,
             "approved": 0,
             "voted": 13,
             "positiveVotes": 0,
@@ -453,28 +453,6 @@
         },
         {
             "user": {
-                "id": "14819832",
-                "username": "FlySky",
-                "fullName": "FlySky",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14819832/medium/0fad629fdb46af44e83b179cce4089e0.png",
-                "joined": "2021-06-29 04:06:43"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 35,
-            "target": 56,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14964573",
                 "username": "fungh",
                 "fullName": "Fu ug (fungh)",
@@ -585,28 +563,6 @@
         },
         {
             "user": {
-                "id": "14786964",
-                "username": "n7051530",
-                "fullName": "雨落櫻風 (n7051530)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786964/medium/017a689d6bb6765ae65c03fc88711132.jpeg",
-                "joined": "2021-06-05 05:07:49"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3,
-            "target": 3,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15141142",
                 "username": "ian34wang",
                 "fullName": "ian34wang",
@@ -621,6 +577,28 @@
             ],
             "translated": 3,
             "target": 7,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14786964",
+                "username": "n7051530",
+                "fullName": "雨落櫻風 (n7051530)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786964/medium/017a689d6bb6765ae65c03fc88711132.jpeg",
+                "joined": "2021-06-05 05:07:49"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 3,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
