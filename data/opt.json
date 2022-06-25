@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-25T06:26:31.543Z",
-        "to": "2022-06-25T06:26:31.545Z"
+        "from": "2022-05-25T07:19:46.600Z",
+        "to": "2022-06-25T07:19:46.601Z"
     },
     "language": {
         "id": "zh-TW",
@@ -189,28 +189,6 @@
         },
         {
             "user": {
-                "id": "14941681",
-                "username": "yeast",
-                "fullName": "酵母菌 (yeast)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14941681/medium/0821c62eb3c21a264d77146753295b54_default.png",
-                "joined": "2021-09-28 08:56:51"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 472,
-            "target": 864,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 7,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15327554",
                 "username": "Gaspard_Han",
                 "fullName": "Gaspardhan (Gaspard_Han)",
@@ -250,6 +228,28 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14941681",
+                "username": "yeast",
+                "fullName": "酵母菌 (yeast)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14941681/medium/0821c62eb3c21a264d77146753295b54_default.png",
+                "joined": "2021-09-28 08:56:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 286,
+            "target": 481,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 7,
             "negativeVotes": 0,
             "winning": 0
         },
