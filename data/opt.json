@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-25T22:21:39.269Z",
-        "to": "2022-06-25T22:21:39.269Z"
+        "from": "2022-05-25T23:20:49.823Z",
+        "to": "2022-06-25T23:20:49.823Z"
     },
     "language": {
         "id": "zh-TW",
@@ -343,6 +343,28 @@
         },
         {
             "user": {
+                "id": "15331010",
+                "username": "RavenBeastBoy",
+                "fullName": "Forest Rain (RavenBeastBoy)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15331010/medium/671084f571b04d17251e027ee25a5dcd.jpg",
+                "joined": "2022-06-25 18:45:45"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 163,
+            "target": 236,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14847496",
                 "username": "StarsShine11904",
                 "fullName": "Stars Shine (StarsShine11904)",
@@ -431,28 +453,6 @@
         },
         {
             "user": {
-                "id": "14941681",
-                "username": "yeast",
-                "fullName": "酵母菌 (yeast)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14941681/medium/0821c62eb3c21a264d77146753295b54_default.png",
-                "joined": "2021-09-28 08:56:51"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 59,
-            "target": 102,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 7,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14665926",
                 "username": "EvanHsieh0415",
                 "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
@@ -470,6 +470,28 @@
             "approved": 0,
             "voted": 3,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14941681",
+                "username": "yeast",
+                "fullName": "酵母菌 (yeast)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14941681/medium/0821c62eb3c21a264d77146753295b54_default.png",
+                "joined": "2021-09-28 08:56:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 59,
+            "target": 102,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 7,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -607,11 +629,11 @@
         },
         {
             "user": {
-                "id": "13610160",
-                "username": "Leo0728",
-                "fullName": "Leo (Leo0728)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13610160/medium/d9b465313a5003ef1c3950fcc46bd4be.jpeg",
-                "joined": "2022-04-23 11:57:25"
+                "id": "15141142",
+                "username": "ian34wang",
+                "fullName": "ian34wang",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15141142/medium/94a6f5899c33b9ec91b2a5b71d9980c5_default.png",
+                "joined": "2022-02-08 10:10:41"
             },
             "languages": [
                 {
@@ -620,7 +642,7 @@
                 }
             ],
             "translated": 3,
-            "target": 4,
+            "target": 7,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -651,11 +673,11 @@
         },
         {
             "user": {
-                "id": "15141142",
-                "username": "ian34wang",
-                "fullName": "ian34wang",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15141142/medium/94a6f5899c33b9ec91b2a5b71d9980c5_default.png",
-                "joined": "2022-02-08 10:10:41"
+                "id": "13610160",
+                "username": "Leo0728",
+                "fullName": "Leo (Leo0728)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13610160/medium/d9b465313a5003ef1c3950fcc46bd4be.jpeg",
+                "joined": "2022-04-23 11:57:25"
             },
             "languages": [
                 {
@@ -664,7 +686,7 @@
                 }
             ],
             "translated": 3,
-            "target": 7,
+            "target": 4,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
