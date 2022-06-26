@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-26T14:18:44.400Z",
-        "to": "2022-06-26T14:18:44.401Z"
+        "from": "2022-05-26T15:21:53.195Z",
+        "to": "2022-06-26T15:21:53.195Z"
     },
     "language": {
         "id": "zh-TW",
@@ -69,8 +69,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 7691,
-            "target": 12206,
+            "translated": 7648,
+            "target": 12128,
             "approved": 0,
             "voted": 22,
             "positiveVotes": 0,
@@ -113,8 +113,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3783,
-            "target": 6330,
+            "translated": 3618,
+            "target": 6053,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -136,7 +136,7 @@
                 }
             ],
             "translated": 3385,
-            "target": 5496,
+            "target": 5398,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -299,28 +299,6 @@
         },
         {
             "user": {
-                "id": "14808102",
-                "username": "ted09080037",
-                "fullName": "Happy-send (ted09080037)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14808102/medium/945fc5711e867dd2b184beda48be67f6_default.png",
-                "joined": "2021-06-20 16:12:50"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 194,
-            "target": 354,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14771482",
                 "username": "leeuho16",
                 "fullName": "leeuho16",
@@ -359,6 +337,28 @@
             "target": 302,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14808102",
+                "username": "ted09080037",
+                "fullName": "Happy-send (ted09080037)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14808102/medium/945fc5711e867dd2b184beda48be67f6_default.png",
+                "joined": "2021-06-20 16:12:50"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 135,
+            "target": 248,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
