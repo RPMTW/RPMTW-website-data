@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-25T23:20:49.823Z",
-        "to": "2022-06-25T23:20:49.823Z"
+        "from": "2022-05-26T02:25:18.392Z",
+        "to": "2022-06-26T02:25:18.392Z"
     },
     "language": {
         "id": "zh-TW",
@@ -115,6 +115,28 @@
             ],
             "translated": 3783,
             "target": 6330,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15331010",
+                "username": "RavenBeastBoy",
+                "fullName": "Forest Rain (RavenBeastBoy)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15331010/medium/671084f571b04d17251e027ee25a5dcd.jpg",
+                "joined": "2022-06-25 18:45:45"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1392,
+            "target": 2346,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -337,28 +359,6 @@
             "target": 302,
             "approved": 0,
             "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15331010",
-                "username": "RavenBeastBoy",
-                "fullName": "Forest Rain (RavenBeastBoy)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15331010/medium/671084f571b04d17251e027ee25a5dcd.jpg",
-                "joined": "2022-06-25 18:45:45"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 163,
-            "target": 236,
-            "approved": 0,
-            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -651,28 +651,6 @@
         },
         {
             "user": {
-                "id": "14786964",
-                "username": "n7051530",
-                "fullName": "雨落櫻風 (n7051530)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786964/medium/017a689d6bb6765ae65c03fc88711132.jpeg",
-                "joined": "2021-06-05 05:07:49"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3,
-            "target": 3,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13610160",
                 "username": "Leo0728",
                 "fullName": "Leo (Leo0728)",
@@ -687,6 +665,28 @@
             ],
             "translated": 3,
             "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14786964",
+                "username": "n7051530",
+                "fullName": "雨落櫻風 (n7051530)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786964/medium/017a689d6bb6765ae65c03fc88711132.jpeg",
+                "joined": "2021-06-05 05:07:49"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 3,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
