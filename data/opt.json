@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-26T15:21:53.195Z",
-        "to": "2022-06-26T15:21:53.195Z"
+        "from": "2022-05-26T16:29:55.047Z",
+        "to": "2022-06-26T16:29:55.048Z"
     },
     "language": {
         "id": "zh-TW",
@@ -101,28 +101,6 @@
         },
         {
             "user": {
-                "id": "14946781",
-                "username": "Lichen",
-                "fullName": "Lichen",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14946781/medium/cf9919230d8cf2ebd82e3c2423731602_default.png",
-                "joined": "2021-10-03 01:31:54"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3618,
-            "target": 6053,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15331010",
                 "username": "RavenBeastBoy",
                 "fullName": "Forest Rain (RavenBeastBoy)",
@@ -137,6 +115,28 @@
             ],
             "translated": 3385,
             "target": 5398,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14946781",
+                "username": "Lichen",
+                "fullName": "Lichen",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14946781/medium/cf9919230d8cf2ebd82e3c2423731602_default.png",
+                "joined": "2021-10-03 01:31:54"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3185,
+            "target": 5290,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
