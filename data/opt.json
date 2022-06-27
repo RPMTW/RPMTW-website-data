@@ -3,14 +3,36 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-27T22:21:40.707Z",
-        "to": "2022-06-27T22:21:40.708Z"
+        "from": "2022-05-27T23:22:10.318Z",
+        "to": "2022-06-27T23:22:10.319Z"
     },
     "language": {
         "id": "zh-TW",
         "name": "Chinese Traditional"
     },
     "data": [
+        {
+            "user": {
+                "id": "15331010",
+                "username": "RavenBeastBoy",
+                "fullName": "Forest Rain (RavenBeastBoy)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15331010/medium/671084f571b04d17251e027ee25a5dcd.jpg",
+                "joined": "2022-06-25 18:45:45"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 9748,
+            "target": 15709,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
         {
             "user": {
                 "id": "15317038",
@@ -51,28 +73,6 @@
             "target": 14048,
             "approved": 0,
             "voted": 13,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15331010",
-                "username": "RavenBeastBoy",
-                "fullName": "Forest Rain (RavenBeastBoy)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15331010/medium/671084f571b04d17251e027ee25a5dcd.jpg",
-                "joined": "2022-06-25 18:45:45"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 8162,
-            "target": 13188,
-            "approved": 0,
-            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
