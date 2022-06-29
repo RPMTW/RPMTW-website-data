@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-29T14:19:15.430Z",
-        "to": "2022-06-29T14:19:15.431Z"
+        "from": "2022-05-29T15:53:44.821Z",
+        "to": "2022-06-29T15:53:44.822Z"
     },
     "language": {
         "id": "zh-TW",
@@ -271,28 +271,6 @@
             "target": 686,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "13993247",
-                "username": "PolaVulcanus",
-                "fullName": "PolaVulcanus",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13993247/medium/331817b69abfec695c5365dbb4d8b44b.png",
-                "joined": "2022-05-29 07:32:08"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 343,
-            "target": 584,
-            "approved": 0,
-            "voted": 4,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -667,6 +645,28 @@
             "target": 18,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13993247",
+                "username": "PolaVulcanus",
+                "fullName": "PolaVulcanus",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13993247/medium/331817b69abfec695c5365dbb4d8b44b.png",
+                "joined": "2022-05-29 07:32:08"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 5,
+            "target": 13,
+            "approved": 0,
+            "voted": 4,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
