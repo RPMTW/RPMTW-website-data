@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-05-29T06:28:30.231Z",
-        "to": "2022-06-29T06:28:30.232Z"
+        "from": "2022-05-29T07:21:45.717Z",
+        "to": "2022-06-29T07:21:45.718Z"
     },
     "language": {
         "id": "zh-TW",
@@ -145,6 +145,28 @@
         },
         {
             "user": {
+                "id": "14889234",
+                "username": "frank1320",
+                "fullName": "Frank Cheung (frank1320)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14889234/medium/5e372d79fcef6bd00c364d7ee982b965.jpg",
+                "joined": "2021-11-30 23:16:11"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1390,
+            "target": 2678,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14848632",
                 "username": "GEBYMO_DJV",
                 "fullName": "GEBYMO_DJV",
@@ -185,28 +207,6 @@
             "voted": 1,
             "positiveVotes": 1,
             "negativeVotes": 1,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14889234",
-                "username": "frank1320",
-                "fullName": "Frank Cheung (frank1320)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14889234/medium/5e372d79fcef6bd00c364d7ee982b965.jpg",
-                "joined": "2021-11-30 23:16:11"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 821,
-            "target": 1599,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
             "winning": 0
         },
         {
@@ -475,28 +475,6 @@
         },
         {
             "user": {
-                "id": "14941681",
-                "username": "yeast",
-                "fullName": "酵母菌 (yeast)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14941681/medium/0821c62eb3c21a264d77146753295b54_default.png",
-                "joined": "2021-09-28 08:56:51"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 59,
-            "target": 102,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 5,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14665926",
                 "username": "EvanHsieh0415",
                 "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
@@ -514,6 +492,28 @@
             "approved": 0,
             "voted": 3,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14941681",
+                "username": "yeast",
+                "fullName": "酵母菌 (yeast)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14941681/medium/0821c62eb3c21a264d77146753295b54_default.png",
+                "joined": "2021-09-28 08:56:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 59,
+            "target": 102,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 5,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -797,28 +797,6 @@
             ],
             "translated": 2,
             "target": 3,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14308030",
-                "username": "ChocoMing",
-                "fullName": "巧克明 (ChocoMing)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14308030/medium/9aeac6b20adb2fdd95623d824640d8ef.png",
-                "joined": "2021-04-05 10:24:10"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1,
-            "target": 2,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
