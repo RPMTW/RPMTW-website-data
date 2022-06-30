@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
 
-const VersionBrancheID = {
+const DirectoriesID = {
     "1.12": "37100",
     "1.16": "14694",
     "1.17": "33890",
@@ -32,8 +32,8 @@ fetch("https://api.crowdin.com/api/v2/projects/442446/languages/progress",
         progress.progress = ((json.data[0].data.words.translated / json.data[0].data.words.total) * 100).toFixed(3) + "%"
     });
 
-for (let Version in VersionBrancheID)
-    fetch(`https://api.crowdin.com/api/v2/projects/442446/branches/${VersionBrancheID[Version]}/languages/progress`,
+for (let version in DirectoriesID)
+    fetch(`https://api.crowdin.com/api/v2/projects/442446/directories/${DirectoriesID[version]}/languages/progress`,
         {
             method: "get",
             headers: {
@@ -44,8 +44,8 @@ for (let Version in VersionBrancheID)
         .then(res => res.json())
         .then(json => {
             let words = json.data[0].data.words
-            progress[Version] = ((words.translated / words.total) * 100).toFixed(3) + "%";
-            progress.data[Version] = {
+            progress[version] = ((words.translated / words.total) * 100).toFixed(3) + "%";
+            progress.data[version] = {
                 translated: words.translated,
                 total: words.total
             }
