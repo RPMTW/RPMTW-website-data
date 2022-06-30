@@ -43,6 +43,7 @@ for (let version in DirectoriesID)
         })
         .then(res => res.json())
         .then(json => {
+            console.log(json);
             let words = json.data[0].data.words
             progress[version] = ((words.translated / words.total) * 100).toFixed(3) + "%";
             progress.data[version] = {
