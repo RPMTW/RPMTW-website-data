@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-02T10:23:48.967Z",
-        "to": "2022-07-02T10:23:48.977Z"
+        "from": "2022-06-02T11:17:59.069Z",
+        "to": "2022-07-02T11:17:59.086Z"
     },
     "language": {
         "id": "zh-TW",
@@ -135,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2385,
-            "target": 3852,
+            "translated": 2527,
+            "target": 4136,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 1,
@@ -431,6 +431,28 @@
         },
         {
             "user": {
+                "id": "14623594",
+                "username": "command_music",
+                "fullName": "指音 (command_music)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14623594/medium/4f006540a9e19cadc25dc6d32c3e6db1.png",
+                "joined": "2021-03-17 19:56:59"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 78,
+            "target": 118,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14665926",
                 "username": "EvanHsieh0415",
                 "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
@@ -621,28 +643,6 @@
             ],
             "translated": 8,
             "target": 16,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14623594",
-                "username": "command_music",
-                "fullName": "指音 (command_music)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14623594/medium/4f006540a9e19cadc25dc6d32c3e6db1.png",
-                "joined": "2021-03-17 19:56:59"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 6,
-            "target": 10,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
