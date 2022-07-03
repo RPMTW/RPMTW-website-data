@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-03T11:18:43.805Z",
-        "to": "2022-07-03T11:18:43.820Z"
+        "from": "2022-06-03T12:37:54.835Z",
+        "to": "2022-07-03T12:37:54.836Z"
     },
     "language": {
         "id": "zh-TW",
@@ -255,28 +255,6 @@
         },
         {
             "user": {
-                "id": "14848632",
-                "username": "GEBYMO_DJV",
-                "fullName": "GEBYMO_DJV",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14848632/medium/3d919653590bc21b8b68d423ac17be37_default.png",
-                "joined": "2021-07-28 12:45:17"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 226,
-            "target": 390,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15300498",
                 "username": "0922",
                 "fullName": "0922",
@@ -359,6 +337,28 @@
             "target": 318,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14848632",
+                "username": "GEBYMO_DJV",
+                "fullName": "GEBYMO_DJV",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14848632/medium/3d919653590bc21b8b68d423ac17be37_default.png",
+                "joined": "2021-07-28 12:45:17"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 163,
+            "target": 280,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
