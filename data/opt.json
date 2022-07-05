@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-05T13:46:42.220Z",
-        "to": "2022-07-05T13:46:42.220Z"
+        "from": "2022-06-05T14:21:20.101Z",
+        "to": "2022-07-05T14:21:20.102Z"
     },
     "language": {
         "id": "zh-TW",
@@ -123,28 +123,6 @@
         },
         {
             "user": {
-                "id": "13395892",
-                "username": "MarginalPerson",
-                "fullName": "默默無名邊緣人 (MarginalPerson)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13395892/medium/2ab4a287b993e055fd8e51ada0170787.jpg",
-                "joined": "2021-03-13 06:51:47"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1890,
-            "target": 3023,
-            "approved": 592,
-            "voted": 20,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 59
-        },
-        {
-            "user": {
                 "id": "14889234",
                 "username": "frank1320",
                 "fullName": "Frank Cheung (frank1320)",
@@ -164,6 +142,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "13395892",
+                "username": "MarginalPerson",
+                "fullName": "默默無名邊緣人 (MarginalPerson)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13395892/medium/2ab4a287b993e055fd8e51ada0170787.jpg",
+                "joined": "2021-03-13 06:51:47"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1771,
+            "target": 2843,
+            "approved": 592,
+            "voted": 20,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 59
         },
         {
             "user": {
