@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-05T14:21:20.101Z",
-        "to": "2022-07-05T14:21:20.102Z"
+        "from": "2022-06-05T15:25:33.113Z",
+        "to": "2022-07-05T15:25:33.114Z"
     },
     "language": {
         "id": "zh-TW",
@@ -159,7 +159,7 @@
             ],
             "translated": 1771,
             "target": 2843,
-            "approved": 592,
+            "approved": 594,
             "voted": 20,
             "positiveVotes": 0,
             "negativeVotes": 0,
@@ -311,8 +311,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 177,
-            "target": 291,
+            "translated": 167,
+            "target": 270,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -453,6 +453,28 @@
         },
         {
             "user": {
+                "id": "15340910",
+                "username": "jkl88042308",
+                "fullName": "綠菇 (jkl88042308)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15340910/medium/9d9506e6ad019b66e58b1cf28277f3cc.jpg",
+                "joined": "2022-07-03 11:20:35"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 43,
+            "target": 69,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15141142",
                 "username": "ian34wang",
                 "fullName": "ian34wang",
@@ -467,28 +489,6 @@
             ],
             "translated": 35,
             "target": 46,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15340910",
-                "username": "jkl88042308",
-                "fullName": "綠菇 (jkl88042308)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15340910/medium/9d9506e6ad019b66e58b1cf28277f3cc.jpg",
-                "joined": "2022-07-03 11:20:35"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 33,
-            "target": 49,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
