@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-05T15:25:33.113Z",
-        "to": "2022-07-05T15:25:33.114Z"
+        "from": "2022-06-05T16:37:14.155Z",
+        "to": "2022-07-05T16:37:14.155Z"
     },
     "language": {
         "id": "zh-TW",
@@ -29,8 +29,8 @@
             "target": 91413,
             "approved": 27,
             "voted": 0,
-            "positiveVotes": 2,
-            "negativeVotes": 14,
+            "positiveVotes": 3,
+            "negativeVotes": 15,
             "winning": 2
         },
         {
@@ -94,7 +94,7 @@
             "translated": 2439,
             "target": 4257,
             "approved": 0,
-            "voted": 1,
+            "voted": 3,
             "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
@@ -299,28 +299,6 @@
         },
         {
             "user": {
-                "id": "15300498",
-                "username": "0922",
-                "fullName": "0922",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15300498/medium/97f959655ea4c3a58f65f4120566983b_default.png",
-                "joined": "2022-06-04 10:15:27"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 167,
-            "target": 270,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14847496",
                 "username": "StarsShine11904",
                 "fullName": "Stars Shine (StarsShine11904)",
@@ -423,6 +401,28 @@
             ],
             "translated": 78,
             "target": 118,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15300498",
+                "username": "0922",
+                "fullName": "0922",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15300498/medium/97f959655ea4c3a58f65f4120566983b_default.png",
+                "joined": "2022-06-04 10:15:27"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 74,
+            "target": 116,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
