@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-08T16:38:25.028Z",
-        "to": "2022-07-08T16:38:25.029Z"
+        "from": "2022-06-08T17:31:11.782Z",
+        "to": "2022-07-08T17:31:11.782Z"
     },
     "language": {
         "id": "zh-TW",
@@ -299,6 +299,28 @@
         },
         {
             "user": {
+                "id": "15347272",
+                "username": "LiawGr",
+                "fullName": "LiawGr",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15347272/medium/2c94ded6c45408621ca6e238836b4be7_default.png",
+                "joined": "2022-07-08 10:48:26"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 307,
+            "target": 595,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14855780",
                 "username": "cjiahe682",
                 "fullName": "Sculk man (cjiahe682)",
@@ -541,28 +563,6 @@
         },
         {
             "user": {
-                "id": "15347272",
-                "username": "LiawGr",
-                "fullName": "LiawGr",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15347272/medium/2c94ded6c45408621ca6e238836b4be7_default.png",
-                "joined": "2022-07-08 10:48:26"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 62,
-            "target": 138,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15340910",
                 "username": "jkl88042308",
                 "fullName": "綠菇 (jkl88042308)",
@@ -717,28 +717,6 @@
         },
         {
             "user": {
-                "id": "14848632",
-                "username": "GEBYMO_DJV",
-                "fullName": "GEBYMO_DJV",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14848632/medium/3d919653590bc21b8b68d423ac17be37_default.png",
-                "joined": "2021-07-28 12:45:17"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3,
-            "target": 6,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14786964",
                 "username": "n7051530",
                 "fullName": "雨落櫻風 (n7051530)",
@@ -777,6 +755,28 @@
             "target": 4,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14848632",
+                "username": "GEBYMO_DJV",
+                "fullName": "GEBYMO_DJV",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14848632/medium/3d919653590bc21b8b68d423ac17be37_default.png",
+                "joined": "2021-07-28 12:45:17"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 6,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
