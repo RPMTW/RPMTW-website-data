@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-08T14:23:12.235Z",
-        "to": "2022-07-08T14:23:12.236Z"
+        "from": "2022-06-08T15:25:02.693Z",
+        "to": "2022-07-08T15:25:02.695Z"
     },
     "language": {
         "id": "zh-TW",
@@ -189,6 +189,28 @@
         },
         {
             "user": {
+                "id": "14765236",
+                "username": "kkyr456tw4",
+                "fullName": "無名氏 (kkyr456tw4)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14765236/medium/c666afbdd2bac06bfe0ed903c14f00a1.jpeg",
+                "joined": "2021-05-20 17:26:24"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 842,
+            "target": 1839,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15345080",
                 "username": "Allen0411",
                 "fullName": "Allen0411",
@@ -205,28 +227,6 @@
             "target": 1352,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14765236",
-                "username": "kkyr456tw4",
-                "fullName": "無名氏 (kkyr456tw4)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14765236/medium/c666afbdd2bac06bfe0ed903c14f00a1.jpeg",
-                "joined": "2021-05-20 17:26:24"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 531,
-            "target": 979,
-            "approved": 0,
-            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -541,6 +541,28 @@
         },
         {
             "user": {
+                "id": "15347272",
+                "username": "LiawGr",
+                "fullName": "LiawGr",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15347272/medium/2c94ded6c45408621ca6e238836b4be7_default.png",
+                "joined": "2022-07-08 10:48:26"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 56,
+            "target": 125,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15340910",
                 "username": "jkl88042308",
                 "fullName": "綠菇 (jkl88042308)",
@@ -695,28 +717,6 @@
         },
         {
             "user": {
-                "id": "14786964",
-                "username": "n7051530",
-                "fullName": "雨落櫻風 (n7051530)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786964/medium/017a689d6bb6765ae65c03fc88711132.jpeg",
-                "joined": "2021-06-05 05:07:49"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3,
-            "target": 3,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14848632",
                 "username": "GEBYMO_DJV",
                 "fullName": "GEBYMO_DJV",
@@ -733,6 +733,28 @@
             "target": 6,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14786964",
+                "username": "n7051530",
+                "fullName": "雨落櫻風 (n7051530)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786964/medium/017a689d6bb6765ae65c03fc88711132.jpeg",
+                "joined": "2021-06-05 05:07:49"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 3,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
