@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-08T23:22:19.352Z",
-        "to": "2022-07-08T23:22:19.354Z"
+        "from": "2022-06-09T02:04:05.155Z",
+        "to": "2022-07-09T02:04:05.155Z"
     },
     "language": {
         "id": "zh-TW",
@@ -91,8 +91,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 6809,
-            "target": 13883,
+            "translated": 8592,
+            "target": 17265,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -687,6 +687,28 @@
             ],
             "translated": 12,
             "target": 28,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13953183",
+                "username": "zpxo123zpxo",
+                "fullName": "月玥櫻 (zpxo123zpxo)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13953183/medium/7dc8ce6dd2a0cdc8554e2b5b37bab2c0.jpg",
+                "joined": "2022-07-08 21:58:35"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 9,
+            "target": 19,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
