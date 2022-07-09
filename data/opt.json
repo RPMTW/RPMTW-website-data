@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-09T02:04:05.155Z",
-        "to": "2022-07-09T02:04:05.155Z"
+        "from": "2022-06-09T03:46:08.361Z",
+        "to": "2022-07-09T03:46:08.362Z"
     },
     "language": {
         "id": "zh-TW",
@@ -91,8 +91,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 8592,
-            "target": 17265,
+            "translated": 8738,
+            "target": 17530,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -387,28 +387,6 @@
         },
         {
             "user": {
-                "id": "14847496",
-                "username": "StarsShine11904",
-                "fullName": "Stars Shine (StarsShine11904)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14847496/medium/1651c9cc3f3a0164b71112220bdf6abf.jpg",
-                "joined": "2021-10-19 10:08:54"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 123,
-            "target": 223,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14810404",
                 "username": "joe41419414",
                 "fullName": "胡為濬 (joe41419414)",
@@ -425,6 +403,28 @@
             "target": 232,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14847496",
+                "username": "StarsShine11904",
+                "fullName": "Stars Shine (StarsShine11904)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14847496/medium/1651c9cc3f3a0164b71112220bdf6abf.jpg",
+                "joined": "2021-10-19 10:08:54"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 123,
+            "target": 223,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -511,6 +511,28 @@
             ],
             "translated": 87,
             "target": 171,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13953183",
+                "username": "zpxo123zpxo",
+                "fullName": "月玥櫻(MMSakura#3059 (zpxo123zpxo)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13953183/medium/7dc8ce6dd2a0cdc8554e2b5b37bab2c0.jpg",
+                "joined": "2022-07-08 21:58:35"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 82,
+            "target": 164,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -687,28 +709,6 @@
             ],
             "translated": 12,
             "target": 28,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "13953183",
-                "username": "zpxo123zpxo",
-                "fullName": "月玥櫻 (zpxo123zpxo)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13953183/medium/7dc8ce6dd2a0cdc8554e2b5b37bab2c0.jpg",
-                "joined": "2022-07-08 21:58:35"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 9,
-            "target": 19,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
