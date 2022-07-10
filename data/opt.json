@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-10T03:53:17.577Z",
-        "to": "2022-07-10T03:53:17.577Z"
+        "from": "2022-06-10T04:34:01.700Z",
+        "to": "2022-07-10T04:34:01.700Z"
     },
     "language": {
         "id": "zh-TW",
@@ -277,6 +277,28 @@
         },
         {
             "user": {
+                "id": "15327554",
+                "username": "Gaspard_Han",
+                "fullName": "Gaspardhan (Gaspard_Han)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15327554/medium/2d24a52c725e4f499ae9d23d2808441b.png",
+                "joined": "2022-06-23 08:29:38"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 464,
+            "target": 914,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15345968",
                 "username": "LHemon412",
                 "fullName": "Clement (LHemon412)",
@@ -316,28 +338,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15327554",
-                "username": "Gaspard_Han",
-                "fullName": "Gaspardhan (Gaspard_Han)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15327554/medium/2d24a52c725e4f499ae9d23d2808441b.png",
-                "joined": "2022-06-23 08:29:38"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 363,
-            "target": 686,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
