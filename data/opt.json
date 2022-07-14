@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-14T05:33:43.373Z",
-        "to": "2022-07-14T05:33:43.374Z"
+        "from": "2022-06-14T06:28:52.346Z",
+        "to": "2022-07-14T06:28:52.347Z"
     },
     "language": {
         "id": "zh-TW",
@@ -29,7 +29,7 @@
             "target": 91413,
             "approved": 27,
             "voted": 0,
-            "positiveVotes": 6,
+            "positiveVotes": 7,
             "negativeVotes": 23,
             "winning": 2
         },
@@ -211,6 +211,28 @@
         },
         {
             "user": {
+                "id": "13886597",
+                "username": "flandretw",
+                "fullName": "蘭蘭露 (flandretw)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13886597/medium/db32b3e76fbe2e9e730736fe5090cb3e.jpg",
+                "joined": "2022-07-14 01:03:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1355,
+            "target": 2290,
+            "approved": 0,
+            "voted": 29,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14765236",
                 "username": "kkyr456tw4",
                 "fullName": "無名氏 (kkyr456tw4)",
@@ -277,28 +299,6 @@
         },
         {
             "user": {
-                "id": "13886597",
-                "username": "flandretw",
-                "fullName": "蘭蘭露 (flandretw)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13886597/medium/db32b3e76fbe2e9e730736fe5090cb3e.jpg",
-                "joined": "2022-07-14 01:03:58"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 514,
-            "target": 867,
-            "approved": 0,
-            "voted": 11,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15327554",
                 "username": "Gaspard_Han",
                 "fullName": "Gaspardhan (Gaspard_Han)",
@@ -333,8 +333,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 463,
-            "target": 836,
+            "translated": 412,
+            "target": 766,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
