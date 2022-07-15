@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-15T19:17:58.844Z",
-        "to": "2022-07-15T19:17:58.844Z"
+        "from": "2022-06-15T20:24:24.632Z",
+        "to": "2022-07-15T20:24:24.634Z"
     },
     "language": {
         "id": "zh-TW",
@@ -409,28 +409,6 @@
         },
         {
             "user": {
-                "id": "15316704",
-                "username": "nannuwc",
-                "fullName": "LILY T_T (nannuwc)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15316704/medium/b729724a804af8607314a896a91b5202.png",
-                "joined": "2022-06-15 16:11:18"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 211,
-            "target": 379,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15111613",
                 "username": "timothytseng508",
                 "fullName": "曾子昕 (timothytseng508)",
@@ -467,6 +445,28 @@
             ],
             "translated": 182,
             "target": 318,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15316704",
+                "username": "nannuwc",
+                "fullName": "LILY T_T (nannuwc)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15316704/medium/b729724a804af8607314a896a91b5202.png",
+                "joined": "2022-06-15 16:11:18"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 180,
+            "target": 321,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -805,11 +805,11 @@
         },
         {
             "user": {
-                "id": "15085765",
-                "username": "a0908359955",
-                "fullName": "cooperjcarsen (a0908359955)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085765/medium/98f10387621de183456b117757f37ed4.jpeg",
-                "joined": "2022-01-01 01:31:07"
+                "id": "14848632",
+                "username": "GEBYMO_DJV",
+                "fullName": "GEBYMO_DJV",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14848632/medium/3d919653590bc21b8b68d423ac17be37_default.png",
+                "joined": "2021-07-28 12:45:17"
             },
             "languages": [
                 {
@@ -820,7 +820,7 @@
             "translated": 3,
             "target": 6,
             "approved": 0,
-            "voted": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -849,11 +849,11 @@
         },
         {
             "user": {
-                "id": "14848632",
-                "username": "GEBYMO_DJV",
-                "fullName": "GEBYMO_DJV",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14848632/medium/3d919653590bc21b8b68d423ac17be37_default.png",
-                "joined": "2021-07-28 12:45:17"
+                "id": "15085765",
+                "username": "a0908359955",
+                "fullName": "cooperjcarsen (a0908359955)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085765/medium/98f10387621de183456b117757f37ed4.jpeg",
+                "joined": "2022-01-01 01:31:07"
             },
             "languages": [
                 {
@@ -864,7 +864,7 @@
             "translated": 3,
             "target": 6,
             "approved": 0,
-            "voted": 1,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
