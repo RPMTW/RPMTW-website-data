@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-17T14:19:47.701Z",
-        "to": "2022-07-17T14:19:47.702Z"
+        "from": "2022-06-17T15:22:24.016Z",
+        "to": "2022-07-17T15:22:24.017Z"
     },
     "language": {
         "id": "zh-TW",
@@ -79,28 +79,6 @@
         },
         {
             "user": {
-                "id": "15317038",
-                "username": "StarLight777",
-                "fullName": "Star Light竣 (StarLight777)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15317038/medium/10d8e1fc76be9e095547d8cf51648f49.gif",
-                "joined": "2022-06-16 02:46:49"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 8900,
-            "target": 13142,
-            "approved": 0,
-            "voted": 32,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 27
-        },
-        {
-            "user": {
                 "id": "15352416",
                 "username": "NoahsarkTaiwan",
                 "fullName": "NoahsarkTaiwan",
@@ -120,6 +98,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "15317038",
+                "username": "StarLight777",
+                "fullName": "Star Light竣 (StarLight777)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15317038/medium/10d8e1fc76be9e095547d8cf51648f49.gif",
+                "joined": "2022-06-16 02:46:49"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 7943,
+            "target": 11669,
+            "approved": 0,
+            "voted": 32,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 27
         },
         {
             "user": {
