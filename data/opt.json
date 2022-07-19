@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-19T12:48:24.663Z",
-        "to": "2022-07-19T12:48:24.664Z"
+        "from": "2022-06-19T13:49:00.480Z",
+        "to": "2022-07-19T13:49:00.481Z"
     },
     "language": {
         "id": "zh-TW",
@@ -453,28 +453,6 @@
         },
         {
             "user": {
-                "id": "15323854",
-                "username": "abber.kuo.2001",
-                "fullName": "郭政軒 (abber.kuo.2001)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15323854/medium/52ccfdb36a315d1e5c6a70496783e1ff.png",
-                "joined": "2022-06-20 22:52:09"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 106,
-            "target": 170,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14665926",
                 "username": "EvanHsieh0415",
                 "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
@@ -491,6 +469,28 @@
             "target": 151,
             "approved": 0,
             "voted": 3,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15323854",
+                "username": "abber.kuo.2001",
+                "fullName": "郭政軒 (abber.kuo.2001)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15323854/medium/52ccfdb36a315d1e5c6a70496783e1ff.png",
+                "joined": "2022-06-20 22:52:09"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 106,
+            "target": 170,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -774,28 +774,6 @@
                 }
             ],
             "translated": 6,
-            "target": 9,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15111613",
-                "username": "timothytseng508",
-                "fullName": "曾子昕 (timothytseng508)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15111613/medium/7f16890e16cd9f6a1949581f395c607b.png",
-                "joined": "2022-06-19 08:28:10"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3,
             "target": 9,
             "approved": 0,
             "voted": 0,
