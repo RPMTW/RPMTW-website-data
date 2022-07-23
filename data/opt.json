@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-23T04:38:20.040Z",
-        "to": "2022-07-23T04:38:20.042Z"
+        "from": "2022-06-23T05:23:25.817Z",
+        "to": "2022-07-23T05:23:25.818Z"
     },
     "language": {
         "id": "zh-TW",
@@ -629,28 +629,6 @@
         },
         {
             "user": {
-                "id": "15245468",
-                "username": "a109222014",
-                "fullName": "錒維 (a109222014)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15245468/medium/bcbe325953ccd8e8888799d3029479db.png",
-                "joined": "2022-04-25 11:16:14"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 26,
-            "target": 35,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14813152",
                 "username": "BennyDioxide",
                 "fullName": "Benny Yang (BennyDioxide)",
@@ -673,11 +651,11 @@
         },
         {
             "user": {
-                "id": "15327122",
-                "username": "HanzerHong",
-                "fullName": "HanzerHong",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15327122/medium/ec5bd512dbea4474e5778dff8d4be8bd.png",
-                "joined": "2022-06-23 01:04:36"
+                "id": "15245468",
+                "username": "a109222014",
+                "fullName": "錒維 (a109222014)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15245468/medium/bcbe325953ccd8e8888799d3029479db.png",
+                "joined": "2022-04-25 11:16:14"
             },
             "languages": [
                 {
@@ -685,8 +663,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 19,
-            "target": 33,
+            "translated": 26,
+            "target": 35,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
