@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-27T02:27:58.874Z",
-        "to": "2022-07-27T02:27:58.875Z"
+        "from": "2022-06-27T04:10:39.818Z",
+        "to": "2022-07-27T04:10:39.819Z"
     },
     "language": {
         "id": "zh-TW",
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 9670,
-            "target": 17481,
+            "translated": 9766,
+            "target": 17653,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -475,28 +475,6 @@
         },
         {
             "user": {
-                "id": "15317038",
-                "username": "StarLight777",
-                "fullName": "Star Light竣 (StarLight777)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15317038/medium/10d8e1fc76be9e095547d8cf51648f49.gif",
-                "joined": "2022-06-16 02:46:49"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 79,
-            "target": 170,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14623594",
                 "username": "command_music",
                 "fullName": "指音 (command_music)",
@@ -607,28 +585,6 @@
         },
         {
             "user": {
-                "id": "15245468",
-                "username": "a109222014",
-                "fullName": "錒維 (a109222014)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15245468/medium/bcbe325953ccd8e8888799d3029479db.png",
-                "joined": "2022-04-25 11:16:14"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 26,
-            "target": 35,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14813152",
                 "username": "BennyDioxide",
                 "fullName": "Benny Yang (BennyDioxide)",
@@ -643,6 +599,28 @@
             ],
             "translated": 26,
             "target": 55,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15245468",
+                "username": "a109222014",
+                "fullName": "錒維 (a109222014)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15245468/medium/bcbe325953ccd8e8888799d3029479db.png",
+                "joined": "2022-04-25 11:16:14"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 26,
+            "target": 35,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
