@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-06-28T15:24:54.418Z",
-        "to": "2022-07-28T15:24:54.420Z"
+        "from": "2022-06-28T16:37:17.532Z",
+        "to": "2022-07-28T16:37:17.533Z"
     },
     "language": {
         "id": "zh-TW",
@@ -113,9 +113,9 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2003,
-            "target": 3295,
-            "approved": 0,
+            "translated": 2590,
+            "target": 4320,
+            "approved": 51,
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
@@ -409,6 +409,28 @@
         },
         {
             "user": {
+                "id": "15377572",
+                "username": "FutabaAoi",
+                "fullName": "FutabaAoi",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15377572/medium/52e3e98a235860925dd0232189dc28e9_default.png",
+                "joined": "2022-07-28 09:56:07"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 87,
+            "target": 160,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13953183",
                 "username": "zpxo123zpxo",
                 "fullName": "月玥櫻(MMSakura#3059 (zpxo123zpxo)",
@@ -475,28 +497,6 @@
         },
         {
             "user": {
-                "id": "14815244",
-                "username": "Nanamiya738",
-                "fullName": "Nanamiya738",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14815244/medium/72e038ea746d52fd7edf4d5855b911d9.png",
-                "joined": "2021-06-25 10:09:23"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 49,
-            "target": 63,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15340910",
                 "username": "jkl88042308",
                 "fullName": "綠菇 (jkl88042308)",
@@ -519,6 +519,28 @@
         },
         {
             "user": {
+                "id": "14815244",
+                "username": "Nanamiya738",
+                "fullName": "Nanamiya738",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14815244/medium/72e038ea746d52fd7edf4d5855b911d9.png",
+                "joined": "2021-06-25 10:09:23"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 49,
+            "target": 63,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14855780",
                 "username": "cjiahe682",
                 "fullName": "Sculk man (cjiahe682)",
@@ -531,8 +553,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 45,
-            "target": 97,
+            "translated": 35,
+            "target": 86,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
@@ -607,28 +629,6 @@
         },
         {
             "user": {
-                "id": "15377572",
-                "username": "FutabaAoi",
-                "fullName": "FutabaAoi",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15377572/medium/52e3e98a235860925dd0232189dc28e9_default.png",
-                "joined": "2022-07-28 09:56:07"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 22,
-            "target": 34,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14918695",
                 "username": "noah665100",
                 "fullName": "Noah Wen (noah665100)",
@@ -651,28 +651,6 @@
         },
         {
             "user": {
-                "id": "15331010",
-                "username": "RavenBeastBoy",
-                "fullName": "Forest Rain (RavenBeastBoy)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15331010/medium/671084f571b04d17251e027ee25a5dcd.jpg",
-                "joined": "2022-06-25 18:45:45"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 12,
-            "target": 13,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13284935",
                 "username": "nightsnowlin_ouo",
                 "fullName": "NightSnowLin (nightsnowlin_ouo)",
@@ -687,6 +665,28 @@
             ],
             "translated": 12,
             "target": 28,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15331010",
+                "username": "RavenBeastBoy",
+                "fullName": "Forest Rain (RavenBeastBoy)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15331010/medium/671084f571b04d17251e027ee25a5dcd.jpg",
+                "joined": "2022-06-25 18:45:45"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 12,
+            "target": 13,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
