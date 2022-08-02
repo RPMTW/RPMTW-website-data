@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-02T11:19:23.089Z",
-        "to": "2022-08-02T11:19:23.090Z"
+        "from": "2022-07-02T12:50:59.964Z",
+        "to": "2022-08-02T12:50:59.965Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 22917,
-            "target": 29678,
+            "translated": 10628,
+            "target": 10335,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 5,
@@ -113,8 +113,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1762,
-            "target": 3267,
+            "translated": 1380,
+            "target": 2401,
             "approved": 0,
             "voted": 2,
             "positiveVotes": 0,
@@ -245,10 +245,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 524,
-            "target": 904,
+            "translated": 462,
+            "target": 811,
             "approved": 2,
-            "voted": 2,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 3
@@ -585,28 +585,6 @@
         },
         {
             "user": {
-                "id": "15331010",
-                "username": "RavenBeastBoy",
-                "fullName": "Forest Rain (RavenBeastBoy)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15331010/medium/671084f571b04d17251e027ee25a5dcd.jpg",
-                "joined": "2022-06-25 18:45:45"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 12,
-            "target": 13,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14785870",
                 "username": "kkkkds4165",
                 "fullName": "kkkkds4165",
@@ -623,7 +601,7 @@
             "target": 20,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 1,
+            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
