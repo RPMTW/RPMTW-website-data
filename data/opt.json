@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-02T10:29:06.646Z",
-        "to": "2022-08-02T10:29:06.647Z"
+        "from": "2022-07-02T11:19:23.089Z",
+        "to": "2022-08-02T11:19:23.090Z"
     },
     "language": {
         "id": "zh-TW",
@@ -113,8 +113,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1902,
-            "target": 3545,
+            "translated": 1762,
+            "target": 3267,
             "approved": 0,
             "voted": 2,
             "positiveVotes": 0,
@@ -453,28 +453,6 @@
         },
         {
             "user": {
-                "id": "14623594",
-                "username": "command_music",
-                "fullName": "指音 (command_music)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14623594/medium/4f006540a9e19cadc25dc6d32c3e6db1.png",
-                "joined": "2021-03-17 19:56:59"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 72,
-            "target": 108,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14665926",
                 "username": "EvanHsieh0415",
                 "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
@@ -541,28 +519,6 @@
         },
         {
             "user": {
-                "id": "14813152",
-                "username": "BennyDioxide",
-                "fullName": "Benny Yang (BennyDioxide)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14813152/medium/6b7d391aa8424a9d1717e0e91a5a35e8.png",
-                "joined": "2021-06-23 21:48:20"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 26,
-            "target": 55,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15245468",
                 "username": "a109222014",
                 "fullName": "錒維 (a109222014)",
@@ -577,6 +533,28 @@
             ],
             "translated": 26,
             "target": 35,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14813152",
+                "username": "BennyDioxide",
+                "fullName": "Benny Yang (BennyDioxide)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14813152/medium/6b7d391aa8424a9d1717e0e91a5a35e8.png",
+                "joined": "2021-06-23 21:48:20"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 26,
+            "target": 55,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
