@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-02T14:23:02.554Z",
-        "to": "2022-08-02T14:23:02.554Z"
+        "from": "2022-07-02T15:24:39.914Z",
+        "to": "2022-08-02T15:24:39.915Z"
     },
     "language": {
         "id": "zh-TW",
@@ -145,28 +145,6 @@
         },
         {
             "user": {
-                "id": "14819832",
-                "username": "cFSovo",
-                "fullName": "FlySkyovo (cFSovo)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14819832/medium/0fad629fdb46af44e83b179cce4089e0.png",
-                "joined": "2021-06-29 04:06:43"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 770,
-            "target": 1363,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 12
-        },
-        {
-            "user": {
                 "id": "13395892",
                 "username": "MarginalPerson",
                 "fullName": "默默無名邊緣人 (MarginalPerson)",
@@ -223,8 +201,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 462,
-            "target": 811,
+            "translated": 461,
+            "target": 809,
             "approved": 2,
             "voted": 0,
             "positiveVotes": 0,
@@ -274,6 +252,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "14819832",
+                "username": "cFSovo",
+                "fullName": "FlySkyovo (cFSovo)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14819832/medium/0fad629fdb46af44e83b179cce4089e0.png",
+                "joined": "2021-06-29 04:06:43"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 216,
+            "target": 400,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 12
         },
         {
             "user": {
@@ -497,28 +497,6 @@
         },
         {
             "user": {
-                "id": "15245468",
-                "username": "a109222014",
-                "fullName": "錒維 (a109222014)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15245468/medium/bcbe325953ccd8e8888799d3029479db.png",
-                "joined": "2022-04-25 11:16:14"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 26,
-            "target": 35,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14813152",
                 "username": "BennyDioxide",
                 "fullName": "Benny Yang (BennyDioxide)",
@@ -533,6 +511,28 @@
             ],
             "translated": 26,
             "target": 55,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15245468",
+                "username": "a109222014",
+                "fullName": "錒維 (a109222014)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15245468/medium/bcbe325953ccd8e8888799d3029479db.png",
+                "joined": "2022-04-25 11:16:14"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 26,
+            "target": 35,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -695,28 +695,6 @@
         },
         {
             "user": {
-                "id": "14776122",
-                "username": "__Luminous__",
-                "fullName": "__Luminous__",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14776122/medium/88f1f027992e5aed43e62120724290ab.jpg",
-                "joined": "2021-05-28 05:09:36"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 2,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15361254",
                 "username": "1eugene0907",
                 "fullName": "RK (1eugene0907)",
@@ -731,6 +709,28 @@
             ],
             "translated": 2,
             "target": 4,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14776122",
+                "username": "__Luminous__",
+                "fullName": "__Luminous__",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14776122/medium/88f1f027992e5aed43e62120724290ab.jpg",
+                "joined": "2021-05-28 05:09:36"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 2,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
