@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-08T21:19:56.148Z",
-        "to": "2022-08-08T21:19:56.149Z"
+        "from": "2022-07-08T22:25:09.633Z",
+        "to": "2022-08-08T22:25:09.634Z"
     },
     "language": {
         "id": "zh-TW",
@@ -35,28 +35,6 @@
         },
         {
             "user": {
-                "id": "15347272",
-                "username": "LiawGr",
-                "fullName": "LiawGr",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15347272/medium/cbdd25dc4511b757dabdc4608fc697b1.png",
-                "joined": "2022-07-08 10:48:26"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 4886,
-            "target": 9460,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14847496",
                 "username": "StarsShine11904",
                 "fullName": "Stars Shine (StarsShine11904)",
@@ -76,6 +54,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 90
+        },
+        {
+            "user": {
+                "id": "15347272",
+                "username": "LiawGr",
+                "fullName": "LiawGr",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15347272/medium/cbdd25dc4511b757dabdc4608fc697b1.png",
+                "joined": "2022-07-08 10:48:26"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2771,
+            "target": 5090,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
         },
         {
             "user": {
