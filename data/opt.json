@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-09T02:22:30.747Z",
-        "to": "2022-08-09T02:22:30.747Z"
+        "from": "2022-07-09T04:02:25.862Z",
+        "to": "2022-08-09T04:02:25.863Z"
     },
     "language": {
         "id": "zh-TW",
@@ -145,28 +145,6 @@
         },
         {
             "user": {
-                "id": "15347272",
-                "username": "LiawGr",
-                "fullName": "LiawGr",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15347272/medium/cbdd25dc4511b757dabdc4608fc697b1.png",
-                "joined": "2022-07-08 10:48:26"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 459,
-            "target": 870,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13104413",
                 "username": "yutayamamoto212",
                 "fullName": "陳裕太 (yutayamamoto212)",
@@ -203,6 +181,28 @@
             ],
             "translated": 349,
             "target": 694,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15347272",
+                "username": "LiawGr",
+                "fullName": "LiawGr",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15347272/medium/cbdd25dc4511b757dabdc4608fc697b1.png",
+                "joined": "2022-07-08 10:48:26"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 303,
+            "target": 580,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -313,28 +313,6 @@
             ],
             "translated": 101,
             "target": 228,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "13953183",
-                "username": "zpxo123zpxo",
-                "fullName": "月玥櫻(MMSakura#3059 (zpxo123zpxo)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13953183/medium/7dc8ce6dd2a0cdc8554e2b5b37bab2c0.jpg",
-                "joined": "2022-07-08 21:58:35"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 69,
-            "target": 137,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
