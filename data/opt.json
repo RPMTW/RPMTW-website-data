@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-08T23:24:32.145Z",
-        "to": "2022-08-08T23:24:32.146Z"
+        "from": "2022-07-09T02:22:30.747Z",
+        "to": "2022-08-09T02:22:30.747Z"
     },
     "language": {
         "id": "zh-TW",
@@ -57,28 +57,6 @@
         },
         {
             "user": {
-                "id": "15347272",
-                "username": "LiawGr",
-                "fullName": "LiawGr",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15347272/medium/cbdd25dc4511b757dabdc4608fc697b1.png",
-                "joined": "2022-07-08 10:48:26"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2213,
-            "target": 4159,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13886597",
                 "username": "flandretw",
                 "fullName": "蘭蘭露 (flandretw)",
@@ -123,6 +101,28 @@
         },
         {
             "user": {
+                "id": "15392158",
+                "username": "yoyo0515_TW",
+                "fullName": "Yoyo Yang (yoyo0515_TW)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15392158/medium/06d45792d36dbcdd344624db7aa586a2.jpeg",
+                "joined": "2022-08-06 20:48:42"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 602,
+            "target": 1078,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13395892",
                 "username": "MarginalPerson",
                 "fullName": "默默無名邊緣人 (MarginalPerson)",
@@ -145,6 +145,28 @@
         },
         {
             "user": {
+                "id": "15347272",
+                "username": "LiawGr",
+                "fullName": "LiawGr",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15347272/medium/cbdd25dc4511b757dabdc4608fc697b1.png",
+                "joined": "2022-07-08 10:48:26"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 459,
+            "target": 870,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13104413",
                 "username": "yutayamamoto212",
                 "fullName": "陳裕太 (yutayamamoto212)",
@@ -164,28 +186,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 3
-        },
-        {
-            "user": {
-                "id": "15392158",
-                "username": "yoyo0515_TW",
-                "fullName": "Yoyo Yang (yoyo0515_TW)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15392158/medium/06d45792d36dbcdd344624db7aa586a2.jpeg",
-                "joined": "2022-08-06 20:48:42"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 429,
-            "target": 773,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
         },
         {
             "user": {
@@ -333,8 +333,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 82,
-            "target": 164,
+            "translated": 69,
+            "target": 137,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
