@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-09T05:28:15.388Z",
-        "to": "2022-08-09T05:28:15.389Z"
+        "from": "2022-07-09T06:30:22.293Z",
+        "to": "2022-08-09T06:30:22.294Z"
     },
     "language": {
         "id": "zh-TW",
@@ -343,11 +343,11 @@
         },
         {
             "user": {
-                "id": "14813152",
-                "username": "BennyDioxide",
-                "fullName": "Benny Yang (BennyDioxide)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14813152/medium/6b7d391aa8424a9d1717e0e91a5a35e8.png",
-                "joined": "2021-06-23 21:48:20"
+                "id": "13964329",
+                "username": "Aukfl",
+                "fullName": "Aukfl",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13964329/medium/d6cfce7a14745ef0fc7d807b5f6b9a7f.png",
+                "joined": "2022-08-09 01:37:27"
             },
             "languages": [
                 {
@@ -355,8 +355,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 26,
-            "target": 55,
+            "translated": 28,
+            "target": 46,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -379,6 +379,28 @@
             ],
             "translated": 26,
             "target": 35,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14813152",
+                "username": "BennyDioxide",
+                "fullName": "Benny Yang (BennyDioxide)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14813152/medium/6b7d391aa8424a9d1717e0e91a5a35e8.png",
+                "joined": "2021-06-23 21:48:20"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 26,
+            "target": 55,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -541,28 +563,6 @@
         },
         {
             "user": {
-                "id": "14776122",
-                "username": "__Luminous__",
-                "fullName": "__Luminous__",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14776122/medium/88f1f027992e5aed43e62120724290ab.jpg",
-                "joined": "2021-05-28 05:09:36"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 2,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15361254",
                 "username": "1eugene0907",
                 "fullName": "RK (1eugene0907)",
@@ -577,6 +577,28 @@
             ],
             "translated": 2,
             "target": 4,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14776122",
+                "username": "__Luminous__",
+                "fullName": "__Luminous__",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14776122/medium/88f1f027992e5aed43e62120724290ab.jpg",
+                "joined": "2021-05-28 05:09:36"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 2,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
