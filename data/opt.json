@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-09T23:23:30.859Z",
-        "to": "2022-08-09T23:23:30.860Z"
+        "from": "2022-07-10T01:57:32.229Z",
+        "to": "2022-08-10T01:57:32.230Z"
     },
     "language": {
         "id": "zh-TW",
@@ -541,28 +541,6 @@
         },
         {
             "user": {
-                "id": "14855780",
-                "username": "cjiahe682",
-                "fullName": "Sculk man (cjiahe682)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14855780/medium/778578ee1cf1c4191f846fbcdcbec82a.png",
-                "joined": "2022-05-27 11:04:12"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 4,
-            "target": 8,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14686780",
                 "username": "t7991321",
                 "fullName": "星野宿 (t7991321)",
@@ -579,6 +557,28 @@
             "target": 6,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14855780",
+                "username": "cjiahe682",
+                "fullName": "Sculk man (cjiahe682)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14855780/medium/778578ee1cf1c4191f846fbcdcbec82a.png",
+                "joined": "2022-05-27 11:04:12"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 3,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
