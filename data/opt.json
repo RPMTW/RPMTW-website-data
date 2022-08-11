@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-11T12:49:30.056Z",
-        "to": "2022-08-11T12:49:30.057Z"
+        "from": "2022-07-11T13:43:30.373Z",
+        "to": "2022-08-11T13:43:30.374Z"
     },
     "language": {
         "id": "zh-TW",
@@ -255,28 +255,6 @@
         },
         {
             "user": {
-                "id": "15316704",
-                "username": "nannuwc",
-                "fullName": "LILY T_T (nannuwc)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15316704/medium/b729724a804af8607314a896a91b5202.png",
-                "joined": "2022-06-15 16:11:18"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 123,
-            "target": 225,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14815244",
                 "username": "Nanamiya738",
                 "fullName": "Nanamiya738",
@@ -315,6 +293,28 @@
             "target": 48,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15316704",
+                "username": "nannuwc",
+                "fullName": "LILY T_T (nannuwc)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15316704/medium/b729724a804af8607314a896a91b5202.png",
+                "joined": "2022-06-15 16:11:18"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 33,
+            "target": 62,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
