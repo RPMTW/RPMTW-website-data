@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-19T16:35:49.897Z",
-        "to": "2022-08-19T16:35:49.898Z"
+        "from": "2022-07-19T17:29:34.180Z",
+        "to": "2022-08-19T17:29:34.181Z"
     },
     "language": {
         "id": "zh-TW",
@@ -425,6 +425,28 @@
             "target": 2,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14665926",
+                "username": "EvanHsieh0415",
+                "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14665926/medium/43cb27309eabac14eeffc913f42312b1.png",
+                "joined": "2021-04-20 06:05:34"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1,
+            "target": 1,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
