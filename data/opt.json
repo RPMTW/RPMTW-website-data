@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-19T02:27:15.679Z",
-        "to": "2022-08-19T02:27:15.680Z"
+        "from": "2022-07-19T04:09:21.524Z",
+        "to": "2022-08-19T04:09:21.525Z"
     },
     "language": {
         "id": "zh-TW",
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2117,
-            "target": 3717,
+            "translated": 1875,
+            "target": 3266,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -230,6 +230,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "14819832",
+                "username": "cFSovo",
+                "fullName": "FlySkyovo (cFSovo)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14819832/medium/0fad629fdb46af44e83b179cce4089e0.png",
+                "joined": "2021-06-29 04:06:43"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 75,
+            "target": 143,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 12
         },
         {
             "user": {
