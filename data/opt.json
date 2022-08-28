@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-28T16:31:06.864Z",
-        "to": "2022-08-28T16:31:06.865Z"
+        "from": "2022-07-28T17:22:54.223Z",
+        "to": "2022-08-28T17:22:54.224Z"
     },
     "language": {
         "id": "zh-TW",
@@ -31,28 +31,6 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14847496",
-                "username": "StarsShine11904",
-                "fullName": "Stars Shine (StarsShine11904)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14847496/medium/1651c9cc3f3a0164b71112220bdf6abf.jpg",
-                "joined": "2021-10-19 10:08:54"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1364,
-            "target": 2408,
-            "approved": 4,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 1,
             "winning": 0
         },
         {
@@ -189,6 +167,28 @@
         },
         {
             "user": {
+                "id": "14847496",
+                "username": "StarsShine11904",
+                "fullName": "Stars Shine (StarsShine11904)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14847496/medium/1651c9cc3f3a0164b71112220bdf6abf.jpg",
+                "joined": "2021-10-19 10:08:54"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 362,
+            "target": 712,
+            "approved": 4,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 1,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14818404",
                 "username": "Starywa",
                 "fullName": "Starywa",
@@ -203,28 +203,6 @@
             ],
             "translated": 269,
             "target": 439,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15377572",
-                "username": "FutabaAoi",
-                "fullName": "FutabaAoi",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15377572/medium/52e3e98a235860925dd0232189dc28e9_default.png",
-                "joined": "2022-07-28 09:56:07"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 203,
-            "target": 368,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -313,6 +291,28 @@
             ],
             "translated": 28,
             "target": 46,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15377572",
+                "username": "FutabaAoi",
+                "fullName": "FutabaAoi",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15377572/medium/52e3e98a235860925dd0232189dc28e9_default.png",
+                "joined": "2022-07-28 09:56:07"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 13,
+            "target": 27,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
