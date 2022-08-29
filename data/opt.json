@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-07-29T14:23:05.812Z",
-        "to": "2022-08-29T14:23:05.827Z"
+        "from": "2022-07-29T15:25:33.538Z",
+        "to": "2022-08-29T15:25:33.539Z"
     },
     "language": {
         "id": "zh-TW",
@@ -365,11 +365,11 @@
         },
         {
             "user": {
-                "id": "14665926",
-                "username": "EvanHsieh0415",
-                "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14665926/medium/43cb27309eabac14eeffc913f42312b1.png",
-                "joined": "2021-04-20 06:05:34"
+                "id": "15359220",
+                "username": "oaklog",
+                "fullName": "oak log (oaklog)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15359220/medium/b595d1c5a760e2282f6d0256cec047ee.jpeg",
+                "joined": "2022-08-29 11:06:59"
             },
             "languages": [
                 {
@@ -377,8 +377,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 4,
-            "target": 5,
+            "translated": 5,
+            "target": 14,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -401,6 +401,28 @@
             ],
             "translated": 4,
             "target": 8,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14665926",
+                "username": "EvanHsieh0415",
+                "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14665926/medium/43cb27309eabac14eeffc913f42312b1.png",
+                "joined": "2021-04-20 06:05:34"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4,
+            "target": 5,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
