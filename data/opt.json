@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-08-04T23:23:56.987Z",
-        "to": "2022-09-04T23:23:56.988Z"
+        "from": "2022-08-05T02:36:53.338Z",
+        "to": "2022-09-05T02:36:53.340Z"
     },
     "language": {
         "id": "zh-TW",
@@ -458,6 +458,28 @@
                 "fullName": "Bill·Chen (BillChenIDY)",
                 "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13354776/medium/8d918ca3dd7776e9be44f61905ef6b79.png",
                 "joined": "2022-08-23 09:06:52"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14910757",
+                "username": "hellophone",
+                "fullName": "Hello Phone (hellophone)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
+                "joined": "2021-09-17 09:40:31"
             },
             "languages": [
                 {
