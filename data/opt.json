@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-08-05T15:25:46.975Z",
-        "to": "2022-09-05T15:25:46.977Z"
+        "from": "2022-08-05T16:34:02.906Z",
+        "to": "2022-09-05T16:34:02.908Z"
     },
     "language": {
         "id": "zh-TW",
@@ -233,6 +233,28 @@
         },
         {
             "user": {
+                "id": "14941681",
+                "username": "yeast",
+                "fullName": "酵母菌 (yeast)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14941681/medium/0821c62eb3c21a264d77146753295b54_default.png",
+                "joined": "2021-09-28 08:56:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 191,
+            "target": 353,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14819832",
                 "username": "cFSovo",
                 "fullName": "FlySkyovo (cFSovo)",
@@ -409,6 +431,28 @@
         },
         {
             "user": {
+                "id": "15414970",
+                "username": "sam0968100147",
+                "fullName": "Nightmare (sam0968100147)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15414970/medium/fc7df95a7fdd98c41971380620f2c526.jpeg",
+                "joined": "2022-08-22 07:41:29"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4,
+            "target": 8,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14665926",
                 "username": "EvanHsieh0415",
                 "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
@@ -431,11 +475,11 @@
         },
         {
             "user": {
-                "id": "15414970",
-                "username": "sam0968100147",
-                "fullName": "Nightmare (sam0968100147)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15414970/medium/fc7df95a7fdd98c41971380620f2c526.jpeg",
-                "joined": "2022-08-22 07:41:29"
+                "id": "15361254",
+                "username": "1eugene0907",
+                "fullName": "RK (1eugene0907)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15361254/medium/11a0ba9a2c589c9f7e9cf41b5c5af539.jpg",
+                "joined": "2022-07-17 15:45:41"
             },
             "languages": [
                 {
@@ -443,8 +487,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 4,
-            "target": 8,
+            "translated": 2,
+            "target": 2,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -489,28 +533,6 @@
             ],
             "translated": 2,
             "target": 4,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15361254",
-                "username": "1eugene0907",
-                "fullName": "RK (1eugene0907)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15361254/medium/11a0ba9a2c589c9f7e9cf41b5c5af539.jpg",
-                "joined": "2022-07-17 15:45:41"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 2,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
