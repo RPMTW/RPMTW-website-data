@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-08-08T08:30:25.155Z",
-        "to": "2022-09-08T08:30:25.157Z"
+        "from": "2022-08-08T09:26:06.527Z",
+        "to": "2022-09-08T09:26:06.528Z"
     },
     "language": {
         "id": "zh-TW",
@@ -211,28 +211,6 @@
         },
         {
             "user": {
-                "id": "15392158",
-                "username": "yoyo0515_TW",
-                "fullName": "Yoyo Yang (yoyo0515_TW)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15392158/medium/06d45792d36dbcdd344624db7aa586a2.jpeg",
-                "joined": "2022-08-06 20:48:42"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 194,
-            "target": 340,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14941681",
                 "username": "yeast",
                 "fullName": "酵母菌 (yeast)",
@@ -247,6 +225,28 @@
             ],
             "translated": 191,
             "target": 353,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15392158",
+                "username": "yoyo0515_TW",
+                "fullName": "Yoyo Yang (yoyo0515_TW)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15392158/medium/06d45792d36dbcdd344624db7aa586a2.jpeg",
+                "joined": "2022-08-06 20:48:42"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 183,
+            "target": 320,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
