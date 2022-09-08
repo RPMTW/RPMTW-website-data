@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-08-07T23:30:07.202Z",
-        "to": "2022-09-07T23:30:07.204Z"
+        "from": "2022-08-08T02:40:53.887Z",
+        "to": "2022-09-08T02:40:53.889Z"
     },
     "language": {
         "id": "zh-TW",
@@ -167,28 +167,6 @@
         },
         {
             "user": {
-                "id": "15392158",
-                "username": "yoyo0515_TW",
-                "fullName": "Yoyo Yang (yoyo0515_TW)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15392158/medium/06d45792d36dbcdd344624db7aa586a2.jpeg",
-                "joined": "2022-08-06 20:48:42"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 606,
-            "target": 1085,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14889234",
                 "username": "frank1320",
                 "fullName": "Frank Cheung (frank1320)",
@@ -229,6 +207,28 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 1,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15392158",
+                "username": "yoyo0515_TW",
+                "fullName": "Yoyo Yang (yoyo0515_TW)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15392158/medium/06d45792d36dbcdd344624db7aa586a2.jpeg",
+                "joined": "2022-08-06 20:48:42"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 231,
+            "target": 417,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
             "winning": 0
         },
         {
