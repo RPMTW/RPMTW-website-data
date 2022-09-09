@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-08-08T23:27:32.218Z",
-        "to": "2022-09-08T23:27:32.233Z"
+        "from": "2022-08-09T02:40:51.246Z",
+        "to": "2022-09-09T02:40:51.246Z"
     },
     "language": {
         "id": "zh-TW",
@@ -233,28 +233,6 @@
         },
         {
             "user": {
-                "id": "15392158",
-                "username": "yoyo0515_TW",
-                "fullName": "Yoyo Yang (yoyo0515_TW)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15392158/medium/06d45792d36dbcdd344624db7aa586a2.jpeg",
-                "joined": "2022-08-06 20:48:42"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 179,
-            "target": 314,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14819832",
                 "username": "cFSovo",
                 "fullName": "FlySkyovo (cFSovo)",
@@ -401,6 +379,28 @@
             ],
             "translated": 10,
             "target": 21,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15392158",
+                "username": "yoyo0515_TW",
+                "fullName": "Yoyo Yang (yoyo0515_TW)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15392158/medium/06d45792d36dbcdd344624db7aa586a2.jpeg",
+                "joined": "2022-08-06 20:48:42"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 6,
+            "target": 9,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
