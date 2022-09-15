@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-08-15T04:52:49.845Z",
-        "to": "2022-09-15T04:52:49.847Z"
+        "from": "2022-08-15T06:06:14.006Z",
+        "to": "2022-09-15T06:06:14.008Z"
     },
     "language": {
         "id": "zh-TW",
@@ -299,6 +299,28 @@
         },
         {
             "user": {
+                "id": "15448832",
+                "username": "Mr.Risto",
+                "fullName": "Burial_Immortals (Mr.Risto)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15448832/medium/4481e62c1db1866c102dd370845d7f3c.png",
+                "joined": "2022-09-15 01:25:35"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 8,
+            "target": 17,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15359220",
                 "username": "oaklog",
                 "fullName": "oak log (oaklog)",
@@ -365,11 +387,11 @@
         },
         {
             "user": {
-                "id": "15441546",
-                "username": "ARK3302",
-                "fullName": "ARK3302",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15441546/medium/efa60bfa5f76102cd91a4b0f3a9daadd_default.png",
-                "joined": "2022-09-10 06:05:33"
+                "id": "14910757",
+                "username": "hellophone",
+                "fullName": "Hello Phone (hellophone)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
+                "joined": "2021-09-17 09:40:31"
             },
             "languages": [
                 {
@@ -387,11 +409,11 @@
         },
         {
             "user": {
-                "id": "14910757",
-                "username": "hellophone",
-                "fullName": "Hello Phone (hellophone)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
-                "joined": "2021-09-17 09:40:31"
+                "id": "13354776",
+                "username": "BillChenIDY",
+                "fullName": "Bill·Chen (BillChenIDY)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13354776/medium/8d918ca3dd7776e9be44f61905ef6b79.png",
+                "joined": "2022-08-23 09:06:52"
             },
             "languages": [
                 {
@@ -431,11 +453,11 @@
         },
         {
             "user": {
-                "id": "13354776",
-                "username": "BillChenIDY",
-                "fullName": "Bill·Chen (BillChenIDY)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13354776/medium/8d918ca3dd7776e9be44f61905ef6b79.png",
-                "joined": "2022-08-23 09:06:52"
+                "id": "15441546",
+                "username": "ARK3302",
+                "fullName": "ARK3302",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15441546/medium/efa60bfa5f76102cd91a4b0f3a9daadd_default.png",
+                "joined": "2022-09-10 06:05:33"
             },
             "languages": [
                 {
