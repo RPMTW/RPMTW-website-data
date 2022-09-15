@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-08-15T14:30:53.477Z",
-        "to": "2022-09-15T14:30:53.491Z"
+        "from": "2022-08-15T15:28:10.310Z",
+        "to": "2022-09-15T15:28:10.328Z"
     },
     "language": {
         "id": "zh-TW",
@@ -423,6 +423,28 @@
             ],
             "translated": 2,
             "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14948097",
+                "username": "keira224",
+                "fullName": "keira224",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14948097/medium/1f268d88eb87c446def6465f973b1e9e_default.png",
+                "joined": "2021-10-03 04:04:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 2,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
