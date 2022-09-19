@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-08-19T02:47:22.080Z",
-        "to": "2022-09-19T02:47:22.097Z"
+        "from": "2022-08-19T04:58:07.290Z",
+        "to": "2022-09-19T04:58:07.291Z"
     },
     "language": {
         "id": "zh-TW",
@@ -211,28 +211,6 @@
         },
         {
             "user": {
-                "id": "14819832",
-                "username": "cFSovo",
-                "fullName": "FlySkyovo (cFSovo)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14819832/medium/0fad629fdb46af44e83b179cce4089e0.png",
-                "joined": "2021-06-29 04:06:43"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 75,
-            "target": 143,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14686780",
                 "username": "t7991321",
                 "fullName": "星野宿 (t7991321)",
@@ -387,28 +365,6 @@
         },
         {
             "user": {
-                "id": "14910757",
-                "username": "hellophone",
-                "fullName": "Hello Phone (hellophone)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
-                "joined": "2021-09-17 09:40:31"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 4,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13354776",
                 "username": "BillChenIDY",
                 "fullName": "Bill·Chen (BillChenIDY)",
@@ -431,11 +387,11 @@
         },
         {
             "user": {
-                "id": "14948097",
-                "username": "keira224",
-                "fullName": "keira224",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14948097/medium/1f268d88eb87c446def6465f973b1e9e_default.png",
-                "joined": "2021-10-03 04:04:58"
+                "id": "15361254",
+                "username": "1eugene0907",
+                "fullName": "RK (1eugene0907)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15361254/medium/11a0ba9a2c589c9f7e9cf41b5c5af539.jpg",
+                "joined": "2022-07-17 15:45:41"
             },
             "languages": [
                 {
@@ -453,11 +409,11 @@
         },
         {
             "user": {
-                "id": "15361254",
-                "username": "1eugene0907",
-                "fullName": "RK (1eugene0907)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15361254/medium/11a0ba9a2c589c9f7e9cf41b5c5af539.jpg",
-                "joined": "2022-07-17 15:45:41"
+                "id": "14910757",
+                "username": "hellophone",
+                "fullName": "Hello Phone (hellophone)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
+                "joined": "2021-09-17 09:40:31"
             },
             "languages": [
                 {
@@ -466,7 +422,7 @@
                 }
             ],
             "translated": 2,
-            "target": 2,
+            "target": 4,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -511,6 +467,28 @@
             ],
             "translated": 2,
             "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14948097",
+                "username": "keira224",
+                "fullName": "keira224",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14948097/medium/1f268d88eb87c446def6465f973b1e9e_default.png",
+                "joined": "2021-10-03 04:04:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 2,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
