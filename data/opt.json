@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-08-23T15:29:22.282Z",
-        "to": "2022-09-23T15:29:22.283Z"
+        "from": "2022-08-23T16:39:01.104Z",
+        "to": "2022-09-23T16:39:01.105Z"
     },
     "language": {
         "id": "zh-TW",
@@ -135,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 439,
-            "target": 762,
+            "translated": 224,
+            "target": 346,
             "approved": 0,
             "voted": 4,
             "positiveVotes": 0,
@@ -387,11 +387,11 @@
         },
         {
             "user": {
-                "id": "13354776",
-                "username": "BillChenIDY",
-                "fullName": "Bill·Chen (BillChenIDY)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13354776/medium/8d918ca3dd7776e9be44f61905ef6b79.png",
-                "joined": "2022-08-23 09:06:52"
+                "id": "14276308",
+                "username": "ulong.zx7",
+                "fullName": "ReBox SK_ (ulong.zx7)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14276308/medium/a2a37713b5e9ecc731064ce8d2333a0f.jpeg",
+                "joined": "2022-09-20 00:04:41"
             },
             "languages": [
                 {
@@ -400,9 +400,9 @@
                 }
             ],
             "translated": 2,
-            "target": 4,
+            "target": 3,
             "approved": 0,
-            "voted": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -425,28 +425,6 @@
             "target": 2,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14276308",
-                "username": "ulong.zx7",
-                "fullName": "ReBox SK_ (ulong.zx7)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14276308/medium/a2a37713b5e9ecc731064ce8d2333a0f.jpeg",
-                "joined": "2022-09-20 00:04:41"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 3,
-            "approved": 0,
-            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
