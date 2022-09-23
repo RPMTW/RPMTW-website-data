@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-08-22T23:28:23.864Z",
-        "to": "2022-09-22T23:28:23.866Z"
+        "from": "2022-08-23T02:43:30.746Z",
+        "to": "2022-09-23T02:43:30.747Z"
     },
     "language": {
         "id": "zh-TW",
@@ -52,6 +52,28 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 3,
+            "negativeVotes": 0,
+            "winning": 1
+        },
+        {
+            "user": {
+                "id": "13104413",
+                "username": "yutayamamoto212",
+                "fullName": "陳裕太 (yutayamamoto212)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13104413/medium/0570fea75bbe3c95eeebcfcb7f67c3b9.png",
+                "joined": "2021-05-13 07:39:53"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2348,
+            "target": 4498,
+            "approved": 2,
+            "voted": 0,
+            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -113,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 498,
-            "target": 863,
+            "translated": 451,
+            "target": 780,
             "approved": 0,
             "voted": 4,
             "positiveVotes": 0,
@@ -343,11 +365,11 @@
         },
         {
             "user": {
-                "id": "13104413",
-                "username": "yutayamamoto212",
-                "fullName": "陳裕太 (yutayamamoto212)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13104413/medium/0570fea75bbe3c95eeebcfcb7f67c3b9.png",
-                "joined": "2021-05-13 07:39:53"
+                "id": "14910757",
+                "username": "hellophone",
+                "fullName": "Hello Phone (hellophone)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
+                "joined": "2021-09-17 09:40:31"
             },
             "languages": [
                 {
@@ -355,9 +377,9 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3,
-            "target": 6,
-            "approved": 1,
+            "translated": 2,
+            "target": 4,
+            "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
@@ -401,28 +423,6 @@
             ],
             "translated": 2,
             "target": 2,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14910757",
-                "username": "hellophone",
-                "fullName": "Hello Phone (hellophone)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
-                "joined": "2021-09-17 09:40:31"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 4,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
