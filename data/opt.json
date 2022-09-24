@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-08-24T04:45:08.739Z",
-        "to": "2022-09-24T04:45:08.742Z"
+        "from": "2022-08-24T05:48:08.218Z",
+        "to": "2022-09-24T05:48:08.219Z"
     },
     "language": {
         "id": "zh-TW",
@@ -167,28 +167,6 @@
         },
         {
             "user": {
-                "id": "15352416",
-                "username": "NoahsarkTaiwan",
-                "fullName": "NoahsarkTaiwan",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15352416/medium/83851229a27890c492cfded2353b722e.jpg",
-                "joined": "2022-07-12 00:04:27"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 166,
-            "target": 291,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15392158",
                 "username": "yoyo0515_TW",
                 "fullName": "Yoyo Yang (yoyo0515_TW)",
@@ -291,6 +269,28 @@
             ],
             "translated": 15,
             "target": 25,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15352416",
+                "username": "NoahsarkTaiwan",
+                "fullName": "NoahsarkTaiwan",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15352416/medium/83851229a27890c492cfded2353b722e.jpg",
+                "joined": "2022-07-12 00:04:27"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 15,
+            "target": 39,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
