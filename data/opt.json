@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-09-02T04:45:22.848Z",
-        "to": "2022-10-02T04:45:22.850Z"
+        "from": "2022-09-02T05:50:43.460Z",
+        "to": "2022-10-02T05:50:43.462Z"
     },
     "language": {
         "id": "zh-TW",
@@ -72,6 +72,28 @@
             "translated": 2345,
             "target": 4492,
             "approved": 2,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15352416",
+                "username": "NoahsarkTaiwan",
+                "fullName": "NoahsarkTaiwan",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15352416/medium/83851229a27890c492cfded2353b722e.jpg",
+                "joined": "2022-07-12 00:04:27"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 519,
+            "target": 873,
+            "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
@@ -225,28 +247,6 @@
             ],
             "translated": 15,
             "target": 29,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15352416",
-                "username": "NoahsarkTaiwan",
-                "fullName": "NoahsarkTaiwan",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15352416/medium/83851229a27890c492cfded2353b722e.jpg",
-                "joined": "2022-07-12 00:04:27"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 15,
-            "target": 39,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
