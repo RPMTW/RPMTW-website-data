@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-09-03T08:36:36.503Z",
-        "to": "2022-10-03T08:36:36.505Z"
+        "from": "2022-09-03T09:33:43.289Z",
+        "to": "2022-10-03T09:33:43.291Z"
     },
     "language": {
         "id": "zh-TW",
@@ -277,11 +277,11 @@
         },
         {
             "user": {
-                "id": "14881128",
-                "username": "dps753123",
-                "fullName": "何小渚 (dps753123)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14881128/medium/6071c954e0232348a772593b6b036145.png",
-                "joined": "2022-08-29 06:05:28"
+                "id": "15441718",
+                "username": "wwerghjd",
+                "fullName": "林廷曄 (wwerghjd)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15441718/medium/853ff58b1cbaa8e7a67a3aef03e2b785.png",
+                "joined": "2022-09-10 09:02:13"
             },
             "languages": [
                 {
@@ -293,50 +293,6 @@
             "target": 4,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14910757",
-                "username": "hellophone",
-                "fullName": "Hello Phone (hellophone)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
-                "joined": "2021-09-17 09:40:31"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 4,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14276308",
-                "username": "ulong.zx7",
-                "fullName": "ReBox SK_ (ulong.zx7)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14276308/medium/a2a37713b5e9ecc731064ce8d2333a0f.jpeg",
-                "joined": "2022-09-20 00:04:41"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 3,
-            "approved": 0,
-            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -387,11 +343,33 @@
         },
         {
             "user": {
-                "id": "15441718",
-                "username": "wwerghjd",
-                "fullName": "林廷曄 (wwerghjd)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15441718/medium/853ff58b1cbaa8e7a67a3aef03e2b785.png",
-                "joined": "2022-09-10 09:02:13"
+                "id": "14276308",
+                "username": "ulong.zx7",
+                "fullName": "ReBox SK_ (ulong.zx7)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14276308/medium/a2a37713b5e9ecc731064ce8d2333a0f.jpeg",
+                "joined": "2022-09-20 00:04:41"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 3,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14910757",
+                "username": "hellophone",
+                "fullName": "Hello Phone (hellophone)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
+                "joined": "2021-09-17 09:40:31"
             },
             "languages": [
                 {
