@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-09-05T15:26:39.181Z",
-        "to": "2022-10-05T15:26:39.220Z"
+        "from": "2022-09-05T16:57:59.640Z",
+        "to": "2022-10-05T16:57:59.642Z"
     },
     "language": {
         "id": "zh-TW",
@@ -71,28 +71,6 @@
             ],
             "translated": 1153,
             "target": 1909,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14941681",
-                "username": "yeast",
-                "fullName": "酵母菌 (yeast)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14941681/medium/0821c62eb3c21a264d77146753295b54_default.png",
-                "joined": "2021-09-28 08:56:51"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 203,
-            "target": 379,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -203,6 +181,28 @@
             ],
             "translated": 15,
             "target": 29,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14941681",
+                "username": "yeast",
+                "fullName": "酵母菌 (yeast)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14941681/medium/0821c62eb3c21a264d77146753295b54_default.png",
+                "joined": "2021-09-28 08:56:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 12,
+            "target": 26,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
