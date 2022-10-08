@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-09-08T05:35:10.462Z",
-        "to": "2022-10-08T05:35:10.463Z"
+        "from": "2022-09-08T06:35:06.927Z",
+        "to": "2022-10-08T06:35:06.928Z"
     },
     "language": {
         "id": "zh-TW",
@@ -35,6 +35,28 @@
         },
         {
             "user": {
+                "id": "14782632",
+                "username": "andrewhsia.cow",
+                "fullName": "流川楓rrr (andrewhsia.cow)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782632/medium/610567d5a432cd0d717c3ae506a6deae.png",
+                "joined": "2021-06-12 06:42:17"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3950,
+            "target": 7320,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13104413",
                 "username": "yutayamamoto212",
                 "fullName": "陳裕太 (yutayamamoto212)",
@@ -50,28 +72,6 @@
             "translated": 2345,
             "target": 4492,
             "approved": 1,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14782632",
-                "username": "andrewhsia.cow",
-                "fullName": "流川楓rrr (andrewhsia.cow)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14782632/medium/610567d5a432cd0d717c3ae506a6deae.png",
-                "joined": "2021-06-12 06:42:17"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2302,
-            "target": 4164,
-            "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
