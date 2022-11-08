@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-10-08T12:53:09.441Z",
-        "to": "2022-11-08T12:53:09.443Z"
+        "from": "2022-10-08T13:48:24.068Z",
+        "to": "2022-11-08T13:48:24.081Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,30 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 25984,
-            "target": 42715,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15352416",
-                "username": "NoahsarkTaiwan",
-                "fullName": "NoahsarkTaiwan",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15352416/medium/83851229a27890c492cfded2353b722e.jpg",
-                "joined": "2022-07-12 00:04:27"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1005,
-            "target": 1776,
+            "translated": 25982,
+            "target": 42713,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -71,6 +49,28 @@
             ],
             "translated": 572,
             "target": 891,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15352416",
+                "username": "NoahsarkTaiwan",
+                "fullName": "NoahsarkTaiwan",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15352416/medium/83851229a27890c492cfded2353b722e.jpg",
+                "joined": "2022-07-12 00:04:27"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 565,
+            "target": 1051,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -247,28 +247,6 @@
             ],
             "translated": 3,
             "target": 3,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14743238",
-                "username": "banai8123",
-                "fullName": "皓夜 (banai8123)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14743238/medium/3e23573f1fedcc9b55d74c91dacda2a2.png",
-                "joined": "2022-10-08 09:10:13"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 2,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
