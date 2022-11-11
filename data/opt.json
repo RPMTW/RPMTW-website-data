@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-10-11T13:48:38.951Z",
-        "to": "2022-11-11T13:48:38.954Z"
+        "from": "2022-10-11T14:23:06.759Z",
+        "to": "2022-11-11T14:23:06.760Z"
     },
     "language": {
         "id": "zh-TW",
@@ -269,6 +269,28 @@
             ],
             "translated": 3,
             "target": 3,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14963657",
+                "username": "vincent2000901106",
+                "fullName": "張瑋宸 (vincent2000901106)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14963657/medium/2365b5639431de6ead1076c0c213f46d.png",
+                "joined": "2022-11-09 08:08:25"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1,
+            "target": 2,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
