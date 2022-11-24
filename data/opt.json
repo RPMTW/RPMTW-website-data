@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-10-24T08:26:56.168Z",
-        "to": "2022-11-24T08:26:56.169Z"
+        "from": "2022-10-24T09:20:21.342Z",
+        "to": "2022-11-24T09:20:21.344Z"
     },
     "language": {
         "id": "zh-TW",
@@ -293,6 +293,28 @@
             "target": 45,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15143840",
+                "username": "byron1000105",
+                "fullName": "陳泊勳 (byron1000105)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15143840/medium/65c389778007dc61fe707910f1fe0a4f.jpeg",
+                "joined": "2022-11-23 00:04:20"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 12,
+            "target": 25,
+            "approved": 0,
+            "voted": 4,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
