@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-10-28T13:31:11.891Z",
-        "to": "2022-11-28T13:31:11.893Z"
+        "from": "2022-10-28T14:19:34.371Z",
+        "to": "2022-11-28T14:19:34.385Z"
     },
     "language": {
         "id": "zh-TW",
@@ -31,6 +31,28 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 1,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 5056,
+            "target": 9894,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
             "winning": 0
         },
         {
@@ -277,6 +299,28 @@
         },
         {
             "user": {
+                "id": "14888160",
+                "username": "CubTiger",
+                "fullName": "CubTiger",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14888160/medium/b598cc441948b7e1a5d72f1060ab4e58_default.png",
+                "joined": "2021-08-19 19:38:12"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 29,
+            "target": 57,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14651126",
                 "username": "JOHson9487",
                 "fullName": "JOHson9487",
@@ -290,28 +334,6 @@
                 }
             ],
             "translated": 26,
-            "target": 45,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14888160",
-                "username": "CubTiger",
-                "fullName": "CubTiger",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14888160/medium/b598cc441948b7e1a5d72f1060ab4e58_default.png",
-                "joined": "2021-08-19 19:38:12"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 24,
             "target": 45,
             "approved": 0,
             "voted": 0,
@@ -453,11 +475,11 @@
         },
         {
             "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
+                "id": "15554265",
+                "username": "max.hsieh.1102",
+                "fullName": "謝尹振 (max.hsieh.1102)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15554265/medium/be7abaefb9986fb210b5ed54b3e1220d.png",
+                "joined": "2022-11-28 09:12:51"
             },
             "languages": [
                 {
@@ -465,8 +487,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1,
-            "target": 2,
+            "translated": 2,
+            "target": 6,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
