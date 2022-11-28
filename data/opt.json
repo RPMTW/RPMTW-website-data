@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-10-28T01:48:32.764Z",
-        "to": "2022-11-28T01:48:32.765Z"
+        "from": "2022-10-28T03:00:03.669Z",
+        "to": "2022-11-28T03:00:03.671Z"
     },
     "language": {
         "id": "zh-TW",
@@ -189,28 +189,6 @@
         },
         {
             "user": {
-                "id": "15086849",
-                "username": "blueslime",
-                "fullName": "blueslimes (blueslime)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15086849/medium/4b77a8801bf8154d8830253b2314b79f.jpg",
-                "joined": "2022-01-02 03:29:15"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 107,
-            "target": 169,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14754262",
                 "username": "Linkinrock",
                 "fullName": "Linkinrock",
@@ -313,6 +291,28 @@
             ],
             "translated": 26,
             "target": 45,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15086849",
+                "username": "blueslime",
+                "fullName": "blueslimes (blueslime)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15086849/medium/4b77a8801bf8154d8830253b2314b79f.jpg",
+                "joined": "2022-01-02 03:29:15"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 24,
+            "target": 42,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
