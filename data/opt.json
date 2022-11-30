@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-10-30T22:20:52.704Z",
-        "to": "2022-11-30T22:20:52.705Z"
+        "from": "2022-10-30T23:21:59.314Z",
+        "to": "2022-11-30T23:21:59.316Z"
     },
     "language": {
         "id": "zh-TW",
@@ -181,6 +181,28 @@
             ],
             "translated": 303,
             "target": 442,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14623594",
+                "username": "command_music",
+                "fullName": "指音 (command_music)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14623594/medium/4f006540a9e19cadc25dc6d32c3e6db1.png",
+                "joined": "2021-03-17 19:56:59"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 259,
+            "target": 446,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
