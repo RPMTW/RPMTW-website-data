@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-11-01T07:19:28.369Z",
-        "to": "2022-12-01T07:19:28.370Z"
+        "from": "2022-11-01T08:27:48.306Z",
+        "to": "2022-12-01T08:27:48.321Z"
     },
     "language": {
         "id": "zh-TW",
@@ -381,6 +381,28 @@
             "target": 45,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15557917",
+                "username": "Melanchol",
+                "fullName": "Melanchol",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15557917/medium/36fd61ea2a8c0bbd480be89388153f12_default.png",
+                "joined": "2022-11-30 15:41:19"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 21,
+            "target": 40,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
