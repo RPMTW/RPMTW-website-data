@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-11-08T17:18:09.518Z",
-        "to": "2022-12-08T17:18:09.520Z"
+        "from": "2022-11-08T18:24:39.634Z",
+        "to": "2022-12-08T18:24:39.635Z"
     },
     "language": {
         "id": "zh-TW",
@@ -511,6 +511,28 @@
             ],
             "translated": 3,
             "target": 5,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15568915",
+                "username": "AlphaFox",
+                "fullName": "Dark Bus (AlphaFox)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15568915/medium/c72200be37abe133dd88dbb6a4bc44e0.jpeg",
+                "joined": "2022-12-08 12:26:35"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 7,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
