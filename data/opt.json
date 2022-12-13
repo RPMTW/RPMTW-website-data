@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-11-13T10:22:20.641Z",
-        "to": "2022-12-13T10:22:20.642Z"
+        "from": "2022-11-13T11:16:45.278Z",
+        "to": "2022-12-13T11:16:45.279Z"
     },
     "language": {
         "id": "zh-TW",
@@ -277,28 +277,6 @@
         },
         {
             "user": {
-                "id": "14963657",
-                "username": "HiHITW",
-                "fullName": "HiHiTW (HiHITW)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14963657/medium/3be87e2a6ebc3f9adeffba055505688b_default.png",
-                "joined": "2022-11-09 08:08:25"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 97,
-            "target": 167,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14910757",
                 "username": "hellophone",
                 "fullName": "Hello Phone (hellophone)",
@@ -425,6 +403,28 @@
             "target": 25,
             "approved": 0,
             "voted": 4,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14963657",
+                "username": "HiHITW",
+                "fullName": "HiHiTW (HiHITW)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14963657/medium/3be87e2a6ebc3f9adeffba055505688b_default.png",
+                "joined": "2022-11-09 08:08:25"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 11,
+            "target": 20,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
