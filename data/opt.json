@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-11-15T11:16:42.433Z",
-        "to": "2022-12-15T11:16:42.435Z"
+        "from": "2022-11-15T12:38:27.366Z",
+        "to": "2022-12-15T12:38:27.367Z"
     },
     "language": {
         "id": "zh-TW",
@@ -79,28 +79,6 @@
         },
         {
             "user": {
-                "id": "15352416",
-                "username": "NoahsarkTaiwan",
-                "fullName": "NoahsarkTaiwan",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15352416/medium/83851229a27890c492cfded2353b722e.jpg",
-                "joined": "2022-07-12 00:04:27"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1675,
-            "target": 2977,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14665926",
                 "username": "EvanHsieh0415",
                 "fullName": "Mango Jelly Pudding (EvanHsieh0415)",
@@ -137,6 +115,28 @@
             ],
             "translated": 964,
             "target": 1592,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15352416",
+                "username": "NoahsarkTaiwan",
+                "fullName": "NoahsarkTaiwan",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15352416/medium/83851229a27890c492cfded2353b722e.jpg",
+                "joined": "2022-07-12 00:04:27"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 879,
+            "target": 1625,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
