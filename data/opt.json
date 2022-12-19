@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-11-19T03:20:19.748Z",
-        "to": "2022-12-19T03:20:19.749Z"
+        "from": "2022-11-19T04:23:23.425Z",
+        "to": "2022-12-19T04:23:23.426Z"
     },
     "language": {
         "id": "zh-TW",
@@ -359,6 +359,28 @@
             "target": 25,
             "approved": 0,
             "voted": 4,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15583303",
+                "username": "2306like",
+                "fullName": "吳昱德（Phantoms） (2306like)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15583303/medium/e8240c67a11928a2f24c94d5950b19f5.jpeg",
+                "joined": "2022-12-18 22:29:59"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4,
+            "target": 4,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
