@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-11-25T10:19:09.969Z",
-        "to": "2022-12-25T10:19:09.982Z"
+        "from": "2022-11-25T11:14:40.312Z",
+        "to": "2022-12-25T11:14:40.326Z"
     },
     "language": {
         "id": "zh-TW",
@@ -249,6 +249,28 @@
             "target": 100,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15591889",
+                "username": "sakura39",
+                "fullName": "文月 (sakura39)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15591889/medium/bd5f4593a1948ef546c26ff1571883cc.jpeg",
+                "joined": "2022-12-25 05:25:57"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 44,
+            "target": 73,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
