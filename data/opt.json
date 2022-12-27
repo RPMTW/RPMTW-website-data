@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-11-27T19:14:46.711Z",
-        "to": "2022-12-27T19:14:46.712Z"
+        "from": "2022-11-27T20:19:24.808Z",
+        "to": "2022-12-27T20:19:24.809Z"
     },
     "language": {
         "id": "zh-TW",
@@ -35,6 +35,28 @@
         },
         {
             "user": {
+                "id": "14063879",
+                "username": "Xvideos8kUHD",
+                "fullName": "午夜的大叔 (Xvideos8kUHD)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14063879/medium/3fe69757614243100c34410aeb45f27c.PNG",
+                "joined": "2022-12-25 16:08:02"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3435,
+            "target": 5416,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13104413",
                 "username": "yutayamamoto212",
                 "fullName": "陳裕太 (yutayamamoto212)",
@@ -54,28 +76,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 2
-        },
-        {
-            "user": {
-                "id": "14063879",
-                "username": "Xvideos8kUHD",
-                "fullName": "午夜的大叔 (Xvideos8kUHD)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14063879/medium/3fe69757614243100c34410aeb45f27c.PNG",
-                "joined": "2022-12-25 16:08:02"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2214,
-            "target": 3498,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
         },
         {
             "user": {
