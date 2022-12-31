@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-12-01T09:16:53.804Z",
-        "to": "2022-12-31T09:16:53.805Z"
+        "from": "2022-12-01T10:18:41.282Z",
+        "to": "2022-12-31T10:18:41.283Z"
     },
     "language": {
         "id": "zh-TW",
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 8599,
-            "target": 15347,
+            "translated": 10200,
+            "target": 18115,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -98,6 +98,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 2
+        },
+        {
+            "user": {
+                "id": "15240630",
+                "username": "LymeNeKo",
+                "fullName": "Neko (LymeNeKo)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15240630/medium/603606b6064363fbab81c4cff5f2dd6c.jpg",
+                "joined": "2022-12-31 04:31:55"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 912,
+            "target": 1467,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
         },
         {
             "user": {
