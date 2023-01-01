@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-12-01T03:24:14.780Z",
-        "to": "2023-01-01T03:24:14.781Z"
+        "from": "2022-12-01T04:22:49.133Z",
+        "to": "2023-01-01T04:22:49.134Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 101637,
-            "target": 170437,
+            "translated": 101641,
+            "target": 170441,
             "approved": 4,
             "voted": 0,
             "positiveVotes": 1,
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 13510,
-            "target": 23461,
+            "translated": 14564,
+            "target": 25381,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -203,28 +203,6 @@
             ],
             "translated": 177,
             "target": 289,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14910757",
-                "username": "hellophone",
-                "fullName": "Hello Phone (hellophone)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14910757/medium/2cf54ccfd3bd7fb6d10ed755a81d0cd5.png",
-                "joined": "2021-09-17 09:40:31"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 62,
-            "target": 100,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
