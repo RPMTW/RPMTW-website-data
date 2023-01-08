@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-12-08T03:20:02.869Z",
-        "to": "2023-01-08T03:20:02.870Z"
+        "from": "2022-12-08T04:23:15.339Z",
+        "to": "2023-01-08T04:23:15.340Z"
     },
     "language": {
         "id": "zh-TW",
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 18712,
-            "target": 32381,
+            "translated": 19071,
+            "target": 33149,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -249,6 +249,28 @@
             "target": 73,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15085895",
+                "username": "littlefatcat1218",
+                "fullName": "胖貓 (littlefatcat1218)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085895/medium/f4e67b26d661ac488c84ac698408587f.png",
+                "joined": "2023-01-07 22:52:43"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 31,
+            "target": 73,
+            "approved": 0,
+            "voted": 2,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
