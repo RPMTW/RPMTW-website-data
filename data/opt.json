@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-12-08T04:23:15.339Z",
-        "to": "2023-01-08T04:23:15.340Z"
+        "from": "2022-12-08T05:16:52.358Z",
+        "to": "2023-01-08T05:16:52.358Z"
     },
     "language": {
         "id": "zh-TW",
@@ -233,6 +233,28 @@
         },
         {
             "user": {
+                "id": "15085895",
+                "username": "littlefatcat1218",
+                "fullName": "胖貓 (littlefatcat1218)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085895/medium/f4e67b26d661ac488c84ac698408587f.png",
+                "joined": "2023-01-07 22:52:43"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 46,
+            "target": 97,
+            "approved": 0,
+            "voted": 3,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15591889",
                 "username": "sakura39",
                 "fullName": "文月 (sakura39)",
@@ -249,28 +271,6 @@
             "target": 73,
             "approved": 0,
             "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15085895",
-                "username": "littlefatcat1218",
-                "fullName": "胖貓 (littlefatcat1218)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085895/medium/f4e67b26d661ac488c84ac698408587f.png",
-                "joined": "2023-01-07 22:52:43"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 31,
-            "target": 73,
-            "approved": 0,
-            "voted": 2,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
