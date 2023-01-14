@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-12-14T06:22:34.113Z",
-        "to": "2023-01-14T06:22:34.142Z"
+        "from": "2022-12-14T07:16:12.020Z",
+        "to": "2023-01-14T07:16:12.022Z"
     },
     "language": {
         "id": "zh-TW",
@@ -436,6 +436,28 @@
                 "fullName": "鳳凰院兇真 (fairanko776)",
                 "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15595047/medium/042dc6ea876559c9a74906ee4d1d7524.jpeg",
                 "joined": "2022-12-27 08:39:43"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15636319",
+                "username": "panther0314",
+                "fullName": "panther0314",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15636319/medium/3753a12857b429b52adc0abb7dc023bd_default.png",
+                "joined": "2023-01-14 02:13:18"
             },
             "languages": [
                 {
