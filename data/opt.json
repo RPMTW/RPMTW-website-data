@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-12-18T04:25:04.377Z",
-        "to": "2023-01-18T04:25:04.378Z"
+        "from": "2022-12-18T05:18:10.958Z",
+        "to": "2023-01-18T05:18:10.968Z"
     },
     "language": {
         "id": "zh-TW",
@@ -247,6 +247,28 @@
             ],
             "translated": 117,
             "target": 209,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13610160",
+                "username": "Leo0728",
+                "fullName": "Leo (Leo0728)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13610160/medium/d9b465313a5003ef1c3950fcc46bd4be.jpeg",
+                "joined": "2022-04-23 11:57:25"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 75,
+            "target": 128,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
