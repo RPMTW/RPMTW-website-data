@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-12-21T13:21:33.539Z",
-        "to": "2023-01-21T13:21:33.540Z"
+        "from": "2022-12-21T14:16:06.165Z",
+        "to": "2023-01-21T14:16:06.184Z"
     },
     "language": {
         "id": "zh-TW",
@@ -145,28 +145,6 @@
         },
         {
             "user": {
-                "id": "15557917",
-                "username": "Melanchol",
-                "fullName": "Melanchol",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15557917/medium/6edf599740f8c9eb423bcd6c04e37f43.JPG",
-                "joined": "2022-11-30 15:41:19"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 666,
-            "target": 1336,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14889234",
                 "username": "frank1320",
                 "fullName": "Frank Cheung (frank1320)",
@@ -181,6 +159,28 @@
             ],
             "translated": 660,
             "target": 1359,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15557917",
+                "username": "Melanchol",
+                "fullName": "Melanchol",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15557917/medium/6edf599740f8c9eb423bcd6c04e37f43.JPG",
+                "joined": "2022-11-30 15:41:19"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 451,
+            "target": 919,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -401,28 +401,6 @@
             ],
             "translated": 20,
             "target": 40,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15586807",
-                "username": "LeonWalker",
-                "fullName": "LeonWalker",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15586807/medium/8f7b0d7d9d0a6ec990e4cc2505ce9692_default.png",
-                "joined": "2022-12-21 07:36:56"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 15,
-            "target": 24,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
