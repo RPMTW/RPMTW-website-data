@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-12-28T09:17:45.080Z",
-        "to": "2023-01-28T09:17:45.081Z"
+        "from": "2022-12-28T10:19:31.503Z",
+        "to": "2023-01-28T10:19:31.504Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 68126,
-            "target": 112202,
+            "translated": 51190,
+            "target": 83231,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 2,
@@ -189,6 +189,28 @@
         },
         {
             "user": {
+                "id": "15133341",
+                "username": "asd195375",
+                "fullName": "lonely sk (asd195375)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15133341/medium/a98f648b07a2cc8da92039e8a88d9750.png",
+                "joined": "2022-02-03 07:48:26"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 511,
+            "target": 829,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14819832",
                 "username": "cFSovo",
                 "fullName": "FlySkyovo (cFSovo)",
@@ -269,28 +291,6 @@
             ],
             "translated": 165,
             "target": 367,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15133341",
-                "username": "asd195375",
-                "fullName": "lonely sk (asd195375)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15133341/medium/a98f648b07a2cc8da92039e8a88d9750.png",
-                "joined": "2022-02-03 07:48:26"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 125,
-            "target": 223,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
