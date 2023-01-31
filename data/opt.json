@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-12-31T01:46:01.107Z",
-        "to": "2023-01-31T01:46:01.107Z"
+        "from": "2022-12-31T02:48:43.355Z",
+        "to": "2023-01-31T02:48:43.356Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,33 +25,11 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 32902,
-            "target": 57136,
+            "translated": 32748,
+            "target": 56848,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 26045,
-            "target": 42075,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 2,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -74,6 +52,28 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 5165,
+            "target": 8798,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 2,
             "negativeVotes": 0,
             "winning": 0
         },
