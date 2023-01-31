@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2022-12-31T09:18:50.923Z",
-        "to": "2023-01-31T09:18:50.939Z"
+        "from": "2022-12-31T10:20:52.193Z",
+        "to": "2023-01-31T10:20:52.194Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 29783,
-            "target": 51582,
+            "translated": 28443,
+            "target": 49254,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
@@ -115,28 +115,6 @@
             ],
             "translated": 1762,
             "target": 3057,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15240630",
-                "username": "LymeNeKo",
-                "fullName": "澄清石灰水 (LymeNeKo)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15240630/medium/603606b6064363fbab81c4cff5f2dd6c.jpg",
-                "joined": "2022-12-31 04:31:55"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 912,
-            "target": 1467,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
