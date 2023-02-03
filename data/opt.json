@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-03T14:17:46.923Z",
-        "to": "2023-02-03T14:17:46.924Z"
+        "from": "2023-01-03T15:20:15.428Z",
+        "to": "2023-02-03T15:20:15.429Z"
     },
     "language": {
         "id": "zh-TW",
@@ -467,6 +467,28 @@
             ],
             "translated": 4,
             "target": 8,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15669427",
+                "username": "jerryyeh385",
+                "fullName": "Jerry Yeh (jerryyeh385)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15669427/medium/d45044d9cbca7ae630ace1e3b74c64e9.png",
+                "joined": "2023-02-03 09:03:06"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 4,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
