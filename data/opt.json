@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-05T14:16:14.569Z",
-        "to": "2023-02-05T14:16:14.570Z"
+        "from": "2023-01-05T15:18:10.562Z",
+        "to": "2023-02-05T15:18:10.563Z"
     },
     "language": {
         "id": "zh-TW",
@@ -35,6 +35,28 @@
         },
         {
             "user": {
+                "id": "15669427",
+                "username": "jerryyeh385",
+                "fullName": "Jerry Yeh (jerryyeh385)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15669427/medium/d45044d9cbca7ae630ace1e3b74c64e9.png",
+                "joined": "2023-02-03 09:03:06"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3776,
+            "target": 6322,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15238024",
                 "username": "blackrow.013",
                 "fullName": "BlacKrow _tw (blackrow.013)",
@@ -51,28 +73,6 @@
             "target": 7499,
             "approved": 0,
             "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15669427",
-                "username": "jerryyeh385",
-                "fullName": "Jerry Yeh (jerryyeh385)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15669427/medium/d45044d9cbca7ae630ace1e3b74c64e9.png",
-                "joined": "2023-02-03 09:03:06"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3489,
-            "target": 5840,
-            "approved": 0,
-            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -162,6 +162,28 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13104413",
+                "username": "yutayamamoto212",
+                "fullName": "陳裕太 (yutayamamoto212)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13104413/medium/0570fea75bbe3c95eeebcfcb7f67c3b9.png",
+                "joined": "2021-05-13 07:39:53"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 543,
+            "target": 876,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -382,28 +404,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "13104413",
-                "username": "yutayamamoto212",
-                "fullName": "陳裕太 (yutayamamoto212)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13104413/medium/0570fea75bbe3c95eeebcfcb7f67c3b9.png",
-                "joined": "2021-05-13 07:39:53"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 26,
-            "target": 48,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         },
