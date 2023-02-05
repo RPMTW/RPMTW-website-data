@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-05T12:34:24.885Z",
-        "to": "2023-02-05T12:34:24.886Z"
+        "from": "2023-01-05T13:22:00.076Z",
+        "to": "2023-02-05T13:22:00.109Z"
     },
     "language": {
         "id": "zh-TW",
@@ -69,8 +69,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2068,
-            "target": 3454,
+            "translated": 2605,
+            "target": 4433,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -113,8 +113,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1236,
-            "target": 2087,
+            "translated": 750,
+            "target": 1327,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -643,6 +643,28 @@
             ],
             "translated": 1,
             "target": 2,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15672251",
+                "username": "Kristolo0917",
+                "fullName": "Kristolo0917",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15672251/medium/d812fce449bc2defb911fe08201a4dde_default.png",
+                "joined": "2023-02-05 07:27:15"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1,
+            "target": 5,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
