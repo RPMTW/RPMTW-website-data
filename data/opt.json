@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-05T10:19:10.661Z",
-        "to": "2023-02-05T10:19:10.687Z"
+        "from": "2023-01-05T11:15:16.844Z",
+        "to": "2023-02-05T11:15:16.845Z"
     },
     "language": {
         "id": "zh-TW",
@@ -91,8 +91,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 801,
-            "target": 1323,
+            "translated": 1117,
+            "target": 1878,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -115,6 +115,28 @@
             ],
             "translated": 733,
             "target": 1073,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15560517",
+                "username": "iamxiazhi",
+                "fullName": "Mi estas John (iamxiazhi)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15560517/medium/3e03fad220777049d1a5d02c9749647e.png",
+                "joined": "2023-02-05 00:27:34"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 678,
+            "target": 1408,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -245,8 +267,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 261,
-            "target": 488,
+            "translated": 245,
+            "target": 457,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -269,28 +291,6 @@
             ],
             "translated": 227,
             "target": 391,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15560517",
-                "username": "iamxiazhi",
-                "fullName": "Mi estas John (iamxiazhi)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15560517/medium/3e03fad220777049d1a5d02c9749647e.png",
-                "joined": "2023-02-05 00:27:34"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 226,
-            "target": 465,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
