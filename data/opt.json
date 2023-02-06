@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-06T12:39:42.465Z",
-        "to": "2023-02-06T12:39:42.466Z"
+        "from": "2023-01-06T13:32:38.978Z",
+        "to": "2023-02-06T13:32:38.979Z"
     },
     "language": {
         "id": "zh-TW",
@@ -101,6 +101,28 @@
         },
         {
             "user": {
+                "id": "15672381",
+                "username": "Agent_01",
+                "fullName": "Agent (Agent_01)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15672381/medium/bad5c9b67928d908cdfd32e81b1468e8.png",
+                "joined": "2023-02-05 08:53:27"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 743,
+            "target": 1349,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14063879",
                 "username": "Xvideos8kUHD",
                 "fullName": "午夜的大叔 (Xvideos8kUHD)",
@@ -115,28 +137,6 @@
             ],
             "translated": 733,
             "target": 1073,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15672381",
-                "username": "Agent_01",
-                "fullName": "Agent (Agent_01)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15672381/medium/bad5c9b67928d908cdfd32e81b1468e8.png",
-                "joined": "2023-02-05 08:53:27"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 688,
-            "target": 1231,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
