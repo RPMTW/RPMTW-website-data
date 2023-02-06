@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-06T11:16:21.824Z",
-        "to": "2023-02-06T11:16:21.825Z"
+        "from": "2023-01-06T12:39:42.465Z",
+        "to": "2023-02-06T12:39:42.466Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,11 +25,11 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 31285,
-            "target": 52771,
+            "translated": 31460,
+            "target": 53183,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 6,
+            "positiveVotes": 23,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -91,10 +91,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3569,
-            "target": 6169,
+            "translated": 3631,
+            "target": 6274,
             "approved": 0,
-            "voted": 5,
+            "voted": 22,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 2
@@ -115,6 +115,28 @@
             ],
             "translated": 733,
             "target": 1073,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15672381",
+                "username": "Agent_01",
+                "fullName": "Agent (Agent_01)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15672381/medium/bad5c9b67928d908cdfd32e81b1468e8.png",
+                "joined": "2023-02-05 08:53:27"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 688,
+            "target": 1231,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -162,28 +184,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15672381",
-                "username": "Agent_01",
-                "fullName": "Agent (Agent_01)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15672381/medium/bad5c9b67928d908cdfd32e81b1468e8.png",
-                "joined": "2023-02-05 08:53:27"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 526,
-            "target": 932,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
