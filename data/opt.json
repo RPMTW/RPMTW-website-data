@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-08T03:23:48.759Z",
-        "to": "2023-02-08T03:23:48.760Z"
+        "from": "2023-01-08T04:24:56.566Z",
+        "to": "2023-02-08T04:24:56.567Z"
     },
     "language": {
         "id": "zh-TW",
@@ -25,8 +25,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 30420,
-            "target": 51352,
+            "translated": 30061,
+            "target": 50584,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 24,
@@ -69,8 +69,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 7367,
-            "target": 12236,
+            "translated": 9144,
+            "target": 14926,
             "approved": 0,
             "voted": 23,
             "positiveVotes": 0,
@@ -205,7 +205,7 @@
             "target": 876,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 1,
+            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -343,28 +343,6 @@
         },
         {
             "user": {
-                "id": "15085895",
-                "username": "littlefatcat1218",
-                "fullName": "胖貓 (littlefatcat1218)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085895/medium/f4e67b26d661ac488c84ac698408587f.png",
-                "joined": "2023-01-07 22:52:43"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 46,
-            "target": 97,
-            "approved": 0,
-            "voted": 3,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15118283",
                 "username": "Tsaitou",
                 "fullName": "Tsaitou",
@@ -425,6 +403,28 @@
             "target": 39,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15085895",
+                "username": "littlefatcat1218",
+                "fullName": "胖貓 (littlefatcat1218)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15085895/medium/f4e67b26d661ac488c84ac698408587f.png",
+                "joined": "2023-01-07 22:52:43"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 15,
+            "target": 24,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
