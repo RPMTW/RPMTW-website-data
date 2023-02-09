@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-09T16:28:26.258Z",
-        "to": "2023-02-09T16:28:26.258Z"
+        "from": "2023-01-09T17:18:33.841Z",
+        "to": "2023-02-09T17:18:33.843Z"
     },
     "language": {
         "id": "zh-TW",
@@ -79,6 +79,28 @@
         },
         {
             "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3804,
+            "target": 4259,
+            "approved": 4,
+            "voted": 0,
+            "positiveVotes": 3,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15238024",
                 "username": "blackrow.013",
                 "fullName": "BlacKrow _tw (blackrow.013)",
@@ -96,28 +118,6 @@
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3312,
-            "target": 3715,
-            "approved": 4,
-            "voted": 0,
-            "positiveVotes": 3,
             "negativeVotes": 0,
             "winning": 0
         },
