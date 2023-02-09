@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-09T10:20:46.831Z",
-        "to": "2023-02-09T10:20:46.831Z"
+        "from": "2023-01-09T11:17:08.886Z",
+        "to": "2023-02-09T11:17:08.888Z"
     },
     "language": {
         "id": "zh-TW",
@@ -387,6 +387,28 @@
         },
         {
             "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 26,
+            "target": 48,
+            "approved": 2,
+            "voted": 0,
+            "positiveVotes": 3,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15634115",
                 "username": "only10076",
                 "fullName": "only10076",
@@ -448,28 +470,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 7,
-            "target": 11,
-            "approved": 2,
-            "voted": 0,
-            "positiveVotes": 3,
             "negativeVotes": 0,
             "winning": 0
         },
