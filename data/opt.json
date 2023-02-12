@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-12T09:18:14.356Z",
-        "to": "2023-02-12T09:18:14.389Z"
+        "from": "2023-01-12T10:19:49.356Z",
+        "to": "2023-02-12T10:19:49.357Z"
     },
     "language": {
         "id": "zh-TW",
@@ -656,6 +656,28 @@
                 "fullName": "MichaelShing (micle0723)",
                 "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15648709/medium/4ef5f66c8e80c60b086c23fcea019bf8.jpeg",
                 "joined": "2023-01-23 00:49:09"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 5,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13884189",
+                "username": "tnt7774966",
+                "fullName": "T NT (tnt7774966)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13884189/medium/93d0b0ea91f1d02645afe2decc2b9314.jpg",
+                "joined": "2023-02-12 05:13:50"
             },
             "languages": [
                 {
