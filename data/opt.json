@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-22T10:22:43.040Z",
-        "to": "2023-02-22T10:22:43.055Z"
+        "from": "2023-01-22T11:16:56.157Z",
+        "to": "2023-02-22T11:16:56.158Z"
     },
     "language": {
         "id": "zh-TW",
@@ -233,28 +233,6 @@
         },
         {
             "user": {
-                "id": "14685566",
-                "username": "wer12369qaz15963",
-                "fullName": "綠色羊駝 (wer12369qaz15963)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14685566/medium/62691dbe3bfb3e745f5ab437f8956440.jpeg",
-                "joined": "2021-03-27 05:47:11"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 227,
-            "target": 391,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14815244",
                 "username": "Nanamiya738",
                 "fullName": "Nanamiya738",
@@ -269,6 +247,28 @@
             ],
             "translated": 225,
             "target": 358,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14685566",
+                "username": "wer12369qaz15963",
+                "fullName": "綠色羊駝 (wer12369qaz15963)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14685566/medium/62691dbe3bfb3e745f5ab437f8956440.jpeg",
+                "joined": "2021-03-27 05:47:11"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 197,
+            "target": 344,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
