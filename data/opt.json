@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-27T11:17:24.462Z",
-        "to": "2023-02-27T11:17:24.463Z"
+        "from": "2023-01-27T12:41:03.649Z",
+        "to": "2023-02-27T12:41:03.650Z"
     },
     "language": {
         "id": "zh-TW",
@@ -189,28 +189,6 @@
         },
         {
             "user": {
-                "id": "15238024",
-                "username": "blackrow.013",
-                "fullName": "BlacKrow _tw (blackrow.013)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15238024/medium/b1ddc19db39c3c840808178e8cf6b972.jpeg",
-                "joined": "2022-04-19 17:49:13"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 573,
-            "target": 1326,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13104413",
                 "username": "yutayamamoto212",
                 "fullName": "陳裕太 (yutayamamoto212)",
@@ -247,6 +225,28 @@
             ],
             "translated": 511,
             "target": 829,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15238024",
+                "username": "blackrow.013",
+                "fullName": "BlacKrow _tw (blackrow.013)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15238024/medium/b1ddc19db39c3c840808178e8cf6b972.jpeg",
+                "joined": "2022-04-19 17:49:13"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 509,
+            "target": 1196,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
