@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-28T06:26:19.185Z",
-        "to": "2023-02-28T06:26:19.186Z"
+        "from": "2023-01-28T07:18:34.646Z",
+        "to": "2023-02-28T07:18:34.730Z"
     },
     "language": {
         "id": "zh-TW",
@@ -135,8 +135,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 3856,
-            "target": 4342,
+            "translated": 4499,
+            "target": 5399,
             "approved": 24,
             "voted": 0,
             "positiveVotes": 1,
@@ -381,6 +381,28 @@
             "target": 8,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14851288",
+                "username": "jackychiu0101",
+                "fullName": "窮困潦島's 毫窄? (jackychiu0101)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14851288/medium/88e50ae33f1b7c6c924149b4c7b6fb32.png",
+                "joined": "2021-11-21 00:37:53"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 2,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
