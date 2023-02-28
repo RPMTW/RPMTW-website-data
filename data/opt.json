@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-01-28T11:17:07.156Z",
-        "to": "2023-02-28T11:17:07.156Z"
+        "from": "2023-01-28T12:39:52.429Z",
+        "to": "2023-02-28T12:39:52.431Z"
     },
     "language": {
         "id": "zh-TW",
@@ -145,6 +145,28 @@
         },
         {
             "user": {
+                "id": "14851288",
+                "username": "jackychiu0101",
+                "fullName": "窮困潦島's 毫窄? (jackychiu0101)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14851288/medium/88e50ae33f1b7c6c924149b4c7b6fb32.png",
+                "joined": "2021-11-21 00:37:53"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1042,
+            "target": 1937,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15672381",
                 "username": "Agent_01",
                 "fullName": "Agent (Agent_01)",
@@ -159,28 +181,6 @@
             ],
             "translated": 1035,
             "target": 1887,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14851288",
-                "username": "jackychiu0101",
-                "fullName": "窮困潦島's 毫窄? (jackychiu0101)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14851288/medium/88e50ae33f1b7c6c924149b4c7b6fb32.png",
-                "joined": "2021-11-21 00:37:53"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 846,
-            "target": 1562,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
