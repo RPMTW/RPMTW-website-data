@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-02-01T04:25:27.217Z",
-        "to": "2023-03-01T04:25:27.218Z"
+        "from": "2023-02-01T05:19:24.240Z",
+        "to": "2023-03-01T05:19:24.240Z"
     },
     "language": {
         "id": "zh-TW",
@@ -247,6 +247,28 @@
             ],
             "translated": 225,
             "target": 358,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13374642",
+                "username": "JackyChi",
+                "fullName": "早苗千アウト (JackyChi)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13374642/medium/97f30a9bc094b972b19236e71bfd09f9.jpg",
+                "joined": "2021-11-19 22:05:35"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 123,
+            "target": 201,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
