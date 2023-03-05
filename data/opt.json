@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-02-05T14:17:05.087Z",
-        "to": "2023-03-05T14:17:05.088Z"
+        "from": "2023-02-05T15:19:00.174Z",
+        "to": "2023-03-05T15:19:00.175Z"
     },
     "language": {
         "id": "zh-TW",
@@ -35,28 +35,6 @@
         },
         {
             "user": {
-                "id": "15669427",
-                "username": "jerryyeh385",
-                "fullName": "Jerry Yeh (jerryyeh385)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15669427/medium/d45044d9cbca7ae630ace1e3b74c64e9.png",
-                "joined": "2023-02-03 09:03:06"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 12992,
-            "target": 20433,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15560517",
                 "username": "iamxiazhi",
                 "fullName": "iamxiazhi",
@@ -76,6 +54,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 2
+        },
+        {
+            "user": {
+                "id": "15669427",
+                "username": "jerryyeh385",
+                "fullName": "Jerry Yeh (jerryyeh385)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15669427/medium/d45044d9cbca7ae630ace1e3b74c64e9.png",
+                "joined": "2023-02-03 09:03:06"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 12679,
+            "target": 19909,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
         },
         {
             "user": {
@@ -208,28 +208,6 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 1
-        },
-        {
-            "user": {
-                "id": "13104413",
-                "username": "yutayamamoto212",
-                "fullName": "陳裕太 (yutayamamoto212)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13104413/medium/0570fea75bbe3c95eeebcfcb7f67c3b9.png",
-                "joined": "2021-05-13 07:39:53"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 503,
-            "target": 800,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 16
         },
         {
             "user": {
