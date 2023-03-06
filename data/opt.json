@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-02-05T23:19:27.044Z",
-        "to": "2023-03-05T23:19:27.045Z"
+        "from": "2023-02-06T01:49:10.379Z",
+        "to": "2023-03-06T01:49:10.380Z"
     },
     "language": {
         "id": "zh-TW",
@@ -47,8 +47,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 12745,
-            "target": 20281,
+            "translated": 12431,
+            "target": 19660,
             "approved": 0,
             "voted": 24,
             "positiveVotes": 0,
@@ -357,6 +357,28 @@
             ],
             "translated": 10,
             "target": 18,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "12335782",
+                "username": "sisura",
+                "fullName": "SimoLiao (sisura)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/12335782/medium/96e64ddb257cec83eed5e4486b092f3a_default.png",
+                "joined": "2021-12-19 21:08:02"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 4,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
