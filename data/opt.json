@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-02-09T17:19:16.810Z",
-        "to": "2023-03-09T17:19:16.827Z"
+        "from": "2023-02-09T18:24:23.432Z",
+        "to": "2023-03-09T18:24:23.434Z"
     },
     "language": {
         "id": "zh-TW",
@@ -35,28 +35,6 @@
         },
         {
             "user": {
-                "id": "15672459",
-                "username": "Snowyue",
-                "fullName": "Snowyue",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15672459/medium/fe9058f1a20c27fc064fc1b1c5929a96_default.png",
-                "joined": "2023-02-05 10:13:54"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 6086,
-            "target": 12096,
-            "approved": 0,
-            "voted": 40,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "13235503",
                 "username": "rex70764",
                 "fullName": "Gosuto (rex70764)",
@@ -73,6 +51,28 @@
             "target": 8955,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15672459",
+                "username": "Snowyue",
+                "fullName": "Snowyue",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15672459/medium/fe9058f1a20c27fc064fc1b1c5929a96_default.png",
+                "joined": "2023-02-05 10:13:54"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 5801,
+            "target": 11673,
+            "approved": 0,
+            "voted": 40,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
