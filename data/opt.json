@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-02-10T19:15:12.473Z",
-        "to": "2023-03-10T19:15:12.491Z"
+        "from": "2023-02-10T20:20:36.492Z",
+        "to": "2023-03-10T20:20:36.494Z"
     },
     "language": {
         "id": "zh-TW",
@@ -79,28 +79,6 @@
         },
         {
             "user": {
-                "id": "15672459",
-                "username": "Snowyue",
-                "fullName": "Snowyue",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15672459/medium/fe9058f1a20c27fc064fc1b1c5929a96_default.png",
-                "joined": "2023-02-05 10:13:54"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3234,
-            "target": 6413,
-            "approved": 0,
-            "voted": 40,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15560517",
                 "username": "iamxiazhi",
                 "fullName": "iamxiazhi",
@@ -117,6 +95,28 @@
             "target": 4516,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15672459",
+                "username": "Snowyue",
+                "fullName": "Snowyue",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15672459/medium/fe9058f1a20c27fc064fc1b1c5929a96_default.png",
+                "joined": "2023-02-05 10:13:54"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2789,
+            "target": 5636,
+            "approved": 0,
+            "voted": 40,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
