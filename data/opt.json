@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-02-19T23:18:48.674Z",
-        "to": "2023-03-19T23:18:48.675Z"
+        "from": "2023-02-20T01:41:57.677Z",
+        "to": "2023-03-20T01:41:57.678Z"
     },
     "language": {
         "id": "zh-TW",
@@ -123,28 +123,6 @@
         },
         {
             "user": {
-                "id": "15560517",
-                "username": "iamxiazhi",
-                "fullName": "iamxiazhi",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15560517/medium/3e03fad220777049d1a5d02c9749647e.png",
-                "joined": "2023-02-05 00:27:34"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1061,
-            "target": 1709,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15672381",
                 "username": "Agent_01",
                 "fullName": "Agent (Agent_01)",
@@ -161,6 +139,28 @@
             "target": 1299,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15560517",
+                "username": "iamxiazhi",
+                "fullName": "iamxiazhi",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15560517/medium/3e03fad220777049d1a5d02c9749647e.png",
+                "joined": "2023-02-05 00:27:34"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 778,
+            "target": 1271,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
