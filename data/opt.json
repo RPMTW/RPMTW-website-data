@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-02-20T15:21:48.036Z",
-        "to": "2023-03-20T15:21:48.036Z"
+        "from": "2023-02-20T16:28:56.973Z",
+        "to": "2023-03-20T16:28:56.975Z"
     },
     "language": {
         "id": "zh-TW",
@@ -167,6 +167,28 @@
         },
         {
             "user": {
+                "id": "14776122",
+                "username": "__Luminous__",
+                "fullName": "__Luminous__",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14776122/medium/88f1f027992e5aed43e62120724290ab.jpg",
+                "joined": "2021-05-28 05:09:36"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 268,
+            "target": 371,
+            "approved": 0,
+            "voted": 2,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "13374642",
                 "username": "JackyChi",
                 "fullName": "早苗千アウト (JackyChi)",
@@ -255,6 +277,28 @@
         },
         {
             "user": {
+                "id": "15640041",
+                "username": "yuxiang70052",
+                "fullName": "沁天 (yuxiang70052)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15640041/medium/0282ab4d49a3051dfdc025defe0ae52b.jpeg",
+                "joined": "2023-03-20 11:36:01"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 10,
+            "target": 26,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15370924",
                 "username": "s0711019.kh",
                 "fullName": "袁晨瀚 (s0711019.kh)",
@@ -315,28 +359,6 @@
             "target": 7,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14776122",
-                "username": "__Luminous__",
-                "fullName": "__Luminous__",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14776122/medium/88f1f027992e5aed43e62120724290ab.jpg",
-                "joined": "2021-05-28 05:09:36"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 5,
-            "approved": 0,
-            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
