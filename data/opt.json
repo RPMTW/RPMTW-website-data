@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-02-26T13:20:22.339Z",
-        "to": "2023-03-26T13:20:22.340Z"
+        "from": "2023-02-26T14:15:21.022Z",
+        "to": "2023-03-26T14:15:21.036Z"
     },
     "language": {
         "id": "zh-TW",
@@ -445,6 +445,28 @@
             ],
             "translated": 2,
             "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15101427",
+                "username": "MAGd_",
+                "fullName": "d_ MAG (MAGd_)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15101427/medium/fe5752cfe2fef818ba05431d21ee5acf.png",
+                "joined": "2023-03-25 05:58:53"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 2,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
