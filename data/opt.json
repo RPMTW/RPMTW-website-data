@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-03-03T23:16:38.952Z",
-        "to": "2023-03-31T23:16:38.953Z"
+        "from": "2023-03-01T01:34:05.815Z",
+        "to": "2023-04-01T01:34:05.817Z"
     },
     "language": {
         "id": "zh-TW",
@@ -69,13 +69,13 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 885,
-            "target": 1437,
+            "translated": 1540,
+            "target": 2601,
             "approved": 0,
             "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 6,
-            "winning": 0
+            "winning": 1
         },
         {
             "user": {
@@ -115,6 +115,50 @@
             ],
             "translated": 529,
             "target": 856,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14851288",
+                "username": "Myster",
+                "fullName": "神秘陌生人 (Myster)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14851288/medium/88e50ae33f1b7c6c924149b4c7b6fb32.png",
+                "joined": "2021-11-21 00:37:53"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 301,
+            "target": 525,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "13374642",
+                "username": "JackyChi",
+                "fullName": "早苗千アウト (JackyChi)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/13374642/medium/97f30a9bc094b972b19236e71bfd09f9.jpg",
+                "joined": "2021-11-19 22:05:35"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 123,
+            "target": 201,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -179,9 +223,9 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 22,
-            "target": 61,
-            "approved": 0,
+            "translated": 24,
+            "target": 66,
+            "approved": 1,
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 23,
@@ -291,6 +335,28 @@
             ],
             "translated": 3,
             "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14786994",
+                "username": "jjason0217",
+                "fullName": "jjason0217",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786994/medium/1009eef244a9e3f315f0d5890a394b3a_default.png",
+                "joined": "2023-03-01 03:52:13"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 7,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
