@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-03-09T02:33:00.339Z",
-        "to": "2023-04-09T02:33:00.351Z"
+        "from": "2023-03-09T03:17:41.878Z",
+        "to": "2023-04-09T03:17:41.879Z"
     },
     "language": {
         "id": "zh-TW",
@@ -189,6 +189,28 @@
         },
         {
             "user": {
+                "id": "15370924",
+                "username": "s0711019.kh",
+                "fullName": "袁晨瀚 (s0711019.kh)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15370924/medium/1c9b71308486b0fa86426eb3c12fcd94.png",
+                "joined": "2022-11-29 10:05:45"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 10,
+            "target": 18,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15640041",
                 "username": "yuxiang70052",
                 "fullName": "沁天 (yuxiang70052)",
@@ -203,28 +225,6 @@
             ],
             "translated": 10,
             "target": 26,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15370924",
-                "username": "s0711019.kh",
-                "fullName": "袁晨瀚 (s0711019.kh)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15370924/medium/1c9b71308486b0fa86426eb3c12fcd94.png",
-                "joined": "2022-11-29 10:05:45"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 8,
-            "target": 15,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
