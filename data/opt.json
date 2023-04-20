@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-03-20T15:18:34.463Z",
-        "to": "2023-04-20T15:18:34.464Z"
+        "from": "2023-03-20T16:23:43.603Z",
+        "to": "2023-04-20T16:23:43.606Z"
     },
     "language": {
         "id": "zh-TW",
@@ -47,10 +47,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 2713,
-            "target": 4091,
+            "translated": 2447,
+            "target": 3731,
             "approved": 0,
-            "voted": 83,
+            "voted": 82,
             "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
@@ -225,28 +225,6 @@
             ],
             "translated": 19,
             "target": 43,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15640041",
-                "username": "yuxiang70052",
-                "fullName": "沁天 (yuxiang70052)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15640041/medium/0282ab4d49a3051dfdc025defe0ae52b.jpeg",
-                "joined": "2023-03-20 11:36:01"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 10,
-            "target": 26,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
