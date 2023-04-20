@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-03-20T22:16:58.218Z",
-        "to": "2023-04-20T22:16:58.230Z"
+        "from": "2023-03-20T23:18:03.026Z",
+        "to": "2023-04-20T23:18:03.027Z"
     },
     "language": {
         "id": "zh-TW",
@@ -30,29 +30,7 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
-            "negativeVotes": 23,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14776122",
-                "username": "__Luminous__",
-                "fullName": "__Luminous__",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14776122/medium/88f1f027992e5aed43e62120724290ab.jpg",
-                "joined": "2021-05-28 05:09:36"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1444,
-            "target": 2142,
-            "approved": 0,
-            "voted": 68,
-            "positiveVotes": 1,
-            "negativeVotes": 0,
+            "negativeVotes": 14,
             "winning": 0
         },
         {
@@ -79,6 +57,28 @@
         },
         {
             "user": {
+                "id": "14776122",
+                "username": "__Luminous__",
+                "fullName": "__Luminous__",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14776122/medium/88f1f027992e5aed43e62120724290ab.jpg",
+                "joined": "2021-05-28 05:09:36"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1110,
+            "target": 1623,
+            "approved": 0,
+            "voted": 47,
+            "positiveVotes": 1,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14815244",
                 "username": "Nanamiya738",
                 "fullName": "Nanamiya738",
@@ -96,7 +96,7 @@
             "approved": 0,
             "voted": 4,
             "positiveVotes": 4,
-            "negativeVotes": 6,
+            "negativeVotes": 4,
             "winning": 0
         },
         {
