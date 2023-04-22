@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-03-22T14:15:10.501Z",
-        "to": "2023-04-22T14:15:10.503Z"
+        "from": "2023-03-22T15:17:01.570Z",
+        "to": "2023-04-22T15:17:01.571Z"
     },
     "language": {
         "id": "zh-TW",
@@ -167,6 +167,28 @@
         },
         {
             "user": {
+                "id": "15352416",
+                "username": "NoahsarkTaiwan",
+                "fullName": "NoahsarkTaiwan",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15352416/medium/83851229a27890c492cfded2353b722e.jpg",
+                "joined": "2022-07-12 00:04:27"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 56,
+            "target": 119,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 1,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14808102",
                 "username": "ted09080037",
                 "fullName": "Happy-send (ted09080037)",
@@ -184,28 +206,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15352416",
-                "username": "NoahsarkTaiwan",
-                "fullName": "NoahsarkTaiwan",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15352416/medium/83851229a27890c492cfded2353b722e.jpg",
-                "joined": "2022-07-12 00:04:27"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 47,
-            "target": 104,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         },
