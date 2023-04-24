@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-03-24T05:17:34.889Z",
-        "to": "2023-04-24T05:17:34.891Z"
+        "from": "2023-03-24T06:24:03.374Z",
+        "to": "2023-04-24T06:24:03.509Z"
     },
     "language": {
         "id": "zh-TW",
@@ -101,28 +101,6 @@
         },
         {
             "user": {
-                "id": "15560517",
-                "username": "iamxiazhi",
-                "fullName": "iamxiazhi",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15560517/medium/3e03fad220777049d1a5d02c9749647e.png",
-                "joined": "2023-02-05 00:27:34"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 137,
-            "target": 189,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15462014",
                 "username": "dawnfire9487",
                 "fullName": "晨火 (dawnfire9487)",
@@ -139,6 +117,28 @@
             "target": 221,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15560517",
+                "username": "iamxiazhi",
+                "fullName": "iamxiazhi",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15560517/medium/3e03fad220777049d1a5d02c9749647e.png",
+                "joined": "2023-02-05 00:27:34"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 75,
+            "target": 127,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
