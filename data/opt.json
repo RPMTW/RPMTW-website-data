@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-04-05T02:32:11.995Z",
-        "to": "2023-05-05T02:32:11.996Z"
+        "from": "2023-04-05T03:18:20.343Z",
+        "to": "2023-05-05T03:18:20.344Z"
     },
     "language": {
         "id": "zh-TW",
@@ -49,6 +49,28 @@
             ],
             "translated": 4904,
             "target": 8326,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15770181",
+                "username": "a135797479747",
+                "fullName": "哲學維他命 (a135797479747)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15770181/medium/5a9f925b26a6605005e9d49d89136701.png",
+                "joined": "2023-05-04 07:49:54"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4037,
+            "target": 6242,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
