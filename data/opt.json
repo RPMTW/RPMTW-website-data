@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-04-09T15:18:34.839Z",
-        "to": "2023-05-09T15:18:34.840Z"
+        "from": "2023-04-09T16:22:45.626Z",
+        "to": "2023-05-09T16:22:45.627Z"
     },
     "language": {
         "id": "zh-TW",
@@ -49,28 +49,6 @@
             ],
             "translated": 7858,
             "target": 12577,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14504298",
-                "username": "SiongSng",
-                "fullName": "菘菘 (SiongSng)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
-                "joined": "2021-02-19 05:02:03"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3253,
-            "target": 5481,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -189,6 +167,28 @@
         },
         {
             "user": {
+                "id": "15086855",
+                "username": "blueslime0510",
+                "fullName": "藍色史萊姆 (blueslime0510)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15086855/medium/504ac9fff92c6a61bf756fcd402c7507.png",
+                "joined": "2023-05-09 11:17:57"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 71,
+            "target": 102,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14808102",
                 "username": "ted09080037",
                 "fullName": "Happy-send (ted09080037)",
@@ -203,6 +203,28 @@
             ],
             "translated": 49,
             "target": 81,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14504298",
+                "username": "SiongSng",
+                "fullName": "菘菘 (SiongSng)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14504298/medium/e4ca23af7bb8643e6a54ee1b0828fb6b.png",
+                "joined": "2021-02-19 05:02:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 42,
+            "target": 69,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -294,28 +316,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15086855",
-                "username": "blueslime0510",
-                "fullName": "藍色史萊姆 (blueslime0510)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15086855/medium/504ac9fff92c6a61bf756fcd402c7507.png",
-                "joined": "2023-05-09 11:17:57"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 4,
-            "target": 6,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
