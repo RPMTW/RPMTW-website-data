@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-04-09T14:17:29.623Z",
-        "to": "2023-05-09T14:17:29.637Z"
+        "from": "2023-04-09T15:18:34.839Z",
+        "to": "2023-05-09T15:18:34.840Z"
     },
     "language": {
         "id": "zh-TW",
@@ -69,8 +69,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 4904,
-            "target": 8326,
+            "translated": 3253,
+            "target": 5481,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -294,6 +294,28 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15086855",
+                "username": "blueslime0510",
+                "fullName": "藍色史萊姆 (blueslime0510)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15086855/medium/504ac9fff92c6a61bf756fcd402c7507.png",
+                "joined": "2023-05-09 11:17:57"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4,
+            "target": 6,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
