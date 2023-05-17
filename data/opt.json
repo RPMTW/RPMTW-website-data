@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-04-17T20:17:51.220Z",
-        "to": "2023-05-17T20:17:51.221Z"
+        "from": "2023-04-17T21:14:46.274Z",
+        "to": "2023-05-17T21:14:46.275Z"
     },
     "language": {
         "id": "zh-TW",
@@ -277,6 +277,28 @@
         },
         {
             "user": {
+                "id": "15829085",
+                "username": "steven1999111",
+                "fullName": "BadBear (steven1999111)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15829085/medium/1ec9cbada0750c6a25e41efa59e7df73.jpeg",
+                "joined": "2023-05-13 07:15:56"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 29,
+            "target": 48,
+            "approved": 0,
+            "voted": 4,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15765687",
                 "username": "yt.rekindletw",
                 "fullName": "yt.rekindletw",
@@ -337,28 +359,6 @@
             "target": 3,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15829085",
-                "username": "steven1999111",
-                "fullName": "BadBear (steven1999111)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15829085/medium/1ec9cbada0750c6a25e41efa59e7df73.jpeg",
-                "joined": "2023-05-13 07:15:56"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 2,
-            "target": 4,
-            "approved": 0,
-            "voted": 4,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
