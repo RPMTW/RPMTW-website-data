@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-05-02T19:13:10.918Z",
-        "to": "2023-06-02T19:13:10.920Z"
+        "from": "2023-05-02T20:17:28.945Z",
+        "to": "2023-06-02T20:17:28.947Z"
     },
     "language": {
         "id": "zh-TW",
@@ -157,10 +157,10 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 280,
-            "target": 496,
+            "translated": 367,
+            "target": 702,
             "approved": 0,
-            "voted": 4,
+            "voted": 5,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
@@ -181,28 +181,6 @@
             ],
             "translated": 222,
             "target": 357,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15812159",
-                "username": "qwewq198",
-                "fullName": "qwewq198",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15812159/medium/9124cb26f8b9a749ce9b4cfe60d8b708.png",
-                "joined": "2023-05-02 10:06:47"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 171,
-            "target": 336,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -247,6 +225,28 @@
             ],
             "translated": 57,
             "target": 96,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15812159",
+                "username": "qwewq198",
+                "fullName": "qwewq198",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15812159/medium/9124cb26f8b9a749ce9b4cfe60d8b708.png",
+                "joined": "2023-05-02 10:06:47"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 54,
+            "target": 133,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
