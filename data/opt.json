@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-05-02T21:15:01.483Z",
-        "to": "2023-06-02T21:15:01.484Z"
+        "from": "2023-05-02T22:15:56.944Z",
+        "to": "2023-06-02T22:15:56.945Z"
     },
     "language": {
         "id": "zh-TW",
@@ -101,6 +101,28 @@
         },
         {
             "user": {
+                "id": "15345080",
+                "username": "Allen0411",
+                "fullName": "Allen0411",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15345080/medium/376644622dc7b90e49b5aecb629d90e1.png",
+                "joined": "2022-07-06 11:21:32"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 760,
+            "target": 1493,
+            "approved": 0,
+            "voted": 5,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15441546",
                 "username": "ARK3302",
                 "fullName": "ARK3302",
@@ -139,28 +161,6 @@
             "target": 1044,
             "approved": 0,
             "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15345080",
-                "username": "Allen0411",
-                "fullName": "Allen0411",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15345080/medium/376644622dc7b90e49b5aecb629d90e1.png",
-                "joined": "2022-07-06 11:21:32"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 549,
-            "target": 1084,
-            "approved": 0,
-            "voted": 5,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
