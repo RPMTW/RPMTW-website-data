@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-05-04T12:32:25.926Z",
-        "to": "2023-06-04T12:32:25.937Z"
+        "from": "2023-05-04T13:18:21.560Z",
+        "to": "2023-06-04T13:18:21.561Z"
     },
     "language": {
         "id": "zh-TW",
@@ -189,6 +189,28 @@
         },
         {
             "user": {
+                "id": "14786912",
+                "username": "MirrorInLake",
+                "fullName": "MirrorInLake",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786912/medium/0b8448ab251b3e3f325296d4e5a89d06_default.png",
+                "joined": "2021-06-05 04:17:55"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 291,
+            "target": 467,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14767678",
                 "username": "kuanTW",
                 "fullName": "寬kuan (kuanTW)",
@@ -203,28 +225,6 @@
             ],
             "translated": 222,
             "target": 357,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14786912",
-                "username": "MirrorInLake",
-                "fullName": "MirrorInLake",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14786912/medium/0b8448ab251b3e3f325296d4e5a89d06_default.png",
-                "joined": "2021-06-05 04:17:55"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 77,
-            "target": 103,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
