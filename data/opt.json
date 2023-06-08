@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-05-08T13:25:50.552Z",
-        "to": "2023-06-08T13:25:50.554Z"
+        "from": "2023-05-08T14:15:58.458Z",
+        "to": "2023-06-08T14:15:58.459Z"
     },
     "language": {
         "id": "zh-TW",
@@ -423,6 +423,28 @@
             ],
             "translated": 2,
             "target": 5,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15866905",
+                "username": "a0985882002",
+                "fullName": "MuYi (a0985882002)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15866905/medium/2f024c416b0425f74d688d61f46f3a59.jpeg",
+                "joined": "2023-06-08 09:49:38"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 3,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
