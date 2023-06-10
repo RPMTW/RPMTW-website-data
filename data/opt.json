@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-05-09T23:17:45.726Z",
-        "to": "2023-06-09T23:17:45.727Z"
+        "from": "2023-05-10T01:43:09.177Z",
+        "to": "2023-06-10T01:43:09.178Z"
     },
     "language": {
         "id": "zh-TW",
@@ -118,7 +118,7 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 5,
-            "negativeVotes": 0,
+            "negativeVotes": 5,
             "winning": 0
         },
         {
@@ -277,6 +277,28 @@
         },
         {
             "user": {
+                "id": "15434450",
+                "username": "notlin4",
+                "fullName": "notlin4",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15434450/medium/bf2311cb92f429b2420bf4cbba2e5124.png",
+                "joined": "2023-04-15 01:56:02"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 52,
+            "target": 94,
+            "approved": 0,
+            "voted": 7,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "14815244",
                 "username": "Nanamiya738",
                 "fullName": "Nanamiya738",
@@ -293,7 +315,7 @@
             "target": 20,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
+            "positiveVotes": 2,
             "negativeVotes": 0,
             "winning": 0
         },
