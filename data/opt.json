@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-05-15T01:43:06.805Z",
-        "to": "2023-06-15T01:43:06.806Z"
+        "from": "2023-05-15T02:41:15.423Z",
+        "to": "2023-06-15T02:41:15.424Z"
     },
     "language": {
         "id": "zh-TW",
@@ -57,28 +57,6 @@
         },
         {
             "user": {
-                "id": "14093757",
-                "username": "Puika",
-                "fullName": "Puika",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14093757/medium/1ef5f08933a98d82b571f62e7447242d_default.png",
-                "joined": "2023-05-14 22:04:45"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1926,
-            "target": 3899,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15770181",
                 "username": "a135797479747",
                 "fullName": "哲學維他命 (a135797479747)",
@@ -119,6 +97,28 @@
             "voted": 0,
             "positiveVotes": 1,
             "negativeVotes": 36,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14093757",
+                "username": "Puika",
+                "fullName": "Puika",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14093757/medium/1ef5f08933a98d82b571f62e7447242d_default.png",
+                "joined": "2023-05-14 22:04:45"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1803,
+            "target": 3693,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
             "winning": 0
         },
         {
