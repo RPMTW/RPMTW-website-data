@@ -3,14 +3,36 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-05-15T08:21:15.324Z",
-        "to": "2023-06-15T08:21:15.337Z"
+        "from": "2023-05-15T09:17:01.811Z",
+        "to": "2023-06-15T09:17:01.812Z"
     },
     "language": {
         "id": "zh-TW",
         "name": "Chinese Traditional"
     },
     "data": [
+        {
+            "user": {
+                "id": "15434450",
+                "username": "notlin4",
+                "fullName": "notlin4",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15434450/medium/bf2311cb92f429b2420bf4cbba2e5124.png",
+                "joined": "2023-04-15 01:56:02"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 19994,
+            "target": 32500,
+            "approved": 0,
+            "voted": 54,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
         {
             "user": {
                 "id": "14782632",
@@ -145,28 +167,6 @@
         },
         {
             "user": {
-                "id": "14093757",
-                "username": "Puika",
-                "fullName": "Puika",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14093757/medium/1ef5f08933a98d82b571f62e7447242d_default.png",
-                "joined": "2023-05-14 22:04:45"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 630,
-            "target": 1296,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14786912",
                 "username": "MirrorInLake",
                 "fullName": "MirrorInLake",
@@ -189,28 +189,6 @@
         },
         {
             "user": {
-                "id": "15434450",
-                "username": "notlin4",
-                "fullName": "notlin4",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15434450/medium/bf2311cb92f429b2420bf4cbba2e5124.png",
-                "joined": "2023-04-15 01:56:02"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 376,
-            "target": 630,
-            "approved": 0,
-            "voted": 46,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15727665",
                 "username": "timmy891103",
                 "fullName": "陳俊廷 (timmy891103)",
@@ -225,6 +203,28 @@
             ],
             "translated": 135,
             "target": 265,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14093757",
+                "username": "Puika",
+                "fullName": "Puika",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14093757/medium/1ef5f08933a98d82b571f62e7447242d_default.png",
+                "joined": "2023-05-14 22:04:45"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 94,
+            "target": 191,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
