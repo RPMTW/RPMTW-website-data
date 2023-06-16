@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-05-16T10:18:33.803Z",
-        "to": "2023-06-16T10:18:33.805Z"
+        "from": "2023-05-16T11:14:02.879Z",
+        "to": "2023-06-16T11:14:02.881Z"
     },
     "language": {
         "id": "zh-TW",
@@ -157,8 +157,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 1062,
-            "target": 1920,
+            "translated": 1065,
+            "target": 1927,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -211,6 +211,28 @@
         },
         {
             "user": {
+                "id": "15727665",
+                "username": "timmy891103",
+                "fullName": "陳俊廷 (timmy891103)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15727665/medium/9fb62ed82c4fd369c5da77e54011fdaf.jpeg",
+                "joined": "2023-03-07 06:56:25"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 221,
+            "target": 431,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15557917",
                 "username": "Melanchol",
                 "fullName": "Melanchol",
@@ -225,28 +247,6 @@
             ],
             "translated": 184,
             "target": 454,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15727665",
-                "username": "timmy891103",
-                "fullName": "陳俊廷 (timmy891103)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15727665/medium/9fb62ed82c4fd369c5da77e54011fdaf.jpeg",
-                "joined": "2023-03-07 06:56:25"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 135,
-            "target": 265,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
