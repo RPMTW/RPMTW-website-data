@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-05-21T17:15:40.266Z",
-        "to": "2023-06-21T17:15:40.268Z"
+        "from": "2023-05-21T18:21:31.529Z",
+        "to": "2023-06-21T18:21:31.531Z"
     },
     "language": {
         "id": "zh-TW",
@@ -343,28 +343,6 @@
         },
         {
             "user": {
-                "id": "15840917",
-                "username": "leichtsardova",
-                "fullName": "萊赫特薩爾多瓦 (leichtsardova)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15840917/medium/776979f91d9b4f13ff3eaa65d96f69c0.gif",
-                "joined": "2023-05-21 13:22:51"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 7,
-            "target": 16,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15868077",
                 "username": "xiaox3705",
                 "fullName": "小祥 (xiaox3705)",
@@ -403,6 +381,28 @@
             "target": 11,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15840917",
+                "username": "leichtsardova",
+                "fullName": "萊赫特薩爾多瓦 (leichtsardova)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15840917/medium/776979f91d9b4f13ff3eaa65d96f69c0.gif",
+                "joined": "2023-05-21 13:22:51"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4,
+            "target": 8,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
