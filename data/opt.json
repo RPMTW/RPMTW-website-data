@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-05-22T23:20:55.773Z",
-        "to": "2023-06-22T23:20:55.774Z"
+        "from": "2023-05-23T01:55:26.870Z",
+        "to": "2023-06-23T01:55:26.871Z"
     },
     "language": {
         "id": "zh-TW",
@@ -335,6 +335,28 @@
             ],
             "translated": 25,
             "target": 42,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15392158",
+                "username": "yoyo0515_TW",
+                "fullName": "Yoyo Yang (yoyo0515_TW)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15392158/medium/06d45792d36dbcdd344624db7aa586a2.jpeg",
+                "joined": "2022-08-06 20:48:42"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 8,
+            "target": 15,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
