@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-06-04T09:20:01.481Z",
-        "to": "2023-07-04T09:20:01.497Z"
+        "from": "2023-06-04T10:22:59.063Z",
+        "to": "2023-07-04T10:22:59.063Z"
     },
     "language": {
         "id": "zh-TW",
@@ -123,28 +123,6 @@
         },
         {
             "user": {
-                "id": "15345080",
-                "username": "Allen0411",
-                "fullName": "Allen0411",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15345080/medium/376644622dc7b90e49b5aecb629d90e1.png",
-                "joined": "2022-07-06 11:21:32"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1038,
-            "target": 1772,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14504298",
                 "username": "SiongSng",
                 "fullName": "菘菘 (SiongSng)",
@@ -163,6 +141,28 @@
             "voted": 0,
             "positiveVotes": 1,
             "negativeVotes": 36,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15345080",
+                "username": "Allen0411",
+                "fullName": "Allen0411",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15345080/medium/376644622dc7b90e49b5aecb629d90e1.png",
+                "joined": "2022-07-06 11:21:32"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 723,
+            "target": 1164,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
             "winning": 0
         },
         {
