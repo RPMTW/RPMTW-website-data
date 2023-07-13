@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-06-13T08:24:41.243Z",
-        "to": "2023-07-13T08:24:41.245Z"
+        "from": "2023-06-13T09:19:20.531Z",
+        "to": "2023-07-13T09:19:20.532Z"
     },
     "language": {
         "id": "zh-TW",
@@ -247,6 +247,28 @@
             ],
             "translated": 36,
             "target": 71,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15916883",
+                "username": "archon1024",
+                "fullName": "Archon (archon1024)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15916883/medium/4062dd1bba7ef84f2c778b9a1e40989e.png",
+                "joined": "2023-07-13 04:50:30"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 26,
+            "target": 38,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
