@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-06-15T11:15:01.710Z",
-        "to": "2023-07-15T11:15:01.710Z"
+        "from": "2023-06-15T12:36:24.371Z",
+        "to": "2023-07-15T12:36:24.372Z"
     },
     "language": {
         "id": "zh-TW",
@@ -27,28 +27,6 @@
             ],
             "translated": 1253,
             "target": 2189,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15586807",
-                "username": "LeonWalker",
-                "fullName": "LeonWalker",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15586807/medium/8f7b0d7d9d0a6ec990e4cc2505ce9692_default.png",
-                "joined": "2022-12-21 07:36:56"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 748,
-            "target": 1331,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -117,6 +95,28 @@
             "target": 943,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15586807",
+                "username": "LeonWalker",
+                "fullName": "LeonWalker",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15586807/medium/8f7b0d7d9d0a6ec990e4cc2505ce9692_default.png",
+                "joined": "2022-12-21 07:36:56"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 475,
+            "target": 803,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
