@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-06-27T19:13:13.591Z",
-        "to": "2023-07-27T19:13:13.605Z"
+        "from": "2023-06-27T20:17:13.624Z",
+        "to": "2023-07-27T20:17:13.626Z"
     },
     "language": {
         "id": "zh-TW",
@@ -137,6 +137,28 @@
             ],
             "translated": 78,
             "target": 132,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15938523",
+                "username": "lucius1750",
+                "fullName": "Lucius Chiu (lucius1750)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15938523/medium/77af6fbcb25c53b72954afb8218cb7a4.png",
+                "joined": "2023-07-27 15:31:14"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 53,
+            "target": 89,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
