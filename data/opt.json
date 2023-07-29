@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-06-29T13:17:51.002Z",
-        "to": "2023-07-29T13:17:51.003Z"
+        "from": "2023-06-29T14:13:41.234Z",
+        "to": "2023-07-29T14:13:41.236Z"
     },
     "language": {
         "id": "zh-TW",
@@ -115,6 +115,28 @@
             ],
             "translated": 227,
             "target": 372,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14963657",
+                "username": "HiHITW",
+                "fullName": "HiHiTW (HiHITW)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14963657/medium/3be87e2a6ebc3f9adeffba055505688b_default.png",
+                "joined": "2022-11-09 08:08:25"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 87,
+            "target": 142,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -272,6 +294,28 @@
             "approved": 0,
             "voted": 3,
             "positiveVotes": 1,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15939889",
+                "username": "yahsunhsun",
+                "fullName": "夜勳勳 (yahsunhsun)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15939889/medium/ab4bacf3047bb172312fc9481438f30d.png",
+                "joined": "2023-07-29 09:45:22"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 8,
+            "target": 5,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
