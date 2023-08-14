@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-07-14T16:19:47.525Z",
-        "to": "2023-08-14T16:19:47.526Z"
+        "from": "2023-07-14T17:15:20.374Z",
+        "to": "2023-08-14T17:15:20.375Z"
     },
     "language": {
         "id": "zh-TW",
@@ -447,6 +447,28 @@
             "target": 3,
             "approved": 0,
             "voted": 2,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15965999",
+                "username": "y0972439898",
+                "fullName": "簡呈郡 (y0972439898)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15965999/medium/77d1def940650b5a500995d733997562.jpeg",
+                "joined": "2023-08-14 12:53:30"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 2,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
