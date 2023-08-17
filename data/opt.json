@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-07-17T03:16:28.912Z",
-        "to": "2023-08-17T03:16:28.913Z"
+        "from": "2023-07-17T04:19:19.800Z",
+        "to": "2023-08-17T04:19:19.812Z"
     },
     "language": {
         "id": "zh-TW",
@@ -277,28 +277,6 @@
         },
         {
             "user": {
-                "id": "15090475",
-                "username": "o5239602",
-                "fullName": "煎茶果 (o5239602)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15090475/medium/8168c36caa5f38ccd0b73847ee6ceb82.jpeg",
-                "joined": "2022-01-12 01:22:01"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 8,
-            "target": 16,
-            "approved": 0,
-            "voted": 3,
-            "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15924043",
                 "username": "jason299792458",
                 "fullName": "jason299792458",
@@ -338,6 +316,28 @@
             "approved": 0,
             "voted": 3,
             "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15090475",
+                "username": "o5239602",
+                "fullName": "煎茶果 (o5239602)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15090475/medium/8168c36caa5f38ccd0b73847ee6ceb82.jpeg",
+                "joined": "2022-01-12 01:22:01"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 6,
+            "approved": 0,
+            "voted": 3,
+            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         },
