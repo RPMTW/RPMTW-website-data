@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-07-18T06:21:01.474Z",
-        "to": "2023-08-18T06:21:01.486Z"
+        "from": "2023-07-18T07:14:28.556Z",
+        "to": "2023-08-18T07:14:28.557Z"
     },
     "language": {
         "id": "zh-TW",
@@ -91,8 +91,8 @@
                     "name": "Chinese Traditional"
                 }
             ],
-            "translated": 363,
-            "target": 576,
+            "translated": 567,
+            "target": 873,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -338,28 +338,6 @@
             "approved": 0,
             "voted": 3,
             "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15923877",
-                "username": "Taylor_Bacon",
-                "fullName": "Taylor_ Bacon (Taylor_Bacon)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15923877/medium/e242e579c864fcbea93f5018464ee065.png",
-                "joined": "2023-07-18 02:32:42"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3,
-            "target": 4,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
