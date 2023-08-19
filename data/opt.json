@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-07-19T04:19:00.920Z",
-        "to": "2023-08-19T04:19:00.921Z"
+        "from": "2023-07-19T05:14:34.141Z",
+        "to": "2023-08-19T05:14:34.144Z"
     },
     "language": {
         "id": "zh-TW",
@@ -29,7 +29,7 @@
             "target": 2118,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 1,
+            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -271,28 +271,6 @@
             "target": 11,
             "approved": 0,
             "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15916801",
-                "username": "starlight06270",
-                "fullName": "Byron (starlight06270)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15916801/medium/4c39844b4e3f3c83fe0baf1e83fe9ecf.png",
-                "joined": "2023-07-19 00:43:00"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 7,
-            "target": 21,
-            "approved": 0,
-            "voted": 3,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
