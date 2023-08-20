@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-07-20T13:16:43.629Z",
-        "to": "2023-08-20T13:16:43.641Z"
+        "from": "2023-07-20T14:13:14.493Z",
+        "to": "2023-08-20T14:13:14.494Z"
     },
     "language": {
         "id": "zh-TW",
@@ -299,28 +299,6 @@
         },
         {
             "user": {
-                "id": "15924905",
-                "username": "YukiMAMA0v0",
-                "fullName": "包子店小雪 (YukiMAMA0v0)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15924905/medium/385c4899ac4a97f6d935d299577a23ec.jpeg",
-                "joined": "2023-07-20 09:17:58"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 3,
-            "target": 5,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15943899",
                 "username": "zacky09044",
                 "fullName": "lai Zack (zacky09044)",
@@ -379,6 +357,28 @@
             ],
             "translated": 2,
             "target": 2,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15924905",
+                "username": "YukiMAMA0v0",
+                "fullName": "包子店小雪 (YukiMAMA0v0)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15924905/medium/385c4899ac4a97f6d935d299577a23ec.jpeg",
+                "joined": "2023-07-20 09:17:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1,
+            "target": 3,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
