@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-07-25T06:21:51.126Z",
-        "to": "2023-08-25T06:21:51.128Z"
+        "from": "2023-07-25T07:15:23.160Z",
+        "to": "2023-08-25T07:15:23.173Z"
     },
     "language": {
         "id": "zh-TW",
@@ -304,6 +304,28 @@
                 "fullName": "lai Zack (zacky09044)",
                 "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15943899/medium/45d17a88ba86ca92ee8c5534815d5ca5.png",
                 "joined": "2023-07-31 09:49:40"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 3,
+            "target": 6,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14918859",
+                "username": "jssuckk",
+                "fullName": "TW Jssuckk (jssuckk)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14918859/medium/6f0e69e02e1c288dd0bd0fe9bbc0a43d.png",
+                "joined": "2023-08-25 03:04:43"
             },
             "languages": [
                 {
