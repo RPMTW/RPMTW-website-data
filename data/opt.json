@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-07-25T11:13:27.817Z",
-        "to": "2023-08-25T11:13:27.828Z"
+        "from": "2023-07-25T12:31:58.460Z",
+        "to": "2023-08-25T12:31:58.462Z"
     },
     "language": {
         "id": "zh-TW",
@@ -35,28 +35,6 @@
         },
         {
             "user": {
-                "id": "14889234",
-                "username": "frank1320",
-                "fullName": "Frank Cheung (frank1320)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14889234/medium/5e372d79fcef6bd00c364d7ee982b965.jpg",
-                "joined": "2021-11-30 23:16:11"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1015,
-            "target": 1853,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "14848632",
                 "username": "GEBYMO_DJV",
                 "fullName": "GEBYMO_DJV",
@@ -71,6 +49,28 @@
             ],
             "translated": 668,
             "target": 1040,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14889234",
+                "username": "frank1320",
+                "fullName": "Frank Cheung (frank1320)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14889234/medium/5e372d79fcef6bd00c364d7ee982b965.jpg",
+                "joined": "2021-11-30 23:16:11"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 523,
+            "target": 856,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
