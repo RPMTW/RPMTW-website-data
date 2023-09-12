@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-08-12T06:21:59.578Z",
-        "to": "2023-09-12T06:21:59.579Z"
+        "from": "2023-08-12T07:15:28.577Z",
+        "to": "2023-09-12T07:15:28.579Z"
     },
     "language": {
         "id": "zh-TW",
@@ -189,28 +189,6 @@
         },
         {
             "user": {
-                "id": "15962489",
-                "username": "Quincy_Hsu",
-                "fullName": "Quincy_Hsu",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15962489/medium/6ee87f9986831417f17bd6c341882d20_default.png",
-                "joined": "2023-08-12 02:53:46"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 19,
-            "target": 30,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15978377",
                 "username": "HCY2112",
                 "fullName": "謝承洋 (HCY2112)",
@@ -225,6 +203,28 @@
             ],
             "translated": 10,
             "target": 16,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15962489",
+                "username": "Quincy_Hsu",
+                "fullName": "Quincy_Hsu",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15962489/medium/6ee87f9986831417f17bd6c341882d20_default.png",
+                "joined": "2023-08-12 02:53:46"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 9,
+            "target": 15,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
