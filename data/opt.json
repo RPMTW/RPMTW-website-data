@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-08-28T17:15:33.389Z",
-        "to": "2023-09-28T17:15:33.390Z"
+        "from": "2023-08-28T18:22:17.605Z",
+        "to": "2023-09-28T18:22:17.606Z"
     },
     "language": {
         "id": "zh-TW",
@@ -183,6 +183,28 @@
             "target": 24,
             "approved": 0,
             "voted": 3,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "16030190",
+                "username": "idokow",
+                "fullName": "陳有朋 (idokow)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16030190/medium/7eb5148427d6524daa1edc58dc43f149.jpeg",
+                "joined": "2023-09-28 13:27:25"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 5,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
