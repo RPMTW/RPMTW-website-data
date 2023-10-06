@@ -3,36 +3,14 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-09-06T09:17:07.527Z",
-        "to": "2023-10-06T09:17:07.528Z"
+        "from": "2023-09-06T10:18:53.747Z",
+        "to": "2023-10-06T10:18:53.748Z"
     },
     "language": {
         "id": "zh-TW",
         "name": "Chinese Traditional"
     },
     "data": [
-        {
-            "user": {
-                "id": "15994209",
-                "username": "SinGu_s9",
-                "fullName": "SinGu_s9",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15994209/medium/b82a72ed98c19368f07ff59b11d055d6_default.png",
-                "joined": "2023-09-03 23:15:29"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 1255,
-            "target": 2116,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
         {
             "user": {
                 "id": "14815244",
@@ -95,6 +73,28 @@
             "target": 1035,
             "approved": 0,
             "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15994209",
+                "username": "SinGu_s9",
+                "fullName": "SinGu_s9",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15994209/medium/b82a72ed98c19368f07ff59b11d055d6_default.png",
+                "joined": "2023-09-03 23:15:29"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 414,
+            "target": 685,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
