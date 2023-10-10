@@ -3,14 +3,36 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-09-10T08:22:02.234Z",
-        "to": "2023-10-10T08:22:02.235Z"
+        "from": "2023-09-10T09:17:16.272Z",
+        "to": "2023-10-10T09:17:16.273Z"
     },
     "language": {
         "id": "zh-TW",
         "name": "Chinese Traditional"
     },
     "data": [
+        {
+            "user": {
+                "id": "15913919",
+                "username": "math_idiot",
+                "fullName": "蘇彥杰 (math_idiot)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15913919/medium/ea24a0163f0dfcc7404a790d59c9fc32.jpeg",
+                "joined": "2023-07-13 04:18:04"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1489,
+            "target": 2708,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
         {
             "user": {
                 "id": "14815244",
