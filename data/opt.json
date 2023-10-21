@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-09-21T05:15:26.895Z",
-        "to": "2023-10-21T05:15:26.896Z"
+        "from": "2023-09-21T06:21:02.899Z",
+        "to": "2023-10-21T06:21:02.946Z"
     },
     "language": {
         "id": "zh-TW",
@@ -247,6 +247,28 @@
             ],
             "translated": 2,
             "target": 5,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "16064058",
+                "username": "kamiyu5958",
+                "fullName": "津句銘言 (kamiyu5958)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16064058/medium/5964702e6f1062b9b4cda66298a8667a.jpeg",
+                "joined": "2023-10-21 02:11:03"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 0,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
