@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-09-22T09:14:49.912Z",
-        "to": "2023-10-22T09:14:49.913Z"
+        "from": "2023-09-22T10:17:02.590Z",
+        "to": "2023-10-22T10:17:02.591Z"
     },
     "language": {
         "id": "zh-TW",
@@ -181,6 +181,28 @@
             ],
             "translated": 209,
             "target": 376,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "16065734",
+                "username": "yoman154",
+                "fullName": "yo man (yoman154)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16065734/medium/d0e0cc5815988f92c1a652be3a96971c.png",
+                "joined": "2023-10-22 05:32:16"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 54,
+            "target": 74,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
