@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-09-24T18:23:02.601Z",
-        "to": "2023-10-24T18:23:02.601Z"
+        "from": "2023-09-24T19:13:25.172Z",
+        "to": "2023-10-24T19:13:25.172Z"
     },
     "language": {
         "id": "zh-TW",
@@ -167,6 +167,28 @@
         },
         {
             "user": {
+                "id": "15930929",
+                "username": "Ylite-cola",
+                "fullName": "Ylite-cola",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15930929/medium/a9e1965c3f6476313a8a06a6c75863ed.png",
+                "joined": "2023-07-22 13:16:22"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 94,
+            "target": 166,
+            "approved": 0,
+            "voted": 4,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15434450",
                 "username": "notlin4",
                 "fullName": "notlin4",
@@ -227,28 +249,6 @@
             "target": 103,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15930929",
-                "username": "Ylite-cola",
-                "fullName": "Ylite-cola",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15930929/medium/a9e1965c3f6476313a8a06a6c75863ed.png",
-                "joined": "2023-07-22 13:16:22"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 19,
-            "target": 27,
-            "approved": 0,
-            "voted": 4,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
