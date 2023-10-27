@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-09-27T04:20:01.603Z",
-        "to": "2023-10-27T04:20:01.604Z"
+        "from": "2023-09-27T05:15:39.104Z",
+        "to": "2023-10-27T05:15:39.105Z"
     },
     "language": {
         "id": "zh-TW",
@@ -139,6 +139,28 @@
             "target": 1277,
             "approved": 0,
             "voted": 23,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "16072998",
+                "username": "quipper",
+                "fullName": "hi creeper (quipper)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16072998/medium/f50e956785ce7dc5408db41d73744f0f.png",
+                "joined": "2023-10-26 13:00:36"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 215,
+            "target": 348,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
