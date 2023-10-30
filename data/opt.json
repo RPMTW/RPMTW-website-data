@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-09-29T23:15:54.094Z",
-        "to": "2023-10-29T23:15:54.094Z"
+        "from": "2023-09-30T01:15:51.093Z",
+        "to": "2023-10-30T01:15:51.095Z"
     },
     "language": {
         "id": "zh-TW",
@@ -203,6 +203,28 @@
             ],
             "translated": 54,
             "target": 74,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "16076996",
+                "username": "OxyOksirotl",
+                "fullName": "OxyOksirotl",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16076996/medium/f941a66e57fd223f68f326e375a6adcb.jpg",
+                "joined": "2023-10-29 04:16:44"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 52,
+            "target": 117,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
