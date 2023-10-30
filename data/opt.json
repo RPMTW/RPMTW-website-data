@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-09-30T03:17:58.803Z",
-        "to": "2023-10-30T03:17:58.819Z"
+        "from": "2023-09-30T04:20:22.758Z",
+        "to": "2023-10-30T04:20:22.758Z"
     },
     "language": {
         "id": "zh-TW",
@@ -145,6 +145,28 @@
         },
         {
             "user": {
+                "id": "16076996",
+                "username": "OxyOksirotl",
+                "fullName": "OxyOksirotl",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16076996/medium/f941a66e57fd223f68f326e375a6adcb.jpg",
+                "joined": "2023-10-29 04:16:44"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 195,
+            "target": 360,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15930929",
                 "username": "Ylite-cola",
                 "fullName": "Ylite-cola",
@@ -161,28 +183,6 @@
             "target": 211,
             "approved": 0,
             "voted": 8,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "16076996",
-                "username": "OxyOksirotl",
-                "fullName": "OxyOksirotl",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16076996/medium/f941a66e57fd223f68f326e375a6adcb.jpg",
-                "joined": "2023-10-29 04:16:44"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 99,
-            "target": 203,
-            "approved": 0,
-            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
