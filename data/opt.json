@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-10-11T19:12:36.579Z",
-        "to": "2023-11-11T19:12:36.580Z"
+        "from": "2023-10-11T20:16:44.618Z",
+        "to": "2023-11-11T20:16:44.619Z"
     },
     "language": {
         "id": "zh-TW",
@@ -381,6 +381,28 @@
             "target": 2,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "16098784",
+                "username": "jonnytang",
+                "fullName": "唐珩鈞 (jonnytang)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16098784/medium/05e05cd70a335d39623fcd759bd17a9e.png",
+                "joined": "2023-11-11 14:51:11"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 4,
+            "approved": 0,
+            "voted": 1,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
