@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-10-27T13:21:42.038Z",
-        "to": "2023-11-27T13:21:42.053Z"
+        "from": "2023-10-27T14:17:34.566Z",
+        "to": "2023-11-27T14:17:34.566Z"
     },
     "language": {
         "id": "zh-TW",
@@ -57,28 +57,6 @@
         },
         {
             "user": {
-                "id": "16072998",
-                "username": "quipper",
-                "fullName": "hi creeper (quipper)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16072998/medium/f50e956785ce7dc5408db41d73744f0f.png",
-                "joined": "2023-10-26 13:00:36"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 239,
-            "target": 447,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "15829085",
                 "username": "steven1999111",
                 "fullName": "BadBear (steven1999111)",
@@ -93,6 +71,28 @@
             ],
             "translated": 198,
             "target": 292,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "16072998",
+                "username": "quipper",
+                "fullName": "hi creeper (quipper)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16072998/medium/f50e956785ce7dc5408db41d73744f0f.png",
+                "joined": "2023-10-26 13:00:36"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 191,
+            "target": 347,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
