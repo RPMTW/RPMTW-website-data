@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-11-01T08:22:47.778Z",
-        "to": "2023-12-01T08:22:47.778Z"
+        "from": "2023-11-01T09:17:40.967Z",
+        "to": "2023-12-01T09:17:40.968Z"
     },
     "language": {
         "id": "zh-TW",
@@ -145,28 +145,6 @@
         },
         {
             "user": {
-                "id": "16081764",
-                "username": "JaiDuo",
-                "fullName": "JaiDuo",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16081764/medium/add5757a217269dce0a8d89eea6fd541_default.png",
-                "joined": "2023-11-01 04:45:58"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 5,
-            "target": 11,
-            "approved": 0,
-            "voted": 10,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "16088678",
                 "username": "bravehuang0917",
                 "fullName": "黃柏睿 (bravehuang0917)",
@@ -205,6 +183,28 @@
             "target": 8,
             "approved": 0,
             "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "16081764",
+                "username": "JaiDuo",
+                "fullName": "JaiDuo",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16081764/medium/add5757a217269dce0a8d89eea6fd541_default.png",
+                "joined": "2023-11-01 04:45:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4,
+            "target": 10,
+            "approved": 0,
+            "voted": 9,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
