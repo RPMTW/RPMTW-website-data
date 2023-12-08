@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-11-08T14:16:46.013Z",
-        "to": "2023-12-08T14:16:46.030Z"
+        "from": "2023-11-08T15:18:27.936Z",
+        "to": "2023-12-08T15:18:27.937Z"
     },
     "language": {
         "id": "zh-TW",
@@ -73,6 +73,28 @@
             "target": 114,
             "approved": 0,
             "voted": 38,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14796570",
+                "username": "yekongyt",
+                "fullName": "夜空 (yekongyt)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14796570/medium/d9334ccba6a24a852f236f1deef93ac3.jpeg",
+                "joined": "2021-06-30 00:41:48"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 66,
+            "target": 126,
+            "approved": 0,
+            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
