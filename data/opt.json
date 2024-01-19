@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-12-19T16:24:00.106Z",
-        "to": "2024-01-19T16:24:00.107Z"
+        "from": "2023-12-19T17:16:25.876Z",
+        "to": "2024-01-19T17:16:25.877Z"
     },
     "language": {
         "id": "zh-TW",
@@ -71,6 +71,28 @@
             ],
             "translated": 1,
             "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "16194958",
+                "username": "black911206",
+                "fullName": "李承翰 (black911206)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16194958/medium/c3ce93c89283acc4e90d3916bb71a962.png",
+                "joined": "2024-01-19 12:12:37"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1,
+            "target": 2,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
