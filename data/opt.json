@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2023-12-28T05:16:28.442Z",
-        "to": "2024-01-28T05:16:28.443Z"
+        "from": "2023-12-28T06:20:25.602Z",
+        "to": "2024-01-28T06:20:25.621Z"
     },
     "language": {
         "id": "zh-TW",
@@ -32,6 +32,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "14847496",
+                "username": "StarsShine11904",
+                "fullName": "Stars Shine (StarsShine11904)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14847496/medium/1651c9cc3f3a0164b71112220bdf6abf.jpg",
+                "joined": "2021-10-19 10:08:54"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 26,
+            "target": 59,
+            "approved": 14,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 4
         },
         {
             "user": {
