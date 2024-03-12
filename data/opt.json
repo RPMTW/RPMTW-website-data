@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2024-02-12T05:18:09.981Z",
-        "to": "2024-03-12T05:18:09.982Z"
+        "from": "2024-02-12T06:22:00.023Z",
+        "to": "2024-03-12T06:22:00.024Z"
     },
     "language": {
         "id": "zh-TW",
@@ -49,6 +49,28 @@
             ],
             "translated": 6,
             "target": 8,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "16275536",
+                "username": "Night__wind",
+                "fullName": "暗月夜風 (Night__wind)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16275536/medium/788267e5078a1e0ee0dc17e121a9b5a1.jpeg",
+                "joined": "2024-03-12 01:31:29"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4,
+            "target": 7,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
