@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2024-02-27T03:18:51.079Z",
-        "to": "2024-03-27T03:18:51.080Z"
+        "from": "2024-02-27T04:22:02.148Z",
+        "to": "2024-03-27T04:22:02.149Z"
     },
     "language": {
         "id": "zh-TW",
@@ -27,6 +27,28 @@
             ],
             "translated": 79,
             "target": 145,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14883742",
+                "username": "The_death_god",
+                "fullName": "XD和倉鼠的日常 (The_death_god)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14883742/medium/6f722bdc8e9eae7dabacefccacacb6aa.jpeg",
+                "joined": "2024-03-26 23:46:00"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 50,
+            "target": 106,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
