@@ -3,8 +3,8 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2024-03-02T23:16:13.786Z",
-        "to": "2024-03-31T23:16:13.787Z"
+        "from": "2024-03-01T01:21:39.187Z",
+        "to": "2024-04-01T01:21:39.210Z"
     },
     "language": {
         "id": "zh-TW",
@@ -57,6 +57,28 @@
         },
         {
             "user": {
+                "id": "15424866",
+                "username": "p14stic_game",
+                "fullName": "p14stic_game",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15424866/medium/54791384a3d924ad279cc3f9c5984c7e_default.png",
+                "joined": "2024-03-02 05:05:30"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 6,
+            "target": 8,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "16275536",
                 "username": "Night__wind",
                 "fullName": "暗月夜風 (Night__wind)",
@@ -71,6 +93,28 @@
             ],
             "translated": 4,
             "target": 7,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "16258906",
+                "username": "stu99623",
+                "fullName": "小妖怪 (stu99623)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16258906/medium/39e81d3c5ad335fff1edbd70ebe3b0f3.jpeg",
+                "joined": "2024-03-02 01:13:39"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 5,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
