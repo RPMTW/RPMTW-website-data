@@ -3,36 +3,14 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2024-03-27T03:20:51.236Z",
-        "to": "2024-04-27T03:20:51.237Z"
+        "from": "2024-03-27T04:20:08.184Z",
+        "to": "2024-04-27T04:20:08.185Z"
     },
     "language": {
         "id": "zh-TW",
         "name": "Chinese Traditional"
     },
     "data": [
-        {
-            "user": {
-                "id": "14883742",
-                "username": "The_death_god",
-                "fullName": "XD和倉鼠的日常 (The_death_god)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14883742/medium/6f722bdc8e9eae7dabacefccacacb6aa.jpeg",
-                "joined": "2024-03-26 23:46:00"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 51,
-            "target": 108,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
         {
             "user": {
                 "id": "16335366",
@@ -84,6 +62,28 @@
                 "fullName": "Yefim618",
                 "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15060983/medium/e8380664c0b225352e03e36ea2a2ec73_default.png",
                 "joined": "2021-12-13 04:44:31"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 1,
+            "target": 2,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "14883742",
+                "username": "The_death_god",
+                "fullName": "XD和倉鼠的日常 (The_death_god)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14883742/medium/6f722bdc8e9eae7dabacefccacacb6aa.jpeg",
+                "joined": "2024-03-26 23:46:00"
             },
             "languages": [
                 {
