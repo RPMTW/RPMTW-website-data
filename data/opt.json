@@ -13,6 +13,28 @@
     "data": [
         {
             "user": {
+                "id": "16357426",
+                "username": "Hi_Hins",
+                "fullName": "Hi_Hins",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16357426/medium/6c71557c6d62cece4a497aa9e5c984d6_default.png",
+                "joined": "2024-05-05 10:48:35"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 15,
+            "target": 26,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "16335366",
                 "username": "yuzu950613",
                 "fullName": "余柚子 (yuzu950613)",
