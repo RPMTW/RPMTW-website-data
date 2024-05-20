@@ -35,28 +35,6 @@
         },
         {
             "user": {
-                "id": "16335366",
-                "username": "yuzu950613",
-                "fullName": "余柚子 (yuzu950613)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16335366/medium/9ba827ffb108bfe01a7e8d29ba61abef.png",
-                "joined": "2024-04-20 05:54:13"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 4,
-            "target": 10,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "16346190",
                 "username": "rainbowneko_2631",
                 "fullName": "rainbowneko _2634 (rainbowneko_2631)",
@@ -71,6 +49,28 @@
             ],
             "translated": 3,
             "target": 5,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "16335366",
+                "username": "yuzu950613",
+                "fullName": "余柚子 (yuzu950613)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16335366/medium/9ba827ffb108bfe01a7e8d29ba61abef.png",
+                "joined": "2024-04-20 05:54:13"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 4,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
