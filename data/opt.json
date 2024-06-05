@@ -3,35 +3,11 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2024-05-05",
-        "to": "2024-06-05"
+        "from": "2024-05-06",
+        "to": "2024-06-06"
     },
     "language": {
         "id": "zh-TW",
         "name": "Chinese Traditional"
-    },
-    "data": [
-        {
-            "user": {
-                "id": "16357426",
-                "username": "Hi_Hins",
-                "fullName": "Hi_Hins",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16357426/medium/6c71557c6d62cece4a497aa9e5c984d6_default.png",
-                "joined": "2024-05-05 10:48:35"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 109,
-            "target": 193,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        }
-    ]
+    }
 }
