@@ -13,6 +13,28 @@
     "data": [
         {
             "user": {
+                "id": "16420898",
+                "username": "zxcasdqwe137o28",
+                "fullName": "xc z (zxcasdqwe137o28)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16420898/medium/cd7a87c63e5cc957ca1641f807dfd22e.png",
+                "joined": "2024-06-14 09:05:02"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 16,
+            "target": 20,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "16411194",
                 "username": "a139000470",
                 "fullName": "大頭 (a139000470)",
