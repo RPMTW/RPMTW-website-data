@@ -76,6 +76,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "16434331",
+                "username": "Iamapolarbear",
+                "fullName": "Iamapolarbear",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16434331/medium/b195c093a7403c099f28f33183578923_default.png",
+                "joined": "2024-06-22 06:12:47"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 2,
+            "target": 4,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
         }
     ]
 }
