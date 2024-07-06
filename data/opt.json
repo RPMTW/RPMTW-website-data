@@ -207,7 +207,7 @@
             "target": 0,
             "approved": 0,
             "voted": 0,
-            "positiveVotes": 2,
+            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         },
@@ -242,28 +242,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 1,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "16405490",
-                "username": "NSlovemiku",
-                "fullName": "NSlovemiku 1769 (NSlovemiku)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16405490/medium/4c16a1a016e6deea2116aafecea17b7a.jpeg",
-                "joined": "2024-06-06 02:04:33"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
         },
