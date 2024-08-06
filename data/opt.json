@@ -13,6 +13,28 @@
     "data": [
         {
             "user": {
+                "id": "16311664",
+                "username": "perry.10.23.2008",
+                "fullName": "睡狗 (perry.10.23.2008)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16311664/medium/62080afb7c794a70d60cccd508c67eb6.jpeg",
+                "joined": "2024-04-04 06:00:21"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 9,
+            "target": 3,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "16476627",
                 "username": "sogoodsod",
                 "fullName": "小bang狗 (sogoodsod)",
