@@ -13,6 +13,28 @@
     "data": [
         {
             "user": {
+                "id": "16548599",
+                "username": "brian.bm.1216",
+                "fullName": "黃柏淵 (brian.bm.1216)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16548599/medium/bbc1c2eec5793d312b60c322aefa1d2c.png",
+                "joined": "2024-08-28 03:47:23"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 296,
+            "target": 474,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15178690",
                 "username": "Kindbin",
                 "fullName": "Kindbin",
