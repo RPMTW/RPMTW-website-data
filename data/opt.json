@@ -13,28 +13,6 @@
     "data": [
         {
             "user": {
-                "id": "16548599",
-                "username": "brian.bm.1216",
-                "fullName": "bm (brian.bm.1216)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16548599/medium/b296bfd7b8d3ac8215a3a78f19ccca3e.png",
-                "joined": "2024-08-28 03:47:23"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 87,
-            "target": 123,
-            "approved": 0,
-            "voted": 1,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
                 "id": "16582789",
                 "username": "NekoBAo",
                 "fullName": "貓阿包 (NekoBAo)",
@@ -74,23 +52,6 @@
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "14036188",
-                "username": "chesterccj305",
-                "fullName": "舞秋風 (chesterccj305)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/14036188/medium/d750d1c59d600f884737c94a369d4787.gif",
-                "joined": "2021-03-01 15:40:11"
-            },
-            "languages": [],
-            "translated": 0,
-            "target": 0,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 1,
             "negativeVotes": 0,
             "winning": 0
         }
