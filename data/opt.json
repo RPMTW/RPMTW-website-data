@@ -54,6 +54,28 @@
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
+        },
+        {
+            "user": {
+                "id": "16610747",
+                "username": "fat456811",
+                "fullName": "jon RX (fat456811)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16610747/medium/ac16795ecc6b29c16e76fe839b5161f1.png",
+                "joined": "2024-10-04 21:21:26"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
         }
     ]
 }
