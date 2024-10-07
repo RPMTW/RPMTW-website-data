@@ -13,6 +13,28 @@
     "data": [
         {
             "user": {
+                "id": "15303984",
+                "username": "kill_fox",
+                "fullName": "kill_fox",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15303984/medium/900166cf60c7d71b5db2575dd4a024b0_default.png",
+                "joined": "2023-11-05 04:10:12"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 73,
+            "target": 140,
+            "approved": 0,
+            "voted": 1,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "16613513",
                 "username": "samsung616355",
                 "fullName": "林華薪 (samsung616355)",
@@ -27,28 +49,6 @@
             ],
             "translated": 10,
             "target": 16,
-            "approved": 0,
-            "voted": 0,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15303984",
-                "username": "kill_fox",
-                "fullName": "kill_fox",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15303984/medium/900166cf60c7d71b5db2575dd4a024b0_default.png",
-                "joined": "2023-11-05 04:10:12"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 4,
-            "target": 10,
             "approved": 0,
             "voted": 0,
             "positiveVotes": 0,
@@ -97,6 +97,23 @@
             "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
+                "id": "15133341",
+                "username": "asd195375",
+                "fullName": "lonely sk (asd195375)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15133341/medium/a98f648b07a2cc8da92039e8a88d9750.png",
+                "joined": "2022-02-03 07:48:26"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 1,
             "winning": 0
         },
         {
