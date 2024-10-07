@@ -35,6 +35,28 @@
         },
         {
             "user": {
+                "id": "15303984",
+                "username": "kill_fox",
+                "fullName": "kill_fox",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15303984/medium/900166cf60c7d71b5db2575dd4a024b0_default.png",
+                "joined": "2023-11-05 04:10:12"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 4,
+            "target": 10,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "16582789",
                 "username": "NekoBAo",
                 "fullName": "貓阿包 (NekoBAo)",
