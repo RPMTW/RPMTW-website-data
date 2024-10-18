@@ -3,14 +3,36 @@
     "url": "https://translate.rpmtw.com/project/resourcepack-mod-zhtw",
     "unit": "words",
     "dateRange": {
-        "from": "2024-09-18",
-        "to": "2024-10-18"
+        "from": "2024-09-19",
+        "to": "2024-10-19"
     },
     "language": {
         "id": "zh-TW",
         "name": "Chinese Traditional"
     },
     "data": [
+        {
+            "user": {
+                "id": "15476652",
+                "username": "weiwei87",
+                "fullName": "weiwill (weiwei87)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15476652/medium/6caaa699dd0836dcb7337d2371fdce93.png",
+                "joined": "2024-10-18 10:36:15"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 447,
+            "target": 723,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
         {
             "user": {
                 "id": "15303984",
@@ -29,28 +51,6 @@
             "target": 672,
             "approved": 0,
             "voted": 14,
-            "positiveVotes": 0,
-            "negativeVotes": 0,
-            "winning": 0
-        },
-        {
-            "user": {
-                "id": "15476652",
-                "username": "weiwei87",
-                "fullName": "陳子瑋 (weiwei87)",
-                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/15476652/medium/91463d7c3dab5b84dee1c3387e6d665f.jpeg",
-                "joined": "2024-10-18 10:36:15"
-            },
-            "languages": [
-                {
-                    "id": "zh-TW",
-                    "name": "Chinese Traditional"
-                }
-            ],
-            "translated": 324,
-            "target": 527,
-            "approved": 0,
-            "voted": 0,
             "positiveVotes": 0,
             "negativeVotes": 0,
             "winning": 0
