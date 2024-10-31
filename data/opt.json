@@ -13,6 +13,28 @@
     "data": [
         {
             "user": {
+                "id": "16654703",
+                "username": "cassie_owo",
+                "fullName": "cassie chan (cassie_owo)",
+                "avatarUrl": "https://crowdin-static.downloads.crowdin.com/avatar/16654703/medium/6355a1ee5dd58fe67543ca09ae8a771e.jpeg",
+                "joined": "2024-10-31 16:35:58"
+            },
+            "languages": [
+                {
+                    "id": "zh-TW",
+                    "name": "Chinese Traditional"
+                }
+            ],
+            "translated": 5481,
+            "target": 2,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        },
+        {
+            "user": {
                 "id": "15476652",
                 "username": "weiwei87",
                 "fullName": "weiwill (weiwei87)",
