@@ -2,8 +2,8 @@ name: Get Website Data
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/60 * * * *"
+#  schedule:
+#    - cron: "*/60 * * * *"
 env:
   CrowdinToken: ${{ secrets.CROWDINTOKEN }}
 jobs:
